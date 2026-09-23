@@ -1,36 +1,37 @@
-from urgency_model import predict_urgency
 from fit_score import calculate_fit_score
 
-print("----- AI MODULE TEST -----")
 
-# Step 1: Predict urgency
-task = {
-    "severity": 8,
-    "population_affected": 5000,
-    "hours_since_reported": 6
-}
+def test_fit_score():
 
-urgency = predict_urgency(task)
+    volunteer = {
+        "id": "VOL-0001",
+        "name": "Test Volunteer",
+        "location": "Nagpur",
+        "skills": "Medical; Food Distribution",
+        "availability": "Available"
+    }
 
-print("Urgency Score :", urgency)
+    task = {
+        "id": "TASK-0001",
+        "location": "Nagpur",
+        "task_type": "Medical",
+        "status": "Pending",
+        "severity": 8,
+        "required_skills": "Medical",
+        "population_affected": 300,
+        "urgency_score": 75
+    }
 
-# Step 2: Calculate fit score
-volunteer = {
-    "id": 1,
-    "skill": "Medical",
-    "latitude": 21.1458,
-    "longitude": 79.0882,
-    "available": True
-}
+    score = calculate_fit_score(
+        volunteer,
+        task
+    )
 
-task_for_fit = {
-    "task_id": 101,
-    "required_skill": "Medical",
-    "latitude": 21.1600,
-    "longitude": 79.0900,
-    "urgency_score": urgency
-}
+    print("Fit score:", score)
 
-fit = calculate_fit_score(volunteer, task_for_fit)
+    assert score > 0
 
-print("Volunteer Fit Score :", fit)
+
+if __name__ == "__main__":
+    test_fit_score()
+    print("AI module test passed.")
