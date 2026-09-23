@@ -1,0 +1,1001 @@
+id,location,task_type,status,severity,severity_label,disaster_datetime,required_skills,population_affected,description,urgency_score,urgency_label
+TASK-0001,"Sector 2, Nagpur",Medical,Completed,8,High,21-09-2026 22:18,Medical,227,"Access road partially blocked, factor in extra travel time.",56.8,High
+TASK-0002,Kolhapur Colony,Food,Pending,3,Low,19-08-2026 20:11,Food Distribution,306,Coordinator flagged this as high priority during morning briefing.,41.9,Medium
+TASK-0003,Patna Relief Center,Water & Sanitation,Pending,5,Medium,26-08-2026 21:35,,166,,52.0,High
+TASK-0004,"Muzaffarpur, near bus depot",Shelter,Completed,9,High,14-09-2026 14:59,Shelter Setup; Logistics,281,,78.2,Critical
+TASK-0005,Bongaigaon Ward 6,Medical,Pending,8,High,06-09-2026 18:31,,413,,63.8,High
+TASK-0006,"Giridih, near community hall",Food,Pending,4,Medium,11-09-2026 02:09,Food Distribution; Shelter Setup,202,,53.1,High
+TASK-0007,"Bhusawal, near railway station",Food,Pending,3,Low,14-08-2026 11:47,Food Distribution,72,Elderly and children reported among the affected group.,41.7,Medium
+TASK-0008,"Old Town, Chaudry Path",Medical,Pending,4,Medium,03-09-2026 21:03,Medical; Logistics,172,,49.2,Medium
+TASK-0009,"Nadiad, near community hall",Food,Pending,7,High,18-08-2026 07:51,,293,,63.7,High
+TASK-0010,"Old Town, Bassi Road",Food,Pending,1,Low,23-08-2026 08:24,Food Distribution,72,,33.9,Medium
+TASK-0011,"Old Town, Radhakrishnan Zila",Medical,Pending,9,High,15-09-2026 05:52,Medical,356,,77.7,Critical
+TASK-0012,"Sector 2, Suryapet",Medical,Completed,8,High,01-09-2026 03:19,Medical; Logistics,215,,63.5,High
+TASK-0013,Coimbatore Colony,Logistics,Pending,5,Medium,20-09-2026 05:25,Logistics,111,,46.1,Medium
+TASK-0014,"Vijayawada, near railway station",Food,Completed,3,Low,20-08-2026 00:03,Food Distribution,102,,31.9,Medium
+TASK-0015,"Old Town, Patla Chowk",Medical,Pending,5,Medium,27-08-2026 14:25,Medical,262,Coordinator flagged this as high priority during morning briefing.,55.5,High
+TASK-0016,Uluberia Ward 9,Food,Pending,7,High,01-09-2026 06:48,Food Distribution,180,"Local volunteers already on scene, coordination needed only.",62.2,High
+TASK-0017,Madurai School Camp,Medical,Pending,9,High,07-09-2026 06:01,Medical,430,,75.3,Critical
+TASK-0018,Ujjain Ward 4,Logistics,Assigned,6,Medium,18-09-2026 09:39,,321,,61.1,High
+TASK-0019,Proddatur Colony,Shelter,Pending,7,High,29-08-2026 18:33,Shelter Setup; Logistics,331,,66.4,High
+TASK-0020,Berhampur School Camp,Search & Rescue,Pending,8,High,09-08-2026 12:47,Search & Rescue,451,,72.1,High
+TASK-0021,"Sector 12, Agartala",Logistics,Pending,3,Low,29-08-2026 16:47,Logistics; Food Distribution,279,"Local volunteers already on scene, coordination needed only.",47.9,Medium
+TASK-0022,"Old Town, Randhawa Chowk",Food,Pending,3,Low,20-09-2026 06:10,,144,,37.5,Medium
+TASK-0023,Asansol Relief Center,Logistics,Pending,1,Low,30-08-2026 13:59,Logistics; Medical,74,,31.3,Medium
+TASK-0024,Kishanganj School Camp,Medical,Completed,7,High,22-09-2026 22:50,Medical,292,,48.8,Medium
+TASK-0025,Ballia School Camp,Search & Rescue,Completed,9,High,16-09-2026 04:42,Search & Rescue,272,,74.1,High
+TASK-0026,"Sector 2, Durgapur",Water & Sanitation,Completed,8,High,11-09-2026 08:08,Water & Sanitation,346,Reported via helpline; awaiting on-ground confirmation.,69.8,High
+TASK-0027,Nashik Colony,Shelter,Pending,6,Medium,13-08-2026 04:08,Shelter Setup; Logistics,407,,66.3,High
+TASK-0028,"Bhusawal, near community hall",Medical,Completed,7,High,29-08-2026 06:26,,409,"Access road partially blocked, factor in extra travel time.",66.5,High
+TASK-0029,Eluru Ward 1,Food,Pending,8,High,03-09-2026 19:34,,291,,71.6,High
+TASK-0030,Begusarai Colony,Water & Sanitation,Assigned,9,High,28-08-2026 21:28,Water & Sanitation,343,,72.0,High
+TASK-0031,Mau Colony,Medical,Pending,8,High,08-09-2026 06:10,Medical,364,,69.9,High
+TASK-0032,Sangli-Miraj & Kupwad Colony,Medical,Pending,7,High,14-09-2026 07:01,Medical,336,,62.8,High
+TASK-0033,Orai Relief Center,Water & Sanitation,Completed,6,Medium,10-09-2026 16:08,Water & Sanitation,224,,54.7,High
+TASK-0034,Bihar Sharif School Camp,Water & Sanitation,Completed,7,High,27-08-2026 05:24,Water & Sanitation; Logistics,101,Coordinator flagged this as high priority during morning briefing.,57.6,High
+TASK-0035,"Dindigul, near primary school",Logistics,Assigned,1,Low,23-08-2026 02:47,Logistics; Medical,80,Elderly and children reported among the affected group.,30.8,Medium
+TASK-0036,"Old Town, Suresh Path",Medical,Completed,7,High,09-09-2026 16:59,Medical,594,,73.7,High
+TASK-0037,"Old Town, Mohanty Path",Water & Sanitation,Assigned,4,Medium,26-08-2026 08:42,Water & Sanitation,101,,44.5,Medium
+TASK-0038,"Old Town, Brar Ganj",Shelter,Pending,7,High,13-09-2026 15:35,Shelter Setup; Logistics,455,,68.7,High
+TASK-0039,Shivpuri Ward 11,Search & Rescue,Pending,8,High,20-08-2026 04:34,Search & Rescue,192,,64.0,High
+TASK-0040,Warangal Ward 12,Food,Pending,5,Medium,28-08-2026 04:13,Food Distribution,231,,52.6,High
+TASK-0041,Dehri Ward 12,Water & Sanitation,Completed,4,Medium,13-09-2026 09:59,Water & Sanitation,197,,46.9,Medium
+TASK-0042,"Old Town, Muni Ganj",Shelter,Pending,2,Low,28-08-2026 22:31,,120,,31.2,Medium
+TASK-0043,Dindigul School Camp,Logistics,Completed,2,Low,01-09-2026 18:32,Logistics,163,,31.8,Medium
+TASK-0044,"Old Town, Kar Ganj",Water & Sanitation,Assigned,3,Low,08-09-2026 19:48,Water & Sanitation; Medical,228,"Adjacent to an existing relief camp, may need extra hands.",37.9,Medium
+TASK-0045,Sonipat Colony,Food,Pending,4,Medium,05-09-2026 15:36,Food Distribution,88,"Access road partially blocked, factor in extra travel time.",43.8,Medium
+TASK-0046,"Old Town, Bhargava Zila",Food,Completed,6,Medium,04-09-2026 07:20,Food Distribution; Water & Sanitation,231,,54.3,High
+TASK-0047,Jabalpur Ward 8,Shelter,Assigned,5,Medium,21-08-2026 10:01,Shelter Setup; Logistics; Food Distribution,174,,48.9,Medium
+TASK-0048,Kottayam Relief Center,Search & Rescue,Pending,5,Medium,21-09-2026 02:05,Search & Rescue; Water & Sanitation,364,,49.8,Medium
+TASK-0049,"Old Town, Deo Circle",Food,Pending,3,Low,20-08-2026 06:52,Food Distribution,148,Coordinator flagged this as high priority during morning briefing.,43.9,Medium
+TASK-0050,Latur Ward 4,Food,Pending,9,High,26-08-2026 02:21,,306,,77.3,Critical
+TASK-0051,"Sector 3, Bareilly",Shelter,Assigned,9,High,21-08-2026 16:22,Shelter Setup; Logistics,535,,85.8,Critical
+TASK-0052,"Bhusawal, near bus depot",Food,Assigned,6,Medium,16-08-2026 13:48,Food Distribution,540,"Local volunteers already on scene, coordination needed only.",66.6,High
+TASK-0053,"Sector 9, Navi Mumbai",Medical,Pending,6,Medium,06-09-2026 12:15,Medical,295,,63.2,High
+TASK-0054,Moradabad Ward 12,Water & Sanitation,Assigned,7,High,03-09-2026 13:20,Water & Sanitation,217,,57.0,High
+TASK-0055,"Sector 5, Jorhat",Search & Rescue,Assigned,7,High,16-08-2026 13:38,Search & Rescue,501,Reported via helpline; awaiting on-ground confirmation.,75.4,Critical
+TASK-0056,South Dumdum Colony,Water & Sanitation,Completed,3,Low,07-09-2026 05:27,,163,Reported via helpline; awaiting on-ground confirmation.,40.8,Medium
+TASK-0057,Aurangabad Ward 12,Water & Sanitation,Assigned,2,Low,19-08-2026 20:53,Water & Sanitation; Search & Rescue,62,,28.3,Medium
+TASK-0058,"Old Town, Chander Nagar",Medical,Pending,4,Medium,01-09-2026 20:05,Medical,115,,43.8,Medium
+TASK-0059,"Old Town, Sunder Marg",Water & Sanitation,Assigned,5,Medium,20-08-2026 13:35,Water & Sanitation; Medical,371,,53.4,High
+TASK-0060,Kakinada Relief Center,Food,Completed,5,Medium,15-09-2026 05:01,Food Distribution; Medical,414,"Adjacent to an existing relief camp, may need extra hands.",55.0,High
+TASK-0061,Nadiad School Camp,Shelter,Pending,5,Medium,02-09-2026 00:18,Shelter Setup; Logistics; Water & Sanitation,284,"Adjacent to an existing relief camp, may need extra hands.",61.5,High
+TASK-0062,Malda Ward 3,Food,Pending,9,High,20-09-2026 22:27,Food Distribution,394,,75.3,Critical
+TASK-0063,Bhatpara School Camp,Shelter,Assigned,4,Medium,06-09-2026 01:32,Shelter Setup; Logistics,190,Elderly and children reported among the affected group.,54.7,High
+TASK-0064,"Howrah, near railway station",Logistics,Completed,5,Medium,11-09-2026 07:57,Logistics,245,Reported via helpline; awaiting on-ground confirmation.,52.2,High
+TASK-0065,Howrah Colony,Food,Pending,4,Medium,22-08-2026 09:10,Food Distribution,239,"Adjacent to an existing relief camp, may need extra hands.",46.6,Medium
+TASK-0066,Howrah Ward 5,Medical,Pending,10,High,24-08-2026 21:37,Medical,660,,87.4,Critical
+TASK-0067,"Coimbatore, near market",Food,Pending,8,High,09-09-2026 12:52,Food Distribution,575,,79.2,Critical
+TASK-0068,Sambhal Colony,Shelter,Pending,5,Medium,16-08-2026 07:55,Shelter Setup; Logistics,272,"Local volunteers already on scene, coordination needed only.",53.2,High
+TASK-0069,Udupi School Camp,Search & Rescue,Assigned,10,High,24-08-2026 17:23,,427,,82.8,Critical
+TASK-0070,Bhilwara School Camp,Search & Rescue,Assigned,5,Medium,08-09-2026 08:46,Search & Rescue,180,,52.6,High
+TASK-0071,Bilaspur Colony,Water & Sanitation,Pending,8,High,04-09-2026 23:32,Water & Sanitation,369,,69.2,High
+TASK-0072,"Sector 4, Berhampore",Search & Rescue,Assigned,7,High,19-08-2026 18:54,Search & Rescue,260,,59.7,High
+TASK-0073,"Berhampore, near market",Shelter,Completed,8,High,12-09-2026 11:38,,556,,75.3,Critical
+TASK-0074,"Old Town, Toor Ganj",Shelter,Pending,5,Medium,10-09-2026 02:13,Shelter Setup; Logistics,188,,50.2,High
+TASK-0075,Mira-Bhayandar Ward 2,Water & Sanitation,Pending,3,Low,20-08-2026 09:51,,233,,42.4,Medium
+TASK-0076,Uluberia School Camp,Medical,Completed,8,High,24-08-2026 08:11,Medical; Food Distribution,404,,70.0,High
+TASK-0077,Tinsukia School Camp,Shelter,Pending,5,Medium,28-08-2026 08:27,Shelter Setup; Logistics,301,,57.2,High
+TASK-0078,Begusarai Ward 8,Medical,Assigned,10,High,09-08-2026 17:42,Medical,793,,95.1,Critical
+TASK-0079,Bilaspur Ward 2,Food,Pending,6,Medium,10-08-2026 05:33,Food Distribution; Water & Sanitation,309,"Local volunteers already on scene, coordination needed only.",58.7,High
+TASK-0080,Darbhanga School Camp,Logistics,Pending,4,Medium,30-08-2026 02:09,,286,,52.8,High
+TASK-0081,"Kurnool, near water tank",Medical,Assigned,7,High,13-09-2026 00:32,,237,,56.0,High
+TASK-0082,Chandrapur Relief Center,Search & Rescue,Pending,8,High,10-09-2026 00:34,Search & Rescue; Medical,241,,62.6,High
+TASK-0083,"Old Town, Aggarwal Nagar",Food,Pending,3,Low,31-08-2026 17:25,Food Distribution,81,,36.7,Medium
+TASK-0084,Bikaner Relief Center,Shelter,Assigned,6,Medium,11-08-2026 08:34,Shelter Setup; Logistics,280,"Access road partially blocked, factor in extra travel time.",60.7,High
+TASK-0085,"Old Town, Andra Marg",Medical,Pending,6,Medium,07-09-2026 00:56,Medical,214,,57.5,High
+TASK-0086,Aurangabad School Camp,Water & Sanitation,Assigned,8,High,20-08-2026 11:05,Water & Sanitation,218,Elderly and children reported among the affected group.,65.9,High
+TASK-0087,Ballia Ward 11,Logistics,Assigned,3,Low,16-08-2026 05:19,Logistics,173,,38.4,Medium
+TASK-0088,Warangal Ward 4,Search & Rescue,Pending,7,High,04-09-2026 11:10,Search & Rescue,269,"Local volunteers already on scene, coordination needed only.",61.0,High
+TASK-0089,"Sector 8, Thane",Logistics,Completed,5,Medium,17-08-2026 18:34,Logistics; Water & Sanitation,428,"Adjacent to an existing relief camp, may need extra hands.",55.8,High
+TASK-0090,Kota Relief Center,Food,Pending,8,High,22-09-2026 17:48,Food Distribution,525,,58.7,High
+TASK-0091,"Old Town, Goel Street",Shelter,Pending,5,Medium,26-08-2026 04:18,Shelter Setup; Logistics,317,Coordinator flagged this as high priority during morning briefing.,50.5,High
+TASK-0092,"Sector 2, Nagpur",Food,Completed,8,High,31-08-2026 22:56,Food Distribution; Medical,509,,77.4,Critical
+TASK-0093,Kulti School Camp,Logistics,Assigned,5,Medium,14-08-2026 01:54,Logistics,435,,60.5,High
+TASK-0094,"Eluru, near community hall",Logistics,Completed,1,Low,18-09-2026 20:29,Logistics; Water & Sanitation,10,,20.6,Low
+TASK-0095,"Kollam, near bus depot",Search & Rescue,Assigned,7,High,25-08-2026 04:06,Search & Rescue,232,Reported via helpline; awaiting on-ground confirmation.,61.1,High
+TASK-0096,Ambattur Colony,Food,Assigned,2,Low,17-08-2026 08:56,,114,Reported via helpline; awaiting on-ground confirmation.,41.2,Medium
+TASK-0097,"Silchar, near railway station",Medical,Pending,8,High,18-09-2026 08:56,Medical,435,,69.1,High
+TASK-0098,Alwar School Camp,Food,Pending,5,Medium,01-09-2026 16:49,Food Distribution; Shelter Setup,139,Coordinator flagged this as high priority during morning briefing.,47.0,Medium
+TASK-0099,"Sector 1, Jorhat",Shelter,Assigned,5,Medium,25-08-2026 02:19,Shelter Setup; Logistics,241,,52.9,High
+TASK-0100,"Old Town, Lanka Street",Logistics,Pending,3,Low,10-09-2026 20:37,Logistics,372,Reported via helpline; awaiting on-ground confirmation.,46.8,Medium
+TASK-0101,"Moradabad, near bridge",Shelter,Pending,3,Low,15-08-2026 13:32,Shelter Setup; Logistics,179,,49.0,Medium
+TASK-0102,"Satara, near market",Shelter,Pending,7,High,09-09-2026 03:39,Shelter Setup; Logistics,268,"Access road partially blocked, factor in extra travel time.",60.7,High
+TASK-0103,Kharagpur Colony,Search & Rescue,Pending,7,High,06-09-2026 09:59,,312,,61.2,High
+TASK-0104,"Varanasi, near market",Food,Completed,7,High,12-08-2026 16:40,Food Distribution,390,,65.7,High
+TASK-0105,Bharatpur Colony,Shelter,Pending,5,Medium,18-09-2026 03:31,Shelter Setup; Logistics; Medical,139,,52.3,High
+TASK-0106,Satara Relief Center,Food,Assigned,3,Low,22-08-2026 19:33,Food Distribution,279,,45.0,Medium
+TASK-0107,"Sector 2, Alappuzha",Water & Sanitation,Pending,5,Medium,10-08-2026 03:32,Water & Sanitation; Shelter Setup,146,"Local volunteers already on scene, coordination needed only.",42.6,Medium
+TASK-0108,"Sector 3, Begusarai",Shelter,Completed,5,Medium,14-08-2026 04:10,Shelter Setup; Logistics,179,,52.7,High
+TASK-0109,Nadiad Relief Center,Medical,Pending,8,High,18-09-2026 04:41,Medical,473,Elderly and children reported among the affected group.,74.6,High
+TASK-0110,Motihari Ward 5,Water & Sanitation,Pending,4,Medium,23-09-2026 00:37,,266,,27.2,Medium
+TASK-0111,"Old Town, Nagy Marg",Medical,Pending,7,High,12-09-2026 21:40,Medical,115,,56.0,High
+TASK-0112,Mango School Camp,Medical,Completed,6,Medium,28-08-2026 04:08,,173,,57.6,High
+TASK-0113,"Sector 7, Gulbarga",Medical,Pending,7,High,06-09-2026 21:46,Medical,155,,60.4,High
+TASK-0114,"Old Town, Mukherjee Ganj",Food,Pending,3,Low,19-09-2026 21:35,Food Distribution,121,,39.8,Medium
+TASK-0115,Davanagere Ward 10,Shelter,Pending,7,High,14-09-2026 09:32,Shelter Setup; Logistics,405,"Adjacent to an existing relief camp, may need extra hands.",72.0,High
+TASK-0116,"Old Town, Bora Chowk",Medical,Assigned,7,High,14-08-2026 05:35,Medical,471,,67.6,High
+TASK-0117,"Sector 6, Vijayanagaram",Search & Rescue,Assigned,6,Medium,27-08-2026 11:01,Search & Rescue,208,,63.4,High
+TASK-0118,Shimla School Camp,Food,Completed,4,Medium,31-08-2026 07:09,Food Distribution,324,Elderly and children reported among the affected group.,49.9,Medium
+TASK-0119,"Sector 8, Kolkata",Shelter,Pending,7,High,16-09-2026 12:14,Shelter Setup; Logistics,493,,63.6,High
+TASK-0120,"Old Town, Shetty Circle",Logistics,Pending,6,Medium,30-08-2026 14:02,Logistics; Shelter Setup,209,,49.0,Medium
+TASK-0121,"Proddatur, near market",Water & Sanitation,Assigned,5,Medium,28-08-2026 23:34,Water & Sanitation,313,Coordinator flagged this as high priority during morning briefing.,57.4,High
+TASK-0122,"Guntur, near primary school",Water & Sanitation,Pending,8,High,10-08-2026 08:02,Water & Sanitation; Shelter Setup,607,,72.0,High
+TASK-0123,"Mango, near community hall",Water & Sanitation,Assigned,2,Low,16-08-2026 15:34,Water & Sanitation,171,,31.2,Medium
+TASK-0124,Motihari Ward 3,Food,Pending,4,Medium,14-09-2026 15:17,Food Distribution,116,,40.3,Medium
+TASK-0125,Hospet Ward 10,Food,Assigned,5,Medium,26-08-2026 05:57,Food Distribution,418,,56.4,High
+TASK-0126,Saharsa Ward 8,Food,Pending,6,Medium,21-08-2026 15:02,Food Distribution,491,,68.9,High
+TASK-0127,"Gandhidham, near water tank",Water & Sanitation,Pending,5,Medium,06-09-2026 15:14,Water & Sanitation,266,,49.7,Medium
+TASK-0128,"Darbhanga, near bridge",Shelter,Assigned,6,Medium,21-09-2026 00:01,Shelter Setup; Logistics,355,"Adjacent to an existing relief camp, may need extra hands.",59.4,High
+TASK-0129,"Old Town, Kashyap Street",Water & Sanitation,Pending,8,High,13-08-2026 04:10,,561,"Access road partially blocked, factor in extra travel time.",74.9,High
+TASK-0130,"Sector 6, Jamnagar",Water & Sanitation,Pending,6,Medium,05-09-2026 19:13,Water & Sanitation; Medical,444,,62.6,High
+TASK-0131,Vellore Ward 12,Food,Completed,8,High,16-08-2026 13:13,Food Distribution,493,,72.4,High
+TASK-0132,Ghaziabad Colony,Shelter,Assigned,7,High,18-09-2026 07:34,Shelter Setup; Logistics,232,,62.0,High
+TASK-0133,"Sector 11, Bhimavaram",Water & Sanitation,Completed,7,High,29-08-2026 23:30,,455,,69.6,High
+TASK-0134,Chennai Relief Center,Shelter,Pending,6,Medium,30-08-2026 13:13,Shelter Setup; Logistics,207,,53.8,High
+TASK-0135,Gurgaon Colony,Shelter,Completed,6,Medium,07-09-2026 02:58,Shelter Setup; Logistics; Water & Sanitation,155,Coordinator flagged this as high priority during morning briefing.,51.2,High
+TASK-0136,Muzaffarnagar Colony,Water & Sanitation,Pending,5,Medium,15-09-2026 09:46,Water & Sanitation; Food Distribution,408,,56.1,High
+TASK-0137,"Sector 6, Bhopal",Search & Rescue,Pending,7,High,14-08-2026 01:29,Search & Rescue,137,Reported via helpline; awaiting on-ground confirmation.,59.4,High
+TASK-0138,Dehradun Relief Center,Shelter,Completed,8,High,08-09-2026 06:27,Shelter Setup; Logistics; Food Distribution,217,"Local volunteers already on scene, coordination needed only.",66.3,High
+TASK-0139,Singrauli Relief Center,Water & Sanitation,Pending,7,High,30-08-2026 17:49,Water & Sanitation,319,,61.4,High
+TASK-0140,"Haldia, near railway station",Water & Sanitation,Assigned,1,Low,26-08-2026 22:47,Water & Sanitation; Food Distribution,125,,32.9,Medium
+TASK-0141,"Old Town, Raghavan Road",Medical,Pending,7,High,06-09-2026 20:11,Medical,376,,67.0,High
+TASK-0142,"Old Town, Narain Chowk",Food,Assigned,8,High,05-09-2026 22:50,Food Distribution; Search & Rescue,624,,79.9,Critical
+TASK-0143,"Nadiad, near railway station",Food,Pending,3,Low,09-09-2026 01:37,,284,,44.4,Medium
+TASK-0144,"Jodhpur, near railway station",Search & Rescue,Assigned,9,High,10-09-2026 09:05,Search & Rescue; Food Distribution,491,Elderly and children reported among the affected group.,80.0,Critical
+TASK-0145,Etawah Relief Center,Food,Completed,6,Medium,23-08-2026 23:33,Food Distribution,433,,60.4,High
+TASK-0146,"Sector 4, Ludhiana",Shelter,Pending,6,Medium,13-09-2026 04:05,Shelter Setup; Logistics,292,,61.2,High
+TASK-0147,"Sector 5, Jamnagar",Food,Assigned,5,Medium,19-09-2026 10:50,Food Distribution,356,,55.0,High
+TASK-0148,"Old Town, Kamdar",Search & Rescue,Assigned,7,High,23-08-2026 10:09,Search & Rescue; Food Distribution,457,,65.1,High
+TASK-0149,Bardhaman Ward 5,Logistics,Completed,4,Medium,30-08-2026 19:06,Logistics,260,Coordinator flagged this as high priority during morning briefing.,43.6,Medium
+TASK-0150,"Ujjain, near community hall",Food,Assigned,6,Medium,17-09-2026 16:17,Food Distribution; Search & Rescue,477,,63.5,High
+TASK-0151,"Old Town, Prashad",Shelter,Completed,5,Medium,12-08-2026 07:50,Shelter Setup; Logistics,259,,52.7,High
+TASK-0152,"Davanagere, near market",Logistics,Pending,7,High,31-08-2026 17:01,Logistics,384,,70.1,High
+TASK-0153,Barasat Ward 6,Medical,Pending,7,High,02-09-2026 05:43,Medical,469,,71.2,High
+TASK-0154,Sri Ganganagar Ward 8,Food,Pending,6,Medium,08-09-2026 20:27,,284,,56.5,High
+TASK-0155,Coimbatore Relief Center,Water & Sanitation,Completed,5,Medium,17-08-2026 08:28,Water & Sanitation,223,,53.0,High
+TASK-0156,Bidar School Camp,Water & Sanitation,Pending,5,Medium,31-08-2026 08:56,Water & Sanitation,314,,50.9,High
+TASK-0157,Mirzapur Ward 5,Shelter,Pending,7,High,03-09-2026 18:19,Shelter Setup; Logistics,556,Coordinator flagged this as high priority during morning briefing.,72.4,High
+TASK-0158,Belgaum Colony,Water & Sanitation,Pending,5,Medium,02-09-2026 21:06,Water & Sanitation,195,,51.4,High
+TASK-0159,Kirari Suleman Nagar Ward 4,Logistics,Pending,2,Low,20-08-2026 00:23,Logistics,30,,28.0,Medium
+TASK-0160,Sambalpur Ward 6,Shelter,Pending,5,Medium,30-08-2026 21:56,Shelter Setup; Logistics,257,,52.7,High
+TASK-0161,Latur School Camp,Water & Sanitation,Pending,3,Low,09-09-2026 17:33,Water & Sanitation,213,,44.0,Medium
+TASK-0162,"Bhopal, near community hall",Water & Sanitation,Assigned,7,High,11-09-2026 06:59,Water & Sanitation,401,,69.0,High
+TASK-0163,"Sector 10, Morbi",Food,Pending,7,High,12-09-2026 08:28,Food Distribution,457,,69.8,High
+TASK-0164,Mau Colony,Food,Assigned,6,Medium,14-08-2026 15:40,Food Distribution,209,,56.6,High
+TASK-0165,Hazaribagh Relief Center,Food,Completed,6,Medium,30-08-2026 02:41,Food Distribution,339,,61.7,High
+TASK-0166,Vellore Relief Center,Medical,Pending,9,High,19-08-2026 06:41,Medical; Search & Rescue,558,"Adjacent to an existing relief camp, may need extra hands.",78.4,Critical
+TASK-0167,Pallavaram School Camp,Medical,Pending,5,Medium,29-08-2026 15:42,Medical,449,,58.7,High
+TASK-0168,Durg Ward 9,Water & Sanitation,Assigned,5,Medium,13-09-2026 15:17,Water & Sanitation,118,,46.9,Medium
+TASK-0169,"Sector 7, Farrukhabad",Search & Rescue,Completed,8,High,20-09-2026 23:40,Search & Rescue; Shelter Setup,581,Reported via helpline; awaiting on-ground confirmation.,71.8,High
+TASK-0170,"Begusarai, near bridge",Medical,Completed,9,High,01-09-2026 15:30,Medical; Shelter Setup,235,,75.1,Critical
+TASK-0171,Jamalpur Ward 7,Search & Rescue,Assigned,7,High,12-08-2026 19:31,Search & Rescue,266,,66.9,High
+TASK-0172,"Sector 1, Gopalpur",Food,Completed,10,High,14-08-2026 11:22,Food Distribution,561,,81.9,Critical
+TASK-0173,"Old Town, Mutti Ganj",Shelter,Pending,10,High,15-08-2026 15:25,Shelter Setup; Logistics,406,,87.5,Critical
+TASK-0174,Jorhat Ward 3,Food,Pending,6,Medium,19-08-2026 21:51,Food Distribution; Shelter Setup,389,"Local volunteers already on scene, coordination needed only.",62.8,High
+TASK-0175,Karawal Nagar Relief Center,Logistics,Assigned,6,Medium,01-09-2026 15:30,,325,Reported via helpline; awaiting on-ground confirmation.,56.4,High
+TASK-0176,"Sector 11, Salem",Water & Sanitation,Pending,5,Medium,12-09-2026 14:54,Water & Sanitation,217,,56.5,High
+TASK-0177,Karimnagar Ward 8,Shelter,Pending,7,High,01-09-2026 14:42,Shelter Setup; Logistics; Food Distribution,577,Reported via helpline; awaiting on-ground confirmation.,76.2,Critical
+TASK-0178,Deoghar Colony,Search & Rescue,Pending,6,Medium,14-08-2026 15:19,Search & Rescue,423,Elderly and children reported among the affected group.,66.0,High
+TASK-0179,"Old Town, Master Circle",Shelter,Pending,6,Medium,28-08-2026 07:28,,294,,57.7,High
+TASK-0180,Pallavaram School Camp,Water & Sanitation,Pending,4,Medium,31-08-2026 00:24,Water & Sanitation; Logistics,255,Reported via helpline; awaiting on-ground confirmation.,47.5,Medium
+TASK-0181,"Sector 9, Nandyal",Food,Assigned,2,Low,22-08-2026 12:00,Food Distribution; Search & Rescue,93,"Adjacent to an existing relief camp, may need extra hands.",34.1,Medium
+TASK-0182,Udaipur School Camp,Search & Rescue,Assigned,10,High,24-08-2026 23:32,Search & Rescue,203,,79.0,Critical
+TASK-0183,Raipur Ward 9,Shelter,Pending,8,High,17-09-2026 23:26,Shelter Setup; Logistics,294,,67.4,High
+TASK-0184,Srinagar School Camp,Shelter,Pending,6,Medium,29-08-2026 14:20,,243,,55.2,High
+TASK-0185,"Old Town, Modi",Logistics,Pending,4,Medium,04-09-2026 07:05,Logistics,136,,46.8,Medium
+TASK-0186,Kulti Ward 1,Food,Pending,5,Medium,29-08-2026 19:27,Food Distribution; Shelter Setup,397,,57.4,High
+TASK-0187,"Nagaon, near railway station",Shelter,Assigned,5,Medium,09-08-2026 12:22,Shelter Setup; Logistics,296,Reported via helpline; awaiting on-ground confirmation.,59.2,High
+TASK-0188,Bihar Sharif Relief Center,Water & Sanitation,Pending,5,Medium,10-08-2026 03:00,Water & Sanitation; Shelter Setup,445,,62.1,High
+TASK-0189,Jehanabad Colony,Water & Sanitation,Pending,3,Low,09-09-2026 16:31,Water & Sanitation; Logistics,121,,37.9,Medium
+TASK-0190,Dhule School Camp,Logistics,Pending,6,Medium,19-09-2026 18:39,Logistics,348,,58.5,High
+TASK-0191,"Sangli-Miraj & Kupwad, near railway station",Shelter,Pending,6,Medium,21-08-2026 09:52,Shelter Setup; Logistics; Medical,366,,60.1,High
+TASK-0192,Sangli-Miraj & Kupwad Ward 12,Shelter,Pending,7,High,01-09-2026 13:54,Shelter Setup; Logistics,119,,56.6,High
+TASK-0193,"Old Town, Manne Chowk",Medical,Assigned,6,Medium,07-09-2026 00:11,Medical,368,,62.4,High
+TASK-0194,Ahmednagar Ward 1,Food,Pending,7,High,20-08-2026 15:22,Food Distribution,439,,67.8,High
+TASK-0195,"Madurai, near market",Shelter,Completed,4,Medium,24-08-2026 14:00,Shelter Setup; Logistics,131,,41.5,Medium
+TASK-0196,Khandwa Ward 9,Medical,Pending,5,Medium,01-09-2026 03:38,Medical,307,,54.6,High
+TASK-0197,"Sector 12, Shimoga",Search & Rescue,Pending,5,Medium,12-09-2026 20:13,Search & Rescue,264,,52.1,High
+TASK-0198,"Old Town, Mani Road",Food,Pending,3,Low,23-09-2026 01:47,Food Distribution,285,,25.5,Medium
+TASK-0199,"Sector 2, Amravati",Food,Pending,3,Low,15-09-2026 05:12,Food Distribution,63,,36.4,Medium
+TASK-0200,Darbhanga Relief Center,Food,Pending,6,Medium,13-09-2026 02:19,Food Distribution; Water & Sanitation,250,"Local volunteers already on scene, coordination needed only.",60.9,High
+TASK-0201,Bahraich Ward 2,Logistics,Pending,2,Low,22-08-2026 09:19,Logistics,17,,25.6,Medium
+TASK-0202,North Dumdum School Camp,Logistics,Completed,3,Low,28-08-2026 13:56,Logistics; Search & Rescue,252,,40.4,Medium
+TASK-0203,Mysore Colony,Search & Rescue,Pending,7,High,20-08-2026 03:21,Search & Rescue; Food Distribution,447,Reported via helpline; awaiting on-ground confirmation.,66.2,High
+TASK-0204,"Gangtok, near bridge",Water & Sanitation,Completed,6,Medium,19-08-2026 23:41,Water & Sanitation,285,,59.4,High
+TASK-0205,"Old Town, Mall Chowk",Search & Rescue,Pending,8,High,19-08-2026 09:03,,269,Elderly and children reported among the affected group.,64.6,High
+TASK-0206,Bhimavaram School Camp,Search & Rescue,Pending,7,High,24-08-2026 07:23,Search & Rescue,386,Elderly and children reported among the affected group.,70.4,High
+TASK-0207,Nandyal Relief Center,Shelter,Assigned,7,High,08-09-2026 23:07,Shelter Setup; Logistics,168,,55.5,High
+TASK-0208,"Old Town, Dyal Zila",Food,Pending,4,Medium,29-08-2026 03:05,,114,,46.1,Medium
+TASK-0209,"Bulandshahr, near railway station",Food,Pending,4,Medium,19-09-2026 12:30,Food Distribution,372,,52.2,High
+TASK-0210,Jamalpur Relief Center,Shelter,Pending,7,High,04-09-2026 05:03,Shelter Setup; Logistics,189,,63.2,High
+TASK-0211,Satna Colony,Food,Pending,5,Medium,08-09-2026 06:08,Food Distribution; Medical,361,"Access road partially blocked, factor in extra travel time.",58.1,High
+TASK-0212,Sambhal School Camp,Logistics,Pending,3,Low,14-09-2026 05:37,,280,,45.8,Medium
+TASK-0213,Haridwar Colony,Search & Rescue,Pending,9,High,17-08-2026 05:11,Search & Rescue,653,,84.1,Critical
+TASK-0214,Panchkula Ward 8,Food,Completed,3,Low,22-08-2026 03:17,Food Distribution,153,,38.0,Medium
+TASK-0215,Shimoga School Camp,Water & Sanitation,Pending,4,Medium,21-08-2026 19:47,Water & Sanitation,296,,43.7,Medium
+TASK-0216,Bahraich Colony,Shelter,Pending,4,Medium,22-08-2026 10:38,Shelter Setup; Logistics,285,"Adjacent to an existing relief camp, may need extra hands.",46.3,Medium
+TASK-0217,"Narasaraopet, near bridge",Medical,Pending,10,High,23-08-2026 13:02,Medical,700,,93.6,Critical
+TASK-0218,Suryapet School Camp,Water & Sanitation,Assigned,5,Medium,13-09-2026 07:35,Water & Sanitation,131,,47.6,Medium
+TASK-0219,"Sector 12, Kamarhati",Shelter,Pending,5,Medium,19-09-2026 11:14,Shelter Setup; Logistics,168,,45.9,Medium
+TASK-0220,"Sector 12, Jamnagar",Water & Sanitation,Assigned,4,Medium,09-09-2026 17:02,Water & Sanitation; Shelter Setup,275,,52.6,High
+TASK-0221,Vijayanagaram School Camp,Food,Assigned,4,Medium,03-09-2026 23:18,Food Distribution; Search & Rescue,298,,50.1,High
+TASK-0222,Sirsa School Camp,Water & Sanitation,Assigned,6,Medium,03-09-2026 19:49,,313,Elderly and children reported among the affected group.,63.3,High
+TASK-0223,Jhansi School Camp,Food,Completed,4,Medium,14-09-2026 09:45,,183,"Adjacent to an existing relief camp, may need extra hands.",50.1,High
+TASK-0224,"Old Town, Sachdeva Road",Medical,Pending,3,Low,02-09-2026 12:54,Medical,217,,42.0,Medium
+TASK-0225,Guna Ward 9,Medical,Pending,8,High,22-08-2026 19:35,Medical,397,"Adjacent to an existing relief camp, may need extra hands.",65.5,High
+TASK-0226,Bihar Sharif Ward 8,Water & Sanitation,Assigned,6,Medium,29-08-2026 02:54,Water & Sanitation,240,,59.4,High
+TASK-0227,"Old Town, Sule Circle",Food,Pending,4,Medium,28-08-2026 19:37,Food Distribution; Search & Rescue,253,,50.6,High
+TASK-0228,Thoothukudi Ward 9,Water & Sanitation,Assigned,3,Low,10-09-2026 20:48,Water & Sanitation,214,Coordinator flagged this as high priority during morning briefing.,41.7,Medium
+TASK-0229,"Old Town, Khare Ganj",Food,Pending,2,Low,06-09-2026 16:18,Food Distribution,192,,37.1,Medium
+TASK-0230,Muzaffarpur Relief Center,Medical,Pending,3,Low,02-09-2026 21:47,Medical,211,,38.7,Medium
+TASK-0231,Bhalswa Jahangir Pur School Camp,Logistics,Pending,1,Low,25-08-2026 13:51,Logistics,43,,29.9,Medium
+TASK-0232,Shimla Relief Center,Food,Pending,5,Medium,10-09-2026 01:22,Food Distribution; Logistics,195,,52.8,High
+TASK-0233,"Salem, near primary school",Search & Rescue,Completed,5,Medium,14-08-2026 21:58,Search & Rescue,99,,47.4,Medium
+TASK-0234,Kanpur School Camp,Logistics,Pending,4,Medium,25-08-2026 19:16,Logistics,274,,52.9,High
+TASK-0235,Aurangabad Relief Center,Food,Completed,6,Medium,01-09-2026 03:56,Food Distribution,331,,55.0,High
+TASK-0236,Sikar School Camp,Logistics,Pending,4,Medium,13-09-2026 11:05,Logistics,298,,47.9,Medium
+TASK-0237,"Sector 2, Ratlam",Water & Sanitation,Pending,6,Medium,21-09-2026 04:08,Water & Sanitation,299,,51.3,High
+TASK-0238,Noida Ward 11,Logistics,Pending,3,Low,12-08-2026 23:42,Logistics,147,,39.8,Medium
+TASK-0239,Raebareli Relief Center,Food,Completed,6,Medium,25-08-2026 21:41,Food Distribution,388,"Access road partially blocked, factor in extra travel time.",60.7,High
+TASK-0240,"Sector 12, Rourkela",Medical,Pending,7,High,22-09-2026 22:52,Medical; Logistics,107,,41.6,Medium
+TASK-0241,"Sector 6, Anantapur",Logistics,Pending,6,Medium,18-09-2026 17:08,,220,,56.4,High
+TASK-0242,Dindigul School Camp,Logistics,Assigned,6,Medium,15-09-2026 21:45,Logistics,262,,61.8,High
+TASK-0243,Bettiah Relief Center,Food,Pending,5,Medium,05-09-2026 21:33,Food Distribution; Medical,405,"Local volunteers already on scene, coordination needed only.",50.4,High
+TASK-0244,Akola Colony,Logistics,Pending,4,Medium,22-09-2026 03:43,Logistics,221,,39.1,Medium
+TASK-0245,Mehsana Ward 8,Food,Assigned,4,Medium,18-09-2026 05:52,Food Distribution,195,"Access road partially blocked, factor in extra travel time.",44.6,Medium
+TASK-0246,"Surendranagar Dudhrej, near bridge",Shelter,Completed,1,Low,29-08-2026 12:14,Shelter Setup; Logistics,237,,30.6,Medium
+TASK-0247,Bangalore Colony,Shelter,Pending,7,High,11-08-2026 04:48,,341,,65.1,High
+TASK-0248,"Sector 9, Srinagar",Water & Sanitation,Pending,5,Medium,09-09-2026 06:30,Water & Sanitation,349,Coordinator flagged this as high priority during morning briefing.,50.5,High
+TASK-0249,"Khandwa, near bus depot",Search & Rescue,Assigned,9,High,03-09-2026 11:09,Search & Rescue,590,,84.9,Critical
+TASK-0250,"Sector 1, Davanagere",Water & Sanitation,Assigned,6,Medium,15-09-2026 09:09,,439,,62.5,High
+TASK-0251,Patiala Colony,Food,Pending,7,High,20-08-2026 06:03,Food Distribution,352,,65.8,High
+TASK-0252,Sagar Relief Center,Logistics,Assigned,4,Medium,31-08-2026 03:06,Logistics,197,,45.2,Medium
+TASK-0253,Bangalore Colony,Logistics,Pending,4,Medium,21-09-2026 08:54,Logistics,272,,43.0,Medium
+TASK-0254,Baranagar Ward 7,Food,Assigned,2,Low,08-09-2026 17:31,Food Distribution; Shelter Setup,250,,42.6,Medium
+TASK-0255,Jhansi School Camp,Water & Sanitation,Assigned,6,Medium,10-08-2026 22:54,Water & Sanitation; Search & Rescue,220,,53.1,High
+TASK-0256,"Old Town, More Nagar",Logistics,Pending,4,Medium,20-08-2026 17:12,Logistics,181,,42.9,Medium
+TASK-0257,Visakhapatnam Ward 9,Water & Sanitation,Pending,10,High,22-09-2026 06:54,Water & Sanitation,417,"Access road partially blocked, factor in extra travel time.",67.9,High
+TASK-0258,"Old Town, Narain Road",Medical,Assigned,7,High,14-09-2026 00:53,Medical,212,,61.0,High
+TASK-0259,Akola School Camp,Shelter,Completed,10,High,30-08-2026 17:18,,631,,92.7,Critical
+TASK-0260,Bettiah Ward 4,Shelter,Assigned,6,Medium,10-08-2026 11:49,Shelter Setup; Logistics,276,"Local volunteers already on scene, coordination needed only.",54.3,High
+TASK-0261,Bardhaman Colony,Water & Sanitation,Pending,4,Medium,17-09-2026 04:20,Water & Sanitation,408,Reported via helpline; awaiting on-ground confirmation.,57.2,High
+TASK-0262,Raipur Colony,Food,Pending,6,Medium,11-09-2026 07:33,Food Distribution,236,,60.0,High
+TASK-0263,"Kamarhati, near market",Food,Completed,4,Medium,19-09-2026 05:23,,350,,45.3,Medium
+TASK-0264,Tenali School Camp,Water & Sanitation,Assigned,7,High,19-09-2026 01:33,Water & Sanitation,149,,60.2,High
+TASK-0265,"Old Town, Lala Path",Logistics,Assigned,4,Medium,19-09-2026 13:13,Logistics,109,,44.0,Medium
+TASK-0266,Serampore Relief Center,Search & Rescue,Pending,10,High,17-08-2026 13:29,Search & Rescue,461,,88.5,Critical
+TASK-0267,Nagpur Ward 3,Search & Rescue,Pending,10,High,07-09-2026 06:24,Search & Rescue,590,,89.8,Critical
+TASK-0268,Rajkot Relief Center,Water & Sanitation,Completed,6,Medium,19-09-2026 09:12,Water & Sanitation,441,,62.7,High
+TASK-0269,Bhiwandi Relief Center,Water & Sanitation,Pending,3,Low,21-08-2026 21:49,Water & Sanitation,211,,37.1,Medium
+TASK-0270,Avadi Relief Center,Logistics,Pending,3,Low,18-08-2026 22:38,Logistics,164,,43.1,Medium
+TASK-0271,Noida Colony,Search & Rescue,Assigned,5,Medium,20-09-2026 19:56,,145,"Local volunteers already on scene, coordination needed only.",45.4,Medium
+TASK-0272,"Sector 12, Malda",Logistics,Assigned,4,Medium,27-08-2026 10:52,Logistics,109,,40.6,Medium
+TASK-0273,"Sector 2, Dharmavaram",Water & Sanitation,Pending,4,Medium,01-09-2026 01:19,Water & Sanitation,282,,47.8,Medium
+TASK-0274,"Sector 3, Unnao",Food,Pending,5,Medium,20-09-2026 15:57,Food Distribution; Search & Rescue,119,"Adjacent to an existing relief camp, may need extra hands.",50.2,High
+TASK-0275,Patna Relief Center,Medical,Completed,8,High,18-09-2026 18:39,Medical; Shelter Setup,564,,78.1,Critical
+TASK-0276,Raiganj Relief Center,Food,Assigned,7,High,18-08-2026 13:24,Food Distribution; Logistics,469,,75.2,Critical
+TASK-0277,"Old Town, Parmer Circle",Shelter,Assigned,7,High,11-08-2026 04:47,,448,,70.7,High
+TASK-0278,Sikar School Camp,Search & Rescue,Pending,8,High,11-08-2026 17:54,Search & Rescue,465,,73.8,High
+TASK-0279,Malda School Camp,Medical,Assigned,8,High,08-09-2026 02:17,Medical; Shelter Setup,322,,78.2,Critical
+TASK-0280,Dhanbad Ward 7,Food,Pending,4,Medium,10-08-2026 06:29,,228,,44.2,Medium
+TASK-0281,Buxar Colony,Logistics,Assigned,3,Low,18-08-2026 00:04,Logistics,296,Coordinator flagged this as high priority during morning briefing.,46.2,Medium
+TASK-0282,Dharmavaram Relief Center,Food,Pending,5,Medium,19-09-2026 03:19,Food Distribution; Medical,183,,51.9,High
+TASK-0283,Siliguri Ward 7,Logistics,Pending,4,Medium,10-08-2026 00:42,Logistics,226,,43.7,Medium
+TASK-0284,"Sector 6, Ulhasnagar",Shelter,Assigned,8,High,16-09-2026 09:15,Shelter Setup; Logistics; Water & Sanitation,488,,73.0,High
+TASK-0285,Akola Colony,Water & Sanitation,Assigned,5,Medium,01-09-2026 19:45,Water & Sanitation; Search & Rescue,347,,59.7,High
+TASK-0286,Kanpur School Camp,Logistics,Pending,1,Low,14-09-2026 21:13,Logistics,14,,26.6,Medium
+TASK-0287,"Old Town, Lanka Street",Water & Sanitation,Pending,5,Medium,17-08-2026 14:16,Water & Sanitation,230,,57.6,High
+TASK-0288,Cuttack School Camp,Shelter,Completed,3,Low,12-09-2026 15:37,Shelter Setup; Logistics,211,,39.4,Medium
+TASK-0289,Rajkot Ward 4,Water & Sanitation,Completed,5,Medium,15-09-2026 12:11,Water & Sanitation,445,"Access road partially blocked, factor in extra travel time.",57.7,High
+TASK-0290,"Anand, near bus depot",Food,Pending,5,Medium,08-09-2026 19:45,Food Distribution,361,,56.2,High
+TASK-0291,Ambala Colony,Water & Sanitation,Assigned,4,Medium,30-08-2026 14:14,Water & Sanitation,221,,48.2,Medium
+TASK-0292,"Old Town, Bhat Nagar",Water & Sanitation,Assigned,7,High,14-08-2026 21:30,,343,,68.5,High
+TASK-0293,"Sector 7, Rewa",Water & Sanitation,Assigned,4,Medium,05-09-2026 02:13,Water & Sanitation,149,,41.2,Medium
+TASK-0294,Raiganj School Camp,Medical,Assigned,9,High,16-08-2026 00:24,Medical,477,,80.3,Critical
+TASK-0295,Narasaraopet Colony,Food,Assigned,5,Medium,13-09-2026 18:07,Food Distribution; Water & Sanitation,373,"Access road partially blocked, factor in extra travel time.",55.0,High
+TASK-0296,"Old Town, Nair",Shelter,Pending,4,Medium,14-08-2026 08:33,Shelter Setup; Logistics,163,Elderly and children reported among the affected group.,44.6,Medium
+TASK-0297,Kavali School Camp,Food,Assigned,6,Medium,31-08-2026 09:17,Food Distribution,148,"Access road partially blocked, factor in extra travel time.",49.5,Medium
+TASK-0298,Dibrugarh Relief Center,Medical,Assigned,7,High,16-08-2026 06:04,Medical,306,,67.7,High
+TASK-0299,Raipur Ward 5,Medical,Completed,7,High,23-08-2026 12:47,Medical,353,,68.5,High
+TASK-0300,Bidhannagar Colony,Water & Sanitation,Assigned,8,High,26-08-2026 16:32,Water & Sanitation; Search & Rescue,426,"Adjacent to an existing relief camp, may need extra hands.",73.4,High
+TASK-0301,Malda School Camp,Search & Rescue,Pending,7,High,25-08-2026 23:52,Search & Rescue; Water & Sanitation,451,,66.1,High
+TASK-0302,Satara Relief Center,Food,Pending,9,High,08-09-2026 01:42,Food Distribution,445,Coordinator flagged this as high priority during morning briefing.,78.3,Critical
+TASK-0303,"Dindigul, near primary school",Logistics,Pending,4,Medium,04-09-2026 23:38,Logistics,260,Elderly and children reported among the affected group.,52.5,High
+TASK-0304,Mysore Colony,Food,Assigned,7,High,28-08-2026 08:11,Food Distribution,257,,63.3,High
+TASK-0305,"Old Town, De Path",Medical,Pending,8,High,14-08-2026 11:39,Medical,552,"Local volunteers already on scene, coordination needed only.",80.2,Critical
+TASK-0306,Dharmavaram Relief Center,Food,Completed,6,Medium,13-09-2026 06:15,Food Distribution,455,,65.3,High
+TASK-0307,"Old Town, Sampath Path",Logistics,Pending,1,Low,27-08-2026 19:35,Logistics,64,"Local volunteers already on scene, coordination needed only.",29.9,Medium
+TASK-0308,Tumkur School Camp,Shelter,Completed,6,Medium,07-09-2026 18:43,Shelter Setup; Logistics,405,Reported via helpline; awaiting on-ground confirmation.,63.6,High
+TASK-0309,Vasai-Virar Ward 3,Food,Pending,5,Medium,10-09-2026 22:15,Food Distribution,184,"Access road partially blocked, factor in extra travel time.",49.1,Medium
+TASK-0310,"Sector 1, Bhatpara",Medical,Pending,4,Medium,05-09-2026 22:19,Medical,73,,42.5,Medium
+TASK-0311,"Etawah, near market",Food,Pending,5,Medium,13-09-2026 01:52,Food Distribution; Shelter Setup,328,,55.2,High
+TASK-0312,Alwar Relief Center,Food,Pending,3,Low,30-08-2026 12:32,Food Distribution,51,,39.2,Medium
+TASK-0313,Kishanganj Ward 12,Search & Rescue,Completed,6,Medium,12-09-2026 23:31,Search & Rescue,374,,66.6,High
+TASK-0314,"Old Town, Mahajan Street",Food,Pending,7,High,19-08-2026 06:36,Food Distribution,207,,61.7,High
+TASK-0315,"Sonipat, near railway station",Shelter,Pending,7,High,01-09-2026 18:50,Shelter Setup; Logistics,84,,57.9,High
+TASK-0316,"Sector 9, Asansol",Medical,Assigned,6,Medium,13-08-2026 11:28,Medical; Logistics,327,,58.0,High
+TASK-0317,"Ajmer, near market",Shelter,Completed,5,Medium,07-09-2026 02:04,Shelter Setup; Logistics,240,,57.3,High
+TASK-0318,"Old Town, Setty Marg",Food,Assigned,1,Low,16-08-2026 08:43,Food Distribution; Medical,257,,30.7,Medium
+TASK-0319,"Sector 5, Sangli-Miraj & Kupwad",Food,Pending,7,High,14-08-2026 14:13,Food Distribution,338,Reported via helpline; awaiting on-ground confirmation.,67.1,High
+TASK-0320,Tezpur School Camp,Logistics,Assigned,3,Low,13-08-2026 15:57,Logistics; Search & Rescue,240,"Adjacent to an existing relief camp, may need extra hands.",46.7,Medium
+TASK-0321,Bhatpara School Camp,Logistics,Pending,6,Medium,15-08-2026 15:51,Logistics,145,,57.4,High
+TASK-0322,Darbhanga School Camp,Logistics,Assigned,4,Medium,23-08-2026 12:01,Logistics,248,,48.8,Medium
+TASK-0323,Medininagar School Camp,Water & Sanitation,Pending,5,Medium,18-09-2026 05:39,Water & Sanitation,475,,59.8,High
+TASK-0324,Thrissur Colony,Food,Assigned,5,Medium,23-08-2026 21:22,Food Distribution,384,,56.1,High
+TASK-0325,Chinsurah Colony,Shelter,Assigned,6,Medium,16-08-2026 04:34,Shelter Setup; Logistics,488,,63.4,High
+TASK-0326,"Sector 9, Hajipur",Food,Pending,4,Medium,10-09-2026 17:11,Food Distribution; Water & Sanitation,358,,49.4,Medium
+TASK-0327,"Sector 8, Tenali",Shelter,Pending,4,Medium,08-09-2026 23:47,Shelter Setup; Logistics,157,,48.5,Medium
+TASK-0328,"Kurnool, near community hall",Medical,Pending,9,High,26-08-2026 04:49,,550,,83.4,Critical
+TASK-0329,"Old Town, Narang Road",Shelter,Completed,5,Medium,19-08-2026 10:47,Shelter Setup; Logistics,233,,49.3,Medium
+TASK-0330,"Old Town, Sani Chowk",Medical,Assigned,6,Medium,10-09-2026 02:05,Medical; Food Distribution,280,,60.9,High
+TASK-0331,"Sector 7, Bikaner",Medical,Pending,8,High,14-09-2026 20:10,Medical,354,,71.1,High
+TASK-0332,Orai School Camp,Shelter,Completed,7,High,19-08-2026 05:37,Shelter Setup; Logistics,300,,59.3,High
+TASK-0333,"Old Town, Sarin Nagar",Shelter,Pending,1,Low,12-08-2026 07:21,Shelter Setup; Logistics,110,,28.1,Medium
+TASK-0334,"Old Town, Munshi Zila",Shelter,Pending,6,Medium,09-08-2026 19:08,Shelter Setup; Logistics,362,,59.3,High
+TASK-0335,Chapra Colony,Water & Sanitation,Assigned,4,Medium,09-09-2026 18:31,Water & Sanitation; Logistics,207,,47.9,Medium
+TASK-0336,Raipur Ward 12,Logistics,Pending,3,Low,23-08-2026 18:36,Logistics,180,,33.6,Medium
+TASK-0337,"Tirunelveli, near water tank",Search & Rescue,Assigned,9,High,11-08-2026 11:21,Search & Rescue,537,,84.5,Critical
+TASK-0338,"Hubli–Dharwad, near railway station",Medical,Pending,9,High,20-09-2026 23:03,,544,,75.1,Critical
+TASK-0339,Junagadh Colony,Water & Sanitation,Pending,6,Medium,14-09-2026 02:11,,372,,52.8,High
+TASK-0340,"Tenali, near bus depot",Water & Sanitation,Assigned,3,Low,10-09-2026 06:50,Water & Sanitation; Shelter Setup,323,"Local volunteers already on scene, coordination needed only.",45.9,Medium
+TASK-0341,Thoothukudi Colony,Search & Rescue,Pending,5,Medium,18-08-2026 20:02,Search & Rescue; Shelter Setup,330,,59.8,High
+TASK-0342,Bettiah Relief Center,Food,Pending,3,Low,14-09-2026 13:39,Food Distribution,267,,39.5,Medium
+TASK-0343,Etawah Relief Center,Search & Rescue,Assigned,10,High,15-08-2026 20:56,Search & Rescue,460,Elderly and children reported among the affected group.,87.3,Critical
+TASK-0344,Ulhasnagar Relief Center,Shelter,Completed,6,Medium,24-08-2026 06:03,,322,,59.3,High
+TASK-0345,Madanapalle School Camp,Shelter,Assigned,4,Medium,29-08-2026 22:25,Shelter Setup; Logistics; Medical,234,Elderly and children reported among the affected group.,51.1,High
+TASK-0346,Kumbakonam Colony,Food,Pending,5,Medium,16-08-2026 21:19,Food Distribution,225,,54.4,High
+TASK-0347,Satna Colony,Food,Assigned,4,Medium,12-08-2026 16:34,Food Distribution; Medical,341,,52.1,High
+TASK-0348,"Nandyal, near market",Water & Sanitation,Pending,5,Medium,09-09-2026 21:13,Water & Sanitation,410,,56.6,High
+TASK-0349,Gudivada Ward 11,Shelter,Pending,7,High,19-08-2026 04:03,,439,,67.6,High
+TASK-0350,"Sector 2, Tirupati",Logistics,Pending,5,Medium,08-09-2026 06:41,Logistics; Shelter Setup,335,,60.5,High
+TASK-0351,"Sector 7, Howrah",Food,Pending,5,Medium,08-09-2026 23:25,Food Distribution; Water & Sanitation,425,,54.1,High
+TASK-0352,Mysore Colony,Food,Pending,8,High,10-09-2026 04:26,Food Distribution; Medical,305,,69.3,High
+TASK-0353,Surendranagar Dudhrej Colony,Shelter,Pending,5,Medium,18-08-2026 02:43,Shelter Setup; Logistics; Search & Rescue,256,"Access road partially blocked, factor in extra travel time.",59.4,High
+TASK-0354,Aurangabad School Camp,Search & Rescue,Pending,9,High,27-08-2026 05:18,Search & Rescue; Logistics,559,Elderly and children reported among the affected group.,85.3,Critical
+TASK-0355,Orai Colony,Search & Rescue,Pending,7,High,26-08-2026 07:12,Search & Rescue,273,Reported via helpline; awaiting on-ground confirmation.,67.9,High
+TASK-0356,Kota Relief Center,Food,Pending,4,Medium,20-09-2026 01:07,Food Distribution,249,,44.1,Medium
+TASK-0357,Thane Ward 6,Water & Sanitation,Assigned,6,Medium,20-09-2026 04:46,,267,Elderly and children reported among the affected group.,61.8,High
+TASK-0358,Loni Relief Center,Shelter,Pending,5,Medium,23-09-2026 03:44,Shelter Setup; Logistics,259,,32.5,Medium
+TASK-0359,Serampore Relief Center,Food,Pending,5,Medium,19-08-2026 02:45,Food Distribution,184,,47.3,Medium
+TASK-0360,"Sector 12, Sonipat",Food,Pending,4,Medium,25-08-2026 20:34,Food Distribution,307,,48.2,Medium
+TASK-0361,"Old Town, Chandra Path",Logistics,Completed,5,Medium,29-08-2026 15:24,Logistics,368,,52.6,High
+TASK-0362,"Sector 11, Anantapuram",Medical,Pending,6,Medium,31-08-2026 12:30,Medical; Logistics,459,,65.4,High
+TASK-0363,Jodhpur Colony,Logistics,Pending,5,Medium,24-08-2026 08:45,Logistics,278,,49.5,Medium
+TASK-0364,Tirupati Colony,Medical,Pending,8,High,30-08-2026 19:20,,387,Reported via helpline; awaiting on-ground confirmation.,71.3,High
+TASK-0365,Tirupati Colony,Shelter,Completed,5,Medium,10-09-2026 22:17,,322,,54.9,High
+TASK-0366,Warangal School Camp,Shelter,Pending,4,Medium,30-08-2026 21:00,Shelter Setup; Logistics,209,Reported via helpline; awaiting on-ground confirmation.,45.0,Medium
+TASK-0367,Danapur Ward 3,Logistics,Pending,2,Low,10-09-2026 14:17,Logistics; Search & Rescue,67,,32.3,Medium
+TASK-0368,Tirupati Ward 10,Food,Pending,2,Low,01-09-2026 13:47,Food Distribution,132,,30.7,Medium
+TASK-0369,Shivpuri Ward 5,Medical,Pending,6,Medium,20-09-2026 19:56,Medical; Logistics,244,,55.5,High
+TASK-0370,Bhatpara School Camp,Shelter,Assigned,2,Low,13-09-2026 12:26,Shelter Setup; Logistics,74,,36.7,Medium
+TASK-0371,Guna Ward 12,Logistics,Pending,5,Medium,11-09-2026 08:05,Logistics,261,,57.8,High
+TASK-0372,Naihati School Camp,Water & Sanitation,Pending,3,Low,23-08-2026 05:30,Water & Sanitation; Search & Rescue,143,,40.4,Medium
+TASK-0373,"Old Town, Golla Street",Food,Pending,2,Low,17-09-2026 10:39,Food Distribution,218,,37.2,Medium
+TASK-0374,Bahraich Colony,Food,Assigned,7,High,11-08-2026 16:00,Food Distribution,387,,64.9,High
+TASK-0375,Patiala Colony,Medical,Pending,5,Medium,12-09-2026 19:03,,402,,61.4,High
+TASK-0376,"Muzaffarpur, near water tank",Shelter,Pending,5,Medium,14-09-2026 00:38,Shelter Setup; Logistics,216,"Local volunteers already on scene, coordination needed only.",50.9,High
+TASK-0377,Nandyal Colony,Water & Sanitation,Pending,7,High,05-09-2026 06:53,Water & Sanitation,243,"Local volunteers already on scene, coordination needed only.",65.9,High
+TASK-0378,"Surendranagar Dudhrej, near bridge",Shelter,Assigned,5,Medium,05-09-2026 06:09,Shelter Setup; Logistics,352,,54.9,High
+TASK-0379,"Old Town, Devi Ganj",Logistics,Pending,5,Medium,17-08-2026 22:16,,296,,55.4,High
+TASK-0380,"Sector 5, Faridabad",Medical,Pending,9,High,19-09-2026 08:44,Medical,456,,79.6,Critical
+TASK-0381,"Hazaribagh, near water tank",Water & Sanitation,Pending,3,Low,15-09-2026 09:34,Water & Sanitation; Logistics,237,,39.1,Medium
+TASK-0382,Nanded Ward 11,Food,Pending,7,High,26-08-2026 09:03,Food Distribution,369,,60.5,High
+TASK-0383,"Sector 12, Junagadh",Water & Sanitation,Pending,3,Low,30-08-2026 19:30,Water & Sanitation,90,,30.9,Medium
+TASK-0384,Karnal School Camp,Food,Assigned,6,Medium,02-09-2026 16:17,Food Distribution,494,Reported via helpline; awaiting on-ground confirmation.,66.1,High
+TASK-0385,"Old Town, Prakash Circle",Water & Sanitation,Assigned,5,Medium,14-08-2026 12:04,Water & Sanitation,183,,51.3,High
+TASK-0386,"Sector 8, Kharagpur",Medical,Assigned,9,High,15-08-2026 03:27,Medical,423,,76.9,Critical
+TASK-0387,"Sector 12, Bhopal",Water & Sanitation,Pending,3,Low,29-08-2026 23:56,Water & Sanitation,220,,45.2,Medium
+TASK-0388,Ulhasnagar Ward 12,Water & Sanitation,Pending,5,Medium,11-09-2026 03:06,Water & Sanitation; Food Distribution,159,,52.7,High
+TASK-0389,Chittoor Ward 2,Search & Rescue,Pending,9,High,07-09-2026 04:08,Search & Rescue,418,Elderly and children reported among the affected group.,82.1,Critical
+TASK-0390,Tadepalligudem Relief Center,Search & Rescue,Pending,7,High,26-08-2026 03:04,Search & Rescue,339,,61.2,High
+TASK-0391,Bardhaman School Camp,Logistics,Pending,1,Low,04-09-2026 02:47,Logistics,78,,27.8,Medium
+TASK-0392,"Bhubaneswar, near water tank",Shelter,Pending,4,Medium,22-09-2026 20:06,Shelter Setup; Logistics,181,,31.8,Medium
+TASK-0393,Bhilai School Camp,Shelter,Completed,5,Medium,15-09-2026 00:08,Shelter Setup; Logistics; Water & Sanitation,162,,53.5,High
+TASK-0394,"Sector 12, Berhampore",Water & Sanitation,Completed,5,Medium,17-08-2026 07:42,Water & Sanitation,231,,49.1,Medium
+TASK-0395,Kavali Ward 11,Logistics,Pending,1,Low,31-08-2026 15:19,Logistics,24,"Access road partially blocked, factor in extra travel time.",23.7,Low
+TASK-0396,Asansol Colony,Shelter,Assigned,5,Medium,01-09-2026 16:30,Shelter Setup; Logistics; Medical,258,"Adjacent to an existing relief camp, may need extra hands.",55.9,High
+TASK-0397,"Old Town, Khosla Path",Shelter,Pending,5,Medium,23-08-2026 10:43,Shelter Setup; Logistics; Medical,352,,58.0,High
+TASK-0398,Gaya School Camp,Shelter,Assigned,5,Medium,19-09-2026 19:22,Shelter Setup; Logistics,215,,50.0,High
+TASK-0399,"Sector 2, Jabalpur",Shelter,Assigned,9,High,13-08-2026 02:15,Shelter Setup; Logistics,661,,83.2,Critical
+TASK-0400,Pali Relief Center,Water & Sanitation,Completed,4,Medium,11-08-2026 15:37,Water & Sanitation,268,,52.1,High
+TASK-0401,Dindigul Ward 3,Shelter,Completed,5,Medium,19-09-2026 17:33,Shelter Setup; Logistics,72,,47.7,Medium
+TASK-0402,"Sector 5, Jabalpur",Food,Pending,8,High,19-09-2026 14:05,,373,,73.6,High
+TASK-0403,"Sector 1, Amaravati",Food,Pending,3,Low,15-09-2026 14:40,Food Distribution; Shelter Setup,120,,33.4,Medium
+TASK-0404,Nagercoil Ward 10,Water & Sanitation,Pending,8,High,29-08-2026 19:58,Water & Sanitation,534,,73.0,High
+TASK-0405,Madhyamgram Colony,Shelter,Completed,6,Medium,13-09-2026 00:55,Shelter Setup; Logistics,346,,54.2,High
+TASK-0406,"Rajkot, near bridge",Water & Sanitation,Pending,4,Medium,22-09-2026 23:55,Water & Sanitation,20,Elderly and children reported among the affected group.,24.0,Low
+TASK-0407,Panihati School Camp,Shelter,Pending,8,High,03-09-2026 11:34,Shelter Setup; Logistics; Food Distribution,376,,71.5,High
+TASK-0408,"Old Town, Varma Road",Medical,Assigned,5,Medium,17-08-2026 23:14,,172,,45.7,Medium
+TASK-0409,Tinsukia School Camp,Water & Sanitation,Pending,4,Medium,26-08-2026 06:17,Water & Sanitation; Search & Rescue,193,,42.8,Medium
+TASK-0410,Jhansi School Camp,Medical,Completed,7,High,21-08-2026 19:49,,222,Reported via helpline; awaiting on-ground confirmation.,62.2,High
+TASK-0411,"Sector 6, Bathinda",Food,Completed,6,Medium,18-08-2026 08:34,Food Distribution,283,,61.3,High
+TASK-0412,Junagadh Colony,Logistics,Assigned,5,Medium,17-09-2026 19:48,Logistics; Food Distribution,178,,50.0,High
+TASK-0413,Sonipat School Camp,Water & Sanitation,Pending,6,Medium,01-09-2026 20:33,Water & Sanitation,112,,53.0,High
+TASK-0414,"Sector 11, Arrah",Search & Rescue,Pending,9,High,13-08-2026 23:36,,543,"Adjacent to an existing relief camp, may need extra hands.",85.4,Critical
+TASK-0415,Khandwa Colony,Search & Rescue,Pending,8,High,27-08-2026 22:19,Search & Rescue,122,Coordinator flagged this as high priority during morning briefing.,66.8,High
+TASK-0416,"Bongaigaon, near bus depot",Medical,Pending,9,High,19-08-2026 19:22,Medical,270,,77.4,Critical
+TASK-0417,Vijayawada Colony,Water & Sanitation,Assigned,6,Medium,07-09-2026 13:39,Water & Sanitation,118,,56.6,High
+TASK-0418,Amroha Ward 10,Food,Pending,4,Medium,01-09-2026 01:42,Food Distribution,116,"Local volunteers already on scene, coordination needed only.",40.9,Medium
+TASK-0419,Raiganj Relief Center,Shelter,Pending,5,Medium,29-08-2026 17:26,Shelter Setup; Logistics,459,"Adjacent to an existing relief camp, may need extra hands.",61.8,High
+TASK-0420,"Old Town, Saran",Medical,Pending,5,Medium,24-08-2026 09:59,Medical,198,,50.8,High
+TASK-0421,"Sector 3, Howrah",Shelter,Pending,4,Medium,20-09-2026 08:11,Shelter Setup; Logistics,248,,47.5,Medium
+TASK-0422,"Old Town, Balasubramanian Street",Logistics,Assigned,5,Medium,22-08-2026 10:59,Logistics,73,,50.5,High
+TASK-0423,Narasaraopet Relief Center,Water & Sanitation,Pending,5,Medium,20-09-2026 14:42,Water & Sanitation,267,,50.7,High
+TASK-0424,Jabalpur Ward 9,Search & Rescue,Assigned,7,High,19-09-2026 19:53,Search & Rescue; Medical,394,,68.3,High
+TASK-0425,Yamunanagar School Camp,Food,Completed,5,Medium,28-08-2026 23:22,Food Distribution,229,,54.8,High
+TASK-0426,Hospet Ward 9,Medical,Pending,5,Medium,24-08-2026 10:48,Medical; Search & Rescue,425,,55.7,High
+TASK-0427,Solapur Ward 10,Shelter,Pending,5,Medium,26-08-2026 16:28,Shelter Setup; Logistics,351,,57.6,High
+TASK-0428,Sikar Relief Center,Food,Pending,5,Medium,09-08-2026 15:21,Food Distribution,207,,44.4,Medium
+TASK-0429,Raipur Relief Center,Shelter,Assigned,8,High,16-08-2026 22:48,Shelter Setup; Logistics,288,,68.5,High
+TASK-0430,Kadapa Relief Center,Shelter,Completed,7,High,17-08-2026 11:06,Shelter Setup; Logistics; Food Distribution,196,"Adjacent to an existing relief camp, may need extra hands.",60.1,High
+TASK-0431,"Sector 10, Bhilwara",Water & Sanitation,Completed,8,High,17-08-2026 01:53,Water & Sanitation,442,,70.9,High
+TASK-0432,Pallavaram School Camp,Water & Sanitation,Assigned,5,Medium,17-08-2026 04:28,,259,,48.9,Medium
+TASK-0433,"Old Town, Gera Chowk",Food,Assigned,5,Medium,09-09-2026 12:06,,462,,53.9,High
+TASK-0434,Chandigarh Colony,Shelter,Assigned,7,High,03-09-2026 02:17,,202,,63.9,High
+TASK-0435,"Old Town, Mannan Circle",Shelter,Pending,6,Medium,21-09-2026 03:09,,237,,54.5,High
+TASK-0436,"Old Town, Pathak Street",Food,Assigned,2,Low,24-08-2026 16:35,,201,,36.0,Medium
+TASK-0437,Bhilai School Camp,Shelter,Completed,6,Medium,04-09-2026 13:16,Shelter Setup; Logistics,142,"Local volunteers already on scene, coordination needed only.",52.0,High
+TASK-0438,Kumbakonam School Camp,Food,Completed,3,Low,16-09-2026 17:44,Food Distribution,105,,41.8,Medium
+TASK-0439,Bhind Relief Center,Food,Completed,4,Medium,17-08-2026 01:12,Food Distribution; Logistics,68,,40.4,Medium
+TASK-0440,"Old Town, Rao Road",Medical,Pending,9,High,11-09-2026 14:29,Medical,188,,72.8,High
+TASK-0441,Hajipur Colony,Medical,Pending,9,High,14-09-2026 05:48,Medical,200,"Adjacent to an existing relief camp, may need extra hands.",74.6,High
+TASK-0442,"Sector 5, Cuttack",Water & Sanitation,Completed,1,Low,18-09-2026 11:10,Water & Sanitation,78,,28.9,Medium
+TASK-0443,"Sector 3, Kirari Suleman Nagar",Logistics,Pending,1,Low,30-08-2026 04:24,,188,,36.1,Medium
+TASK-0444,"Sector 6, Suryapet",Shelter,Pending,2,Low,16-09-2026 05:31,Shelter Setup; Logistics,10,,32.1,Medium
+TASK-0445,"Sector 9, Bhiwani",Water & Sanitation,Completed,4,Medium,17-08-2026 06:58,Water & Sanitation,218,,45.0,Medium
+TASK-0446,Kadapa Ward 7,Food,Assigned,4,Medium,23-08-2026 03:09,Food Distribution,74,,44.7,Medium
+TASK-0447,Nanded Ward 3,Shelter,Pending,5,Medium,17-08-2026 23:05,Shelter Setup; Logistics,309,,55.4,High
+TASK-0448,"Old Town, Brar Road",Medical,Completed,10,High,29-08-2026 00:15,Medical; Logistics,612,,84.4,Critical
+TASK-0449,Thiruvananthapuram Colony,Food,Completed,5,Medium,20-08-2026 10:36,Food Distribution,235,,50.6,High
+TASK-0450,"Old Town, Walla",Water & Sanitation,Pending,5,Medium,12-09-2026 20:47,Water & Sanitation,96,,46.5,Medium
+TASK-0451,Ambala School Camp,Medical,Assigned,6,Medium,15-08-2026 14:15,Medical,264,,61.5,High
+TASK-0452,Mahbubnagar Ward 2,Food,Assigned,5,Medium,19-08-2026 21:19,Food Distribution,271,,53.8,High
+TASK-0453,"Old Town, Lanka Nagar",Search & Rescue,Pending,10,High,21-09-2026 11:19,Search & Rescue,596,,80.0,Critical
+TASK-0454,Aurangabad School Camp,Water & Sanitation,Assigned,4,Medium,02-09-2026 19:44,Water & Sanitation,316,Coordinator flagged this as high priority during morning briefing.,53.3,High
+TASK-0455,Bongaigaon Relief Center,Shelter,Pending,4,Medium,14-08-2026 03:01,Shelter Setup; Logistics,259,"Access road partially blocked, factor in extra travel time.",50.8,High
+TASK-0456,Sambalpur Ward 10,Food,Assigned,4,Medium,18-09-2026 05:24,Food Distribution,328,Elderly and children reported among the affected group.,56.3,High
+TASK-0457,Srinagar Relief Center,Shelter,Completed,5,Medium,19-09-2026 06:30,Shelter Setup; Logistics,85,,49.2,Medium
+TASK-0458,"Vijayanagaram, near primary school",Medical,Pending,7,High,30-08-2026 12:52,,137,,57.4,High
+TASK-0459,Mau Colony,Logistics,Completed,1,Low,24-08-2026 08:38,Logistics,139,,28.6,Medium
+TASK-0460,Imphal Ward 4,Logistics,Pending,5,Medium,18-09-2026 00:36,Logistics,243,,56.6,High
+TASK-0461,Uluberia School Camp,Medical,Pending,7,High,01-09-2026 17:24,Medical,421,"Local volunteers already on scene, coordination needed only.",71.0,High
+TASK-0462,"New Delhi, near bus depot",Food,Assigned,4,Medium,20-09-2026 20:52,Food Distribution,231,Reported via helpline; awaiting on-ground confirmation.,42.3,Medium
+TASK-0463,"Old Town, Dhaliwal Ganj",Food,Pending,7,High,10-09-2026 10:23,Food Distribution; Medical,407,"Local volunteers already on scene, coordination needed only.",68.0,High
+TASK-0464,Dhanbad School Camp,Medical,Pending,5,Medium,13-08-2026 12:40,Medical,371,"Adjacent to an existing relief camp, may need extra hands.",54.4,High
+TASK-0465,"Sector 2, Kulti",Water & Sanitation,Pending,4,Medium,26-08-2026 12:29,Water & Sanitation; Logistics,83,Reported via helpline; awaiting on-ground confirmation.,41.7,Medium
+TASK-0466,Jhansi Relief Center,Medical,Completed,4,Medium,15-08-2026 18:59,Medical,325,Elderly and children reported among the affected group.,43.3,Medium
+TASK-0467,"Old Town, Tank Road",Shelter,Pending,3,Low,14-08-2026 03:49,Shelter Setup; Logistics,266,,38.2,Medium
+TASK-0468,Mysore School Camp,Water & Sanitation,Pending,5,Medium,04-09-2026 12:07,Water & Sanitation,340,,56.6,High
+TASK-0469,New Delhi Colony,Water & Sanitation,Pending,6,Medium,08-09-2026 15:12,Water & Sanitation; Medical,341,,58.3,High
+TASK-0470,Dhanbad Colony,Medical,Completed,6,Medium,01-09-2026 18:44,Medical; Food Distribution,291,,62.8,High
+TASK-0471,"Old Town, Anand Circle",Food,Pending,6,Medium,16-08-2026 08:51,Food Distribution,483,,67.3,High
+TASK-0472,Chinsurah Ward 5,Medical,Completed,6,Medium,10-08-2026 05:56,Medical,275,,61.7,High
+TASK-0473,Sambhal Colony,Food,Completed,7,High,22-08-2026 06:40,Food Distribution; Medical,281,,63.0,High
+TASK-0474,Faridabad Relief Center,Food,Pending,3,Low,18-09-2026 06:25,Food Distribution,145,,41.2,Medium
+TASK-0475,Begusarai Relief Center,Food,Assigned,6,Medium,19-08-2026 01:55,Food Distribution; Water & Sanitation,461,,65.8,High
+TASK-0476,Dibrugarh Relief Center,Logistics,Assigned,6,Medium,23-09-2026 04:31,Logistics; Water & Sanitation,341,,35.1,Medium
+TASK-0477,"Warangal, near market",Logistics,Pending,5,Medium,09-09-2026 04:04,Logistics,71,,45.2,Medium
+TASK-0478,"Old Town, Pau Circle",Food,Pending,4,Medium,10-08-2026 18:17,,303,Coordinator flagged this as high priority during morning briefing.,52.7,High
+TASK-0479,Davanagere Relief Center,Food,Assigned,3,Low,26-08-2026 11:10,Food Distribution,92,"Adjacent to an existing relief camp, may need extra hands.",36.8,Medium
+TASK-0480,"Orai, near primary school",Food,Pending,8,High,27-08-2026 09:34,Food Distribution; Water & Sanitation,131,,65.1,High
+TASK-0481,Durgapur School Camp,Shelter,Pending,5,Medium,19-08-2026 14:03,Shelter Setup; Logistics,277,,55.4,High
+TASK-0482,Jalgaon Ward 3,Food,Assigned,6,Medium,11-08-2026 06:09,Food Distribution,202,,51.7,High
+TASK-0483,"Sector 2, Khammam",Logistics,Completed,4,Medium,01-09-2026 04:31,Logistics,243,,50.1,High
+TASK-0484,Singrauli Colony,Food,Pending,2,Low,21-08-2026 20:50,Food Distribution,222,,37.4,Medium
+TASK-0485,"Sector 6, Guna",Shelter,Pending,7,High,05-09-2026 21:47,Shelter Setup; Logistics; Search & Rescue,370,,67.2,High
+TASK-0486,"Phusro, near community hall",Logistics,Pending,2,Low,19-09-2026 19:56,Logistics,189,,32.8,Medium
+TASK-0487,"Sector 10, Arrah",Logistics,Pending,6,Medium,04-09-2026 21:46,,312,,62.0,High
+TASK-0488,Ballia Colony,Medical,Assigned,5,Medium,13-08-2026 06:25,Medical; Search & Rescue,261,,49.7,Medium
+TASK-0489,Bilaspur Relief Center,Food,Pending,5,Medium,08-09-2026 23:12,Food Distribution,279,,54.7,High
+TASK-0490,Ballia Colony,Search & Rescue,Pending,7,High,04-09-2026 23:31,Search & Rescue,437,Elderly and children reported among the affected group.,74.9,High
+TASK-0491,"Sector 4, Siliguri",Water & Sanitation,Pending,4,Medium,14-08-2026 23:27,Water & Sanitation,32,,43.7,Medium
+TASK-0492,"Old Town, Sastry Nagar",Medical,Assigned,6,Medium,14-09-2026 19:25,Medical,297,,60.5,High
+TASK-0493,Gurgaon School Camp,Search & Rescue,Pending,8,High,14-08-2026 02:28,,448,"Local volunteers already on scene, coordination needed only.",72.0,High
+TASK-0494,Bulandshahr School Camp,Search & Rescue,Assigned,8,High,15-09-2026 04:37,Search & Rescue,508,,76.5,Critical
+TASK-0495,Durgapur School Camp,Shelter,Completed,4,Medium,11-09-2026 02:55,Shelter Setup; Logistics,172,Elderly and children reported among the affected group.,46.0,Medium
+TASK-0496,"Morena, near community hall",Water & Sanitation,Pending,7,High,16-09-2026 21:49,,474,,68.7,High
+TASK-0497,"Malegaon, near primary school",Search & Rescue,Completed,10,High,25-08-2026 16:09,,532,"Access road partially blocked, factor in extra travel time.",85.4,Critical
+TASK-0498,Bongaigaon School Camp,Food,Pending,3,Low,02-09-2026 00:53,,218,,37.5,Medium
+TASK-0499,"Old Town, Mallick Ganj",Shelter,Assigned,5,Medium,18-08-2026 15:33,Shelter Setup; Logistics,199,,53.4,High
+TASK-0500,Kamarhati Colony,Medical,Pending,5,Medium,19-09-2026 21:03,Medical,319,Elderly and children reported among the affected group.,52.7,High
+TASK-0501,"Unnao, near market",Food,Pending,4,Medium,16-09-2026 11:56,,209,,52.1,High
+TASK-0502,Karaikudi Colony,Logistics,Pending,4,Medium,27-08-2026 06:31,Logistics,190,Reported via helpline; awaiting on-ground confirmation.,50.3,High
+TASK-0503,"Sector 11, Chapra",Shelter,Pending,9,High,07-09-2026 16:06,Shelter Setup; Logistics,399,,76.8,Critical
+TASK-0504,"Hapur, near water tank",Medical,Assigned,8,High,06-09-2026 02:10,Medical,401,,73.2,High
+TASK-0505,"Sector 2, Tumkur",Shelter,Assigned,8,High,23-08-2026 07:08,Shelter Setup; Logistics,153,,69.4,High
+TASK-0506,Bardhaman Colony,Medical,Pending,9,High,02-09-2026 09:21,Medical,683,,84.6,Critical
+TASK-0507,"Sector 1, Siwan",Water & Sanitation,Pending,4,Medium,16-08-2026 12:35,Water & Sanitation,238,Coordinator flagged this as high priority during morning briefing.,42.6,Medium
+TASK-0508,Moradabad Colony,Food,Assigned,6,Medium,24-08-2026 11:49,Food Distribution; Medical,319,Elderly and children reported among the affected group.,61.6,High
+TASK-0509,"Sector 12, Dhanbad",Medical,Assigned,7,High,14-09-2026 23:12,Medical,364,,64.5,High
+TASK-0510,Faridabad Relief Center,Water & Sanitation,Assigned,1,Low,19-08-2026 07:50,Water & Sanitation,131,,30.4,Medium
+TASK-0511,Chittoor School Camp,Logistics,Pending,4,Medium,26-08-2026 14:24,Logistics; Food Distribution,201,Reported via helpline; awaiting on-ground confirmation.,47.1,Medium
+TASK-0512,"Old Town, Ray Street",Shelter,Assigned,8,High,20-09-2026 04:06,Shelter Setup; Logistics,341,Coordinator flagged this as high priority during morning briefing.,74.3,High
+TASK-0513,"Morena, near water tank",Medical,Pending,9,High,16-09-2026 11:25,,627,,84.2,Critical
+TASK-0514,Baranagar Ward 1,Shelter,Assigned,2,Low,29-08-2026 19:03,Shelter Setup; Logistics,174,,34.5,Medium
+TASK-0515,"Deoghar, near market",Search & Rescue,Assigned,9,High,25-08-2026 14:24,Search & Rescue,556,,78.5,Critical
+TASK-0516,Belgaum Ward 5,Shelter,Pending,7,High,24-08-2026 07:19,Shelter Setup; Logistics,462,"Access road partially blocked, factor in extra travel time.",68.6,High
+TASK-0517,"Old Town, Barad Road",Water & Sanitation,Pending,7,High,21-08-2026 14:52,Water & Sanitation,303,Coordinator flagged this as high priority during morning briefing.,66.9,High
+TASK-0518,Bihar Sharif Relief Center,Water & Sanitation,Completed,6,Medium,20-09-2026 19:47,Water & Sanitation,372,"Adjacent to an existing relief camp, may need extra hands.",54.0,High
+TASK-0519,"Sector 1, Anantapuram",Water & Sanitation,Pending,6,Medium,12-09-2026 18:32,Water & Sanitation,365,,65.2,High
+TASK-0520,Guntur Relief Center,Food,Pending,4,Medium,13-08-2026 04:53,Food Distribution,187,,42.8,Medium
+TASK-0521,Nellore Relief Center,Shelter,Pending,6,Medium,03-09-2026 23:28,Shelter Setup; Logistics,115,,52.5,High
+TASK-0522,"Sector 2, Berhampore",Water & Sanitation,Pending,7,High,08-09-2026 02:33,Water & Sanitation,338,Reported via helpline; awaiting on-ground confirmation.,68.3,High
+TASK-0523,Naihati School Camp,Food,Pending,3,Low,26-08-2026 12:04,Food Distribution,152,"Local volunteers already on scene, coordination needed only.",41.9,Medium
+TASK-0524,Phagwara School Camp,Logistics,Pending,4,Medium,19-08-2026 05:10,Logistics,220,,46.8,Medium
+TASK-0525,"Sector 11, Chandigarh",Food,Pending,3,Low,26-08-2026 12:29,Food Distribution,144,"Access road partially blocked, factor in extra travel time.",36.5,Medium
+TASK-0526,Kolhapur Colony,Logistics,Pending,4,Medium,15-08-2026 02:41,,129,"Adjacent to an existing relief camp, may need extra hands.",44.1,Medium
+TASK-0527,Chennai School Camp,Food,Assigned,5,Medium,01-09-2026 18:49,Food Distribution,133,,44.6,Medium
+TASK-0528,"Sector 12, Amroha",Medical,Assigned,9,High,21-09-2026 09:42,Medical,310,,68.6,High
+TASK-0529,"Old Town, Apte",Search & Rescue,Completed,9,High,27-08-2026 09:37,,505,,84.9,Critical
+TASK-0530,"Sector 8, Karimnagar",Food,Completed,4,Medium,13-09-2026 07:59,Food Distribution; Water & Sanitation,131,,41.5,Medium
+TASK-0531,Kirari Suleman Nagar Relief Center,Shelter,Pending,7,High,09-08-2026 23:26,Shelter Setup; Logistics,454,"Adjacent to an existing relief camp, may need extra hands.",67.6,High
+TASK-0532,Ambala Relief Center,Food,Pending,5,Medium,14-08-2026 00:49,Food Distribution,103,,47.1,Medium
+TASK-0533,Arrah Colony,Logistics,Pending,3,Low,01-09-2026 02:39,Logistics,182,,37.3,Medium
+TASK-0534,Guntur Ward 10,Shelter,Assigned,6,Medium,27-08-2026 10:38,Shelter Setup; Logistics; Water & Sanitation,400,,62.1,High
+TASK-0535,Medininagar School Camp,Water & Sanitation,Assigned,10,High,18-09-2026 21:58,Water & Sanitation,438,,85.7,Critical
+TASK-0536,"Sector 8, Siwan",Food,Pending,5,Medium,19-09-2026 05:54,,220,,47.0,Medium
+TASK-0537,Hajipur Colony,Water & Sanitation,Pending,4,Medium,14-09-2026 23:00,Water & Sanitation,174,,39.5,Medium
+TASK-0538,"Solapur, near community hall",Shelter,Pending,4,Medium,11-09-2026 02:20,Shelter Setup; Logistics,134,,39.6,Medium
+TASK-0539,"Sector 2, Motihari",Shelter,Pending,7,High,06-09-2026 19:26,Shelter Setup; Logistics,563,,76.3,Critical
+TASK-0540,"Old Town, Venkatesh Path",Water & Sanitation,Assigned,4,Medium,12-09-2026 12:21,Water & Sanitation; Shelter Setup,229,"Adjacent to an existing relief camp, may need extra hands.",44.9,Medium
+TASK-0541,"Bhiwandi, near market",Shelter,Pending,8,High,31-08-2026 10:59,Shelter Setup; Logistics,485,,73.1,High
+TASK-0542,Sasaram Relief Center,Food,Pending,3,Low,13-08-2026 10:34,Food Distribution,235,,44.4,Medium
+TASK-0543,"Sector 2, Mira-Bhayandar",Water & Sanitation,Pending,4,Medium,10-09-2026 06:02,Water & Sanitation,84,,38.4,Medium
+TASK-0544,Phusro School Camp,Water & Sanitation,Completed,5,Medium,17-09-2026 08:48,Water & Sanitation,233,,48.7,Medium
+TASK-0545,"Lucknow, near bridge",Shelter,Assigned,5,Medium,07-09-2026 18:35,Shelter Setup; Logistics,60,,44.8,Medium
+TASK-0546,Bellary Relief Center,Water & Sanitation,Completed,3,Low,18-08-2026 10:55,Water & Sanitation,223,,39.1,Medium
+TASK-0547,Bhusawal Ward 3,Water & Sanitation,Assigned,4,Medium,10-09-2026 09:27,Water & Sanitation,146,Elderly and children reported among the affected group.,50.0,High
+TASK-0548,Coimbatore Relief Center,Medical,Completed,10,High,03-09-2026 07:26,,270,,75.1,Critical
+TASK-0549,"Sector 7, Alappuzha",Food,Pending,4,Medium,12-08-2026 11:39,Food Distribution,145,,40.1,Medium
+TASK-0550,Dindigul School Camp,Medical,Pending,10,High,09-09-2026 22:11,Medical,201,,73.8,High
+TASK-0551,"Sector 3, Gandhinagar",Search & Rescue,Assigned,7,High,13-08-2026 09:47,Search & Rescue,503,,69.3,High
+TASK-0552,Karnal Colony,Shelter,Assigned,5,Medium,13-09-2026 06:22,Shelter Setup; Logistics,219,Elderly and children reported among the affected group.,54.4,High
+TASK-0553,"Sector 11, Dehri",Food,Pending,3,Low,31-08-2026 02:15,Food Distribution,153,,38.8,Medium
+TASK-0554,Lucknow Colony,Water & Sanitation,Pending,5,Medium,03-09-2026 02:19,,250,,49.4,Medium
+TASK-0555,Katihar School Camp,Food,Completed,7,High,13-08-2026 13:52,Food Distribution; Shelter Setup,452,,65.4,High
+TASK-0556,"Sector 1, Jaunpur",Shelter,Completed,7,High,06-09-2026 06:34,Shelter Setup; Logistics,497,,71.0,High
+TASK-0557,"Old Town, Balay Zila",Medical,Pending,7,High,10-09-2026 04:50,Medical,449,,70.3,High
+TASK-0558,Srikakulam Colony,Logistics,Pending,3,Low,25-08-2026 05:21,Logistics; Medical,241,,46.0,Medium
+TASK-0559,"Sector 10, Jabalpur",Food,Pending,4,Medium,31-08-2026 22:28,Food Distribution,189,,43.5,Medium
+TASK-0560,"Old Town, Konda Nagar",Water & Sanitation,Assigned,3,Low,21-08-2026 00:25,Water & Sanitation,213,,41.8,Medium
+TASK-0561,Rewa Relief Center,Water & Sanitation,Pending,4,Medium,25-08-2026 10:03,Water & Sanitation,360,,50.0,High
+TASK-0562,Pimpri-Chinchwad Relief Center,Water & Sanitation,Assigned,5,Medium,14-08-2026 16:04,Water & Sanitation,291,"Adjacent to an existing relief camp, may need extra hands.",52.8,High
+TASK-0563,Muzaffarpur Colony,Water & Sanitation,Pending,4,Medium,06-09-2026 09:35,Water & Sanitation,180,,41.2,Medium
+TASK-0564,Patiala Colony,Water & Sanitation,Assigned,6,Medium,30-08-2026 10:51,Water & Sanitation; Logistics,232,,56.2,High
+TASK-0565,Haridwar Relief Center,Shelter,Assigned,6,Medium,01-09-2026 13:15,,458,,62.3,High
+TASK-0566,Proddatur Ward 12,Water & Sanitation,Assigned,7,High,13-09-2026 06:08,Water & Sanitation,464,Coordinator flagged this as high priority during morning briefing.,63.2,High
+TASK-0567,Miryalaguda School Camp,Medical,Pending,7,High,19-08-2026 21:48,Medical,208,,63.2,High
+TASK-0568,Eluru Colony,Food,Pending,5,Medium,22-09-2026 21:47,,170,"Local volunteers already on scene, coordination needed only.",29.7,Medium
+TASK-0569,"Old Town, Mital Street",Food,Completed,3,Low,11-08-2026 04:40,Food Distribution; Search & Rescue,88,,35.3,Medium
+TASK-0570,Udaipur Ward 5,Food,Assigned,2,Low,21-08-2026 19:09,Food Distribution; Logistics,149,,34.5,Medium
+TASK-0571,Kamarhati Ward 8,Search & Rescue,Assigned,4,Medium,27-08-2026 13:15,Search & Rescue,280,,46.5,Medium
+TASK-0572,"Sector 9, Howrah",Search & Rescue,Assigned,8,High,02-09-2026 04:07,Search & Rescue; Medical,380,,73.9,High
+TASK-0573,Proddatur Colony,Shelter,Pending,5,Medium,23-08-2026 02:34,Shelter Setup; Logistics; Food Distribution,66,,48.9,Medium
+TASK-0574,Latur Relief Center,Shelter,Completed,5,Medium,23-08-2026 11:13,,314,,60.1,High
+TASK-0575,"Sector 12, Vijayawada",Search & Rescue,Pending,7,High,09-08-2026 21:14,Search & Rescue,394,,66.9,High
+TASK-0576,"Old Town, Behl Ganj",Food,Assigned,6,Medium,19-08-2026 12:22,Food Distribution; Water & Sanitation,494,"Local volunteers already on scene, coordination needed only.",64.4,High
+TASK-0577,Burhanpur Colony,Medical,Completed,8,High,16-09-2026 16:02,Medical,377,,64.5,High
+TASK-0578,Maheshtala Ward 7,Food,Pending,4,Medium,22-09-2026 03:47,,59,"Local volunteers already on scene, coordination needed only.",30.0,Medium
+TASK-0579,Dhule School Camp,Medical,Assigned,8,High,18-08-2026 07:08,,322,,73.1,High
+TASK-0580,"Sector 7, Rajpur Sonarpur",Medical,Completed,6,Medium,14-08-2026 07:41,Medical,383,"Access road partially blocked, factor in extra travel time.",61.6,High
+TASK-0581,Latur School Camp,Water & Sanitation,Pending,4,Medium,01-09-2026 00:11,Water & Sanitation,73,,44.5,Medium
+TASK-0582,Mathura Ward 9,Medical,Assigned,6,Medium,15-08-2026 11:50,Medical,433,,63.1,High
+TASK-0583,Nadiad Colony,Water & Sanitation,Pending,1,Low,17-09-2026 12:59,Water & Sanitation,187,Coordinator flagged this as high priority during morning briefing.,30.9,Medium
+TASK-0584,"Aizawl, near railway station",Logistics,Completed,2,Low,20-09-2026 19:21,Logistics,157,,29.3,Medium
+TASK-0585,"Kirari Suleman Nagar, near community hall",Food,Pending,5,Medium,02-09-2026 09:34,Food Distribution; Search & Rescue,271,,54.3,High
+TASK-0586,"Old Town, Munshi Path",Shelter,Pending,6,Medium,08-09-2026 16:50,,380,,61.7,High
+TASK-0587,Ranchi School Camp,Shelter,Pending,6,Medium,14-09-2026 04:38,Shelter Setup; Logistics,364,"Access road partially blocked, factor in extra travel time.",59.0,High
+TASK-0588,"Sector 12, Pune",Search & Rescue,Pending,10,High,10-08-2026 18:41,Search & Rescue; Logistics,313,"Local volunteers already on scene, coordination needed only.",82.1,Critical
+TASK-0589,Jamnagar Colony,Shelter,Pending,5,Medium,31-08-2026 09:48,Shelter Setup; Logistics,420,"Adjacent to an existing relief camp, may need extra hands.",56.3,High
+TASK-0590,"Nadiad, near bridge",Medical,Pending,7,High,25-08-2026 19:14,Medical,336,,67.9,High
+TASK-0591,"Old Town, Kurian Path",Food,Assigned,2,Low,03-09-2026 15:16,Food Distribution,116,,33.5,Medium
+TASK-0592,Pallavaram Colony,Food,Completed,5,Medium,15-08-2026 05:27,Food Distribution,148,,52.6,High
+TASK-0593,Gulbarga Ward 5,Food,Pending,2,Low,22-09-2026 02:45,Food Distribution,113,Reported via helpline; awaiting on-ground confirmation.,24.7,Low
+TASK-0594,"Hosur, near primary school",Shelter,Assigned,8,High,15-09-2026 08:47,Shelter Setup; Logistics; Food Distribution,147,Elderly and children reported among the affected group.,64.2,High
+TASK-0595,"Aurangabad, near bus depot",Shelter,Completed,10,High,06-09-2026 20:02,Shelter Setup; Logistics,240,,77.9,Critical
+TASK-0596,Durgapur Colony,Water & Sanitation,Pending,7,High,27-08-2026 23:02,Water & Sanitation,198,,56.1,High
+TASK-0597,Bangalore School Camp,Shelter,Assigned,8,High,11-08-2026 19:12,Shelter Setup; Logistics,324,,71.9,High
+TASK-0598,"Old Town, Subramanian Nagar",Food,Pending,5,Medium,08-09-2026 23:19,Food Distribution; Logistics,230,,54.2,High
+TASK-0599,"Old Town, Wali Nagar",Medical,Pending,10,High,13-08-2026 04:15,Medical,292,,77.4,Critical
+TASK-0600,Ahmedabad Colony,Medical,Assigned,7,High,13-08-2026 06:31,Medical,420,,66.6,High
+TASK-0601,Jorhat Colony,Shelter,Completed,6,Medium,11-08-2026 18:18,Shelter Setup; Logistics,282,,61.7,High
+TASK-0602,Mangalore Colony,Food,Pending,8,High,16-08-2026 21:51,Food Distribution,481,Coordinator flagged this as high priority during morning briefing.,70.2,High
+TASK-0603,New Delhi School Camp,Medical,Assigned,8,High,07-09-2026 08:41,Medical; Search & Rescue,520,,74.4,High
+TASK-0604,"Raichur, near bus depot",Logistics,Assigned,4,Medium,18-08-2026 09:00,,219,,43.3,Medium
+TASK-0605,Dindigul Ward 10,Water & Sanitation,Completed,4,Medium,19-08-2026 15:26,Water & Sanitation,68,,40.2,Medium
+TASK-0606,Kamarhati Relief Center,Water & Sanitation,Pending,7,High,04-09-2026 12:16,Water & Sanitation,187,Coordinator flagged this as high priority during morning briefing.,59.4,High
+TASK-0607,"Sector 8, Tiruchirappalli",Logistics,Assigned,7,High,13-08-2026 02:30,Logistics,168,,57.9,High
+TASK-0608,"Suryapet, near water tank",Water & Sanitation,Pending,6,Medium,22-09-2026 17:35,Water & Sanitation; Food Distribution,393,,45.3,Medium
+TASK-0609,Tirunelveli School Camp,Medical,Pending,10,High,17-09-2026 10:48,Medical; Food Distribution,450,,81.1,Critical
+TASK-0610,"Old Town, Chandran",Food,Pending,6,Medium,12-09-2026 15:48,Food Distribution,229,,52.6,High
+TASK-0611,Berhampur Ward 12,Water & Sanitation,Pending,4,Medium,23-08-2026 02:47,,140,,41.2,Medium
+TASK-0612,"Ranchi, near primary school",Medical,Pending,7,High,26-08-2026 18:41,,249,"Adjacent to an existing relief camp, may need extra hands.",60.2,High
+TASK-0613,"Sector 10, Mangalore",Medical,Pending,8,High,28-08-2026 21:49,Medical,489,,75.3,Critical
+TASK-0614,"Sector 6, Dharmavaram",Water & Sanitation,Assigned,1,Low,11-09-2026 12:35,,37,,25.9,Medium
+TASK-0615,Dewas Relief Center,Search & Rescue,Completed,4,Medium,30-08-2026 20:20,Search & Rescue,279,"Adjacent to an existing relief camp, may need extra hands.",48.4,Medium
+TASK-0616,Panvel Ward 3,Water & Sanitation,Assigned,8,High,20-09-2026 21:24,Water & Sanitation,294,Reported via helpline; awaiting on-ground confirmation.,65.2,High
+TASK-0617,Vijayawada School Camp,Shelter,Completed,7,High,02-09-2026 13:01,Shelter Setup; Logistics; Food Distribution,343,,68.2,High
+TASK-0618,"Navi Mumbai, near railway station",Medical,Assigned,8,High,28-08-2026 17:48,Medical,406,,74.4,High
+TASK-0619,Mau Relief Center,Shelter,Assigned,8,High,22-09-2026 04:39,Shelter Setup; Logistics; Water & Sanitation,414,,59.6,High
+TASK-0620,"Ludhiana, near community hall",Food,Completed,2,Low,02-09-2026 17:04,Food Distribution; Water & Sanitation,216,,41.4,Medium
+TASK-0621,Ambattur Ward 4,Medical,Assigned,7,High,28-08-2026 11:20,Medical,453,,69.4,High
+TASK-0622,Gaya Relief Center,Food,Completed,4,Medium,05-09-2026 05:21,,222,,44.6,Medium
+TASK-0623,"Sector 5, Tadipatri",Search & Rescue,Assigned,8,High,16-09-2026 08:39,Search & Rescue,225,,65.8,High
+TASK-0624,Gwalior Ward 8,Logistics,Assigned,4,Medium,31-08-2026 01:03,,346,,43.6,Medium
+TASK-0625,"Sector 1, Jamnagar",Logistics,Assigned,2,Low,03-09-2026 23:41,Logistics,67,,32.6,Medium
+TASK-0626,Aligarh School Camp,Water & Sanitation,Assigned,4,Medium,10-09-2026 03:29,Water & Sanitation,374,,51.7,High
+TASK-0627,"Sector 1, Raiganj",Search & Rescue,Pending,7,High,29-08-2026 07:11,Search & Rescue,296,Coordinator flagged this as high priority during morning briefing.,64.1,High
+TASK-0628,"Sector 12, Mira-Bhayandar",Food,Assigned,4,Medium,22-09-2026 15:14,Food Distribution,372,,36.7,Medium
+TASK-0629,"Sultan Pur Majra, near community hall",Shelter,Pending,7,High,19-08-2026 21:47,Shelter Setup; Logistics,100,,52.4,High
+TASK-0630,Kota School Camp,Logistics,Assigned,2,Low,18-09-2026 12:52,Logistics,66,,37.6,Medium
+TASK-0631,Begusarai Relief Center,Food,Completed,6,Medium,01-09-2026 05:23,Food Distribution,347,,61.6,High
+TASK-0632,"Sector 12, Ahmedabad",Search & Rescue,Pending,6,Medium,17-08-2026 05:45,Search & Rescue,486,Coordinator flagged this as high priority during morning briefing.,68.0,High
+TASK-0633,Guwahati School Camp,Logistics,Assigned,5,Medium,19-08-2026 08:16,Logistics,301,"Adjacent to an existing relief camp, may need extra hands.",58.2,High
+TASK-0634,Nadiad Relief Center,Water & Sanitation,Completed,8,High,14-09-2026 05:06,Water & Sanitation,545,,80.7,Critical
+TASK-0635,"Barasat, near market",Logistics,Completed,4,Medium,27-08-2026 06:12,Logistics,396,,52.0,High
+TASK-0636,"Sector 7, Rajkot",Food,Pending,3,Low,30-08-2026 07:57,Food Distribution,361,,48.0,Medium
+TASK-0637,Bidar School Camp,Water & Sanitation,Completed,9,High,22-08-2026 15:08,Water & Sanitation,556,,84.1,Critical
+TASK-0638,"Karimnagar, near water tank",Water & Sanitation,Pending,6,Medium,16-08-2026 00:49,Water & Sanitation,263,,60.5,High
+TASK-0639,Hindupur Colony,Food,Pending,4,Medium,10-08-2026 04:29,Food Distribution,337,,54.7,High
+TASK-0640,Aligarh Relief Center,Food,Pending,5,Medium,31-08-2026 21:44,Food Distribution; Water & Sanitation,218,,50.4,High
+TASK-0641,"Old Town, Rai Path",Shelter,Pending,8,High,18-09-2026 04:31,Shelter Setup; Logistics,299,"Access road partially blocked, factor in extra travel time.",69.0,High
+TASK-0642,"Gandhidham, near community hall",Shelter,Completed,1,Low,15-08-2026 12:52,,193,Reported via helpline; awaiting on-ground confirmation.,31.6,Medium
+TASK-0643,Dewas Colony,Medical,Pending,6,Medium,26-08-2026 15:06,Medical,422,Elderly and children reported among the affected group.,56.1,High
+TASK-0644,"Old Town, Rao Street",Shelter,Assigned,5,Medium,19-08-2026 16:44,Shelter Setup; Logistics,292,,53.7,High
+TASK-0645,Jalna Colony,Logistics,Pending,5,Medium,12-09-2026 05:03,Logistics,106,,50.5,High
+TASK-0646,Gandhinagar School Camp,Water & Sanitation,Pending,6,Medium,30-08-2026 06:29,Water & Sanitation,513,,67.5,High
+TASK-0647,"Sector 12, Raipur",Logistics,Completed,3,Low,19-08-2026 07:48,Logistics,310,,45.9,Medium
+TASK-0648,"Old Town, Shenoy Nagar",Shelter,Assigned,7,High,13-08-2026 07:14,Shelter Setup; Logistics; Medical,437,,69.3,High
+TASK-0649,Bahraich Relief Center,Search & Rescue,Assigned,9,High,20-08-2026 13:47,Search & Rescue,364,,70.1,High
+TASK-0650,"Panchkula, near primary school",Logistics,Completed,6,Medium,26-08-2026 05:47,Logistics,283,,56.1,High
+TASK-0651,Nizamabad Ward 9,Water & Sanitation,Pending,6,Medium,14-08-2026 07:57,Water & Sanitation; Food Distribution,347,,56.4,High
+TASK-0652,Srinagar Ward 5,Water & Sanitation,Completed,7,High,11-09-2026 14:27,Water & Sanitation; Medical,383,,68.6,High
+TASK-0653,Deoghar School Camp,Water & Sanitation,Pending,2,Low,17-09-2026 16:45,Water & Sanitation,102,,32.9,Medium
+TASK-0654,Karimnagar Relief Center,Medical,Assigned,3,Low,12-09-2026 17:36,Medical,260,,45.3,Medium
+TASK-0655,Kulti Colony,Medical,Pending,8,High,14-09-2026 14:41,Medical,326,,66.2,High
+TASK-0656,"Sector 6, Phusro",Food,Completed,4,Medium,03-09-2026 01:41,,63,,36.4,Medium
+TASK-0657,Aligarh School Camp,Shelter,Pending,4,Medium,12-08-2026 00:04,Shelter Setup; Logistics,343,,48.4,Medium
+TASK-0658,"Korba, near water tank",Logistics,Assigned,5,Medium,18-09-2026 00:03,,377,,57.5,High
+TASK-0659,"Sector 9, Amroha",Shelter,Pending,6,Medium,10-09-2026 04:42,Shelter Setup; Logistics,423,Elderly and children reported among the affected group.,55.5,High
+TASK-0660,"Sector 5, Giridih",Food,Pending,4,Medium,04-09-2026 04:20,,216,,49.2,Medium
+TASK-0661,Nagpur School Camp,Food,Pending,6,Medium,28-08-2026 15:03,Food Distribution,232,,53.8,High
+TASK-0662,Vijayanagaram School Camp,Water & Sanitation,Assigned,7,High,24-08-2026 00:14,,316,,59.6,High
+TASK-0663,Karnal School Camp,Medical,Pending,9,High,13-08-2026 20:51,Medical,550,"Local volunteers already on scene, coordination needed only.",83.7,Critical
+TASK-0664,Tiruppur Ward 10,Medical,Assigned,9,High,19-09-2026 12:00,Medical,580,Elderly and children reported among the affected group.,78.9,Critical
+TASK-0665,"Sector 5, Fatehpur",Shelter,Pending,8,High,15-09-2026 04:41,Shelter Setup; Logistics,368,,72.3,High
+TASK-0666,"Sector 8, Imphal",Food,Pending,6,Medium,27-08-2026 13:47,,385,,56.5,High
+TASK-0667,Raipur Ward 5,Search & Rescue,Pending,7,High,29-08-2026 17:14,Search & Rescue,292,,65.4,High
+TASK-0668,Dehradun School Camp,Food,Pending,5,Medium,09-09-2026 19:29,Food Distribution,338,Coordinator flagged this as high priority during morning briefing.,53.4,High
+TASK-0669,"Old Town, Narayanan Street",Food,Assigned,6,Medium,20-08-2026 03:12,Food Distribution,105,,51.7,High
+TASK-0670,Surendranagar Dudhrej Relief Center,Water & Sanitation,Assigned,4,Medium,22-09-2026 12:40,,159,,33.9,Medium
+TASK-0671,Gaya Ward 6,Medical,Completed,7,High,18-08-2026 17:54,Medical,198,,64.8,High
+TASK-0672,Srikakulam Ward 1,Search & Rescue,Completed,8,High,24-08-2026 15:42,Search & Rescue; Water & Sanitation,529,,72.2,High
+TASK-0673,"Sector 3, Pali",Search & Rescue,Pending,6,Medium,10-09-2026 13:44,Search & Rescue,405,,62.6,High
+TASK-0674,"Old Town, Chaudry Zila",Shelter,Completed,7,High,13-09-2026 18:42,Shelter Setup; Logistics,404,,67.7,High
+TASK-0675,"Old Town, Hegde Path",Water & Sanitation,Completed,5,Medium,02-09-2026 10:47,Water & Sanitation; Shelter Setup,307,,51.7,High
+TASK-0676,"Raipur, near water tank",Search & Rescue,Pending,10,High,13-08-2026 15:08,,611,Elderly and children reported among the affected group.,93.4,Critical
+TASK-0677,Kavali School Camp,Medical,Pending,4,Medium,23-08-2026 19:26,,350,,49.2,Medium
+TASK-0678,Karnal Ward 8,Water & Sanitation,Assigned,6,Medium,06-09-2026 12:21,Water & Sanitation,281,"Access road partially blocked, factor in extra travel time.",53.2,High
+TASK-0679,Bihar Sharif Ward 8,Food,Assigned,6,Medium,13-09-2026 07:27,Food Distribution,411,,62.6,High
+TASK-0680,Satara Colony,Food,Completed,2,Low,18-09-2026 07:50,,119,,33.8,Medium
+TASK-0681,Bhiwandi Relief Center,Shelter,Pending,7,High,17-09-2026 13:49,Shelter Setup; Logistics,489,Coordinator flagged this as high priority during morning briefing.,71.4,High
+TASK-0682,"Sasaram, near water tank",Food,Assigned,2,Low,11-09-2026 20:45,Food Distribution,231,,36.2,Medium
+TASK-0683,"Ramgarh, near water tank",Food,Completed,3,Low,17-09-2026 20:04,Food Distribution,141,,41.2,Medium
+TASK-0684,"Sector 10, Morbi",Shelter,Pending,5,Medium,08-09-2026 03:25,Shelter Setup; Logistics,117,Reported via helpline; awaiting on-ground confirmation.,48.4,Medium
+TASK-0685,"Sector 8, Unnao",Food,Pending,4,Medium,18-09-2026 23:21,Food Distribution,147,,36.1,Medium
+TASK-0686,Satna Relief Center,Logistics,Completed,2,Low,16-08-2026 23:34,Logistics; Search & Rescue,247,,35.1,Medium
+TASK-0687,"Sector 7, Bangalore",Food,Pending,7,High,12-08-2026 15:43,,456,Coordinator flagged this as high priority during morning briefing.,70.5,High
+TASK-0688,"Old Town, Tiwari Circle",Logistics,Assigned,3,Low,20-09-2026 20:04,Logistics,249,"Local volunteers already on scene, coordination needed only.",34.5,Medium
+TASK-0689,Alappuzha Colony,Logistics,Assigned,2,Low,02-09-2026 05:58,Logistics,101,,35.4,Medium
+TASK-0690,"Old Town, Butala Street",Shelter,Pending,4,Medium,20-09-2026 07:14,Shelter Setup; Logistics,140,"Local volunteers already on scene, coordination needed only.",50.2,High
+TASK-0691,Muzaffarnagar School Camp,Food,Assigned,3,Low,27-08-2026 18:33,Food Distribution; Search & Rescue,280,"Adjacent to an existing relief camp, may need extra hands.",43.2,Medium
+TASK-0692,"Old Town, Mani Circle",Medical,Pending,6,Medium,30-08-2026 19:34,Medical,141,,60.0,High
+TASK-0693,Berhampore Ward 2,Food,Pending,5,Medium,25-08-2026 05:21,,429,,63.4,High
+TASK-0694,Chapra School Camp,Food,Assigned,2,Low,09-09-2026 17:44,Food Distribution,201,,36.7,Medium
+TASK-0695,Hosur Ward 8,Food,Assigned,7,High,13-09-2026 16:12,Food Distribution,338,,60.5,High
+TASK-0696,"Old Town, Kota Zila",Medical,Pending,8,High,22-09-2026 00:13,Medical,324,"Adjacent to an existing relief camp, may need extra hands.",53.8,High
+TASK-0697,Patna Ward 6,Water & Sanitation,Pending,6,Medium,21-08-2026 15:51,Water & Sanitation; Food Distribution,199,,59.7,High
+TASK-0698,"Sector 6, Chandigarh",Shelter,Completed,6,Medium,18-08-2026 12:57,,379,"Local volunteers already on scene, coordination needed only.",61.9,High
+TASK-0699,"Bhagalpur, near bus depot",Water & Sanitation,Completed,5,Medium,14-08-2026 09:34,Water & Sanitation,288,,59.1,High
+TASK-0700,"Sector 10, Dehradun",Food,Assigned,7,High,12-09-2026 05:54,Food Distribution,285,,61.1,High
+TASK-0701,"Old Town, Panchal Nagar",Food,Assigned,2,Low,15-08-2026 14:56,,93,,31.6,Medium
+TASK-0702,Kavali Colony,Food,Pending,6,Medium,25-08-2026 00:25,,459,,65.4,High
+TASK-0703,Jalna Colony,Shelter,Pending,4,Medium,25-08-2026 08:02,Shelter Setup; Logistics,246,"Access road partially blocked, factor in extra travel time.",48.0,Medium
+TASK-0704,"Old Town, Bhargava Marg",Food,Pending,5,Medium,11-09-2026 19:00,Food Distribution,211,"Adjacent to an existing relief camp, may need extra hands.",53.3,High
+TASK-0705,Cuttack School Camp,Medical,Pending,7,High,02-09-2026 20:14,,312,,67.8,High
+TASK-0706,"Old Town, Ramaswamy Ganj",Water & Sanitation,Pending,4,Medium,31-08-2026 00:54,Water & Sanitation; Medical,69,Elderly and children reported among the affected group.,42.1,Medium
+TASK-0707,Ajmer Relief Center,Logistics,Pending,5,Medium,11-09-2026 23:55,,147,"Adjacent to an existing relief camp, may need extra hands.",48.8,Medium
+TASK-0708,Gandhinagar Colony,Medical,Assigned,8,High,22-09-2026 23:41,Medical,419,,53.5,High
+TASK-0709,Sambhal Ward 7,Logistics,Pending,4,Medium,19-08-2026 17:37,Logistics,330,,46.9,Medium
+TASK-0710,"Sector 6, Malda",Food,Assigned,5,Medium,18-08-2026 08:02,Food Distribution,350,,52.1,High
+TASK-0711,Tiruchirappalli Relief Center,Food,Pending,5,Medium,17-09-2026 12:49,Food Distribution,212,,46.8,Medium
+TASK-0712,Deoghar Relief Center,Shelter,Assigned,5,Medium,09-09-2026 17:43,Shelter Setup; Logistics,212,,49.0,Medium
+TASK-0713,Rajpur Sonarpur School Camp,Shelter,Assigned,7,High,09-08-2026 18:24,Shelter Setup; Logistics,357,,66.0,High
+TASK-0714,Anantapuram Ward 1,Food,Pending,3,Low,29-08-2026 05:05,Food Distribution,213,"Local volunteers already on scene, coordination needed only.",43.6,Medium
+TASK-0715,"Sector 6, Tiruvottiyur",Medical,Pending,6,Medium,02-09-2026 16:24,Medical; Search & Rescue,307,,59.3,High
+TASK-0716,Jaunpur Colony,Food,Pending,3,Low,17-09-2026 11:05,Food Distribution; Water & Sanitation,120,Reported via helpline; awaiting on-ground confirmation.,44.4,Medium
+TASK-0717,Gandhidham Ward 1,Water & Sanitation,Pending,5,Medium,10-09-2026 20:09,Water & Sanitation,372,,52.9,High
+TASK-0718,"Panihati, near market",Shelter,Pending,7,High,21-09-2026 14:19,Shelter Setup; Logistics,304,,52.3,High
+TASK-0719,"Old Town, Patel Zila",Medical,Assigned,8,High,15-09-2026 04:52,Medical,642,Reported via helpline; awaiting on-ground confirmation.,77.9,Critical
+TASK-0720,"Gwalior, near market",Shelter,Pending,7,High,10-09-2026 21:58,Shelter Setup; Logistics,341,,64.2,High
+TASK-0721,Tenali Colony,Medical,Assigned,10,High,19-09-2026 21:25,Medical,472,,86.1,Critical
+TASK-0722,Mysore School Camp,Medical,Pending,6,Medium,20-08-2026 06:06,Medical,199,,58.9,High
+TASK-0723,Morena School Camp,Medical,Completed,8,High,20-08-2026 07:15,,144,,61.9,High
+TASK-0724,Kadapa Relief Center,Food,Pending,4,Medium,15-09-2026 07:25,Food Distribution; Search & Rescue,167,Coordinator flagged this as high priority during morning briefing.,44.3,Medium
+TASK-0725,"Tiruvottiyur, near railway station",Medical,Pending,8,High,13-08-2026 17:57,Medical,253,,71.5,High
+TASK-0726,"Sector 10, Morena",Shelter,Pending,8,High,03-09-2026 04:03,Shelter Setup; Logistics,508,,76.5,Critical
+TASK-0727,Hubli–Dharwad Colony,Food,Pending,4,Medium,08-09-2026 00:47,Food Distribution; Medical,175,,46.7,Medium
+TASK-0728,"Arrah, near community hall",Medical,Pending,8,High,28-08-2026 19:06,Medical; Logistics,458,,79.8,Critical
+TASK-0729,"Sector 7, Guntur",Food,Pending,1,Low,08-09-2026 23:35,Food Distribution,41,,24.4,Low
+TASK-0730,"Sector 12, Phagwara",Shelter,Pending,9,High,31-08-2026 15:20,Shelter Setup; Logistics; Search & Rescue,623,,85.9,Critical
+TASK-0731,Kakinada Colony,Logistics,Assigned,6,Medium,10-08-2026 02:55,Logistics,170,,53.3,High
+TASK-0732,"Old Town, Chaudhry Zila",Water & Sanitation,Assigned,3,Low,05-09-2026 23:21,Water & Sanitation; Medical,282,,38.8,Medium
+TASK-0733,Amravati Ward 10,Food,Pending,1,Low,19-08-2026 21:54,Food Distribution,10,,20.6,Low
+TASK-0734,Haldia Relief Center,Food,Assigned,4,Medium,20-08-2026 17:33,Food Distribution; Shelter Setup,152,,46.3,Medium
+TASK-0735,Bally Ward 4,Water & Sanitation,Pending,5,Medium,07-09-2026 18:39,Water & Sanitation,330,,54.1,High
+TASK-0736,"Indore, near bus depot",Food,Pending,9,High,03-09-2026 05:50,Food Distribution,660,,80.4,Critical
+TASK-0737,Katni Ward 4,Logistics,Assigned,5,Medium,11-08-2026 23:13,Logistics; Search & Rescue,271,,54.0,High
+TASK-0738,"Shimla, near market",Food,Pending,5,Medium,10-08-2026 08:00,Food Distribution,157,,47.2,Medium
+TASK-0739,Panchkula Colony,Logistics,Pending,1,Low,03-09-2026 15:35,Logistics,99,,28.8,Medium
+TASK-0740,Karimnagar Ward 9,Search & Rescue,Completed,5,Medium,29-08-2026 22:15,,388,,57.2,High
+TASK-0741,Jehanabad Ward 4,Food,Pending,4,Medium,14-09-2026 11:14,Food Distribution,188,,47.4,Medium
+TASK-0742,Chittoor Relief Center,Food,Completed,2,Low,01-09-2026 02:17,Food Distribution,155,,34.6,Medium
+TASK-0743,"Kanpur, near community hall",Food,Completed,9,High,20-08-2026 04:05,Food Distribution; Water & Sanitation,256,,66.5,High
+TASK-0744,Allahabad Colony,Medical,Pending,6,Medium,12-08-2026 10:31,Medical,234,,54.9,High
+TASK-0745,"Orai, near bus depot",Medical,Pending,10,High,11-08-2026 01:25,Medical,266,Elderly and children reported among the affected group.,78.8,Critical
+TASK-0746,Gwalior School Camp,Food,Pending,7,High,14-08-2026 12:11,Food Distribution,334,,67.6,High
+TASK-0747,"Alwar, near bus depot",Water & Sanitation,Assigned,4,Medium,12-08-2026 07:24,Water & Sanitation,324,,46.4,Medium
+TASK-0748,Sasaram Ward 8,Medical,Pending,7,High,09-08-2026 10:55,Medical,196,,58.2,High
+TASK-0749,Katni School Camp,Food,Pending,5,Medium,14-09-2026 08:43,Food Distribution,332,Reported via helpline; awaiting on-ground confirmation.,51.9,High
+TASK-0750,Junagadh Colony,Search & Rescue,Pending,5,Medium,11-09-2026 13:44,,141,,50.9,High
+TASK-0751,Chandigarh Ward 8,Medical,Pending,5,Medium,27-08-2026 17:20,Medical,105,,43.9,Medium
+TASK-0752,Pudukkottai School Camp,Medical,Pending,8,High,23-09-2026 01:05,Medical,250,,50.3,High
+TASK-0753,Akola Colony,Search & Rescue,Pending,8,High,09-09-2026 00:42,Search & Rescue,513,,68.4,High
+TASK-0754,Hyderabad Ward 1,Medical,Completed,7,High,16-08-2026 08:30,Medical; Water & Sanitation,442,,69.0,High
+TASK-0755,Nagaon Ward 1,Food,Completed,1,Low,24-08-2026 07:52,Food Distribution,84,,26.1,Medium
+TASK-0756,Serampore Ward 10,Search & Rescue,Assigned,8,High,03-09-2026 03:42,,487,,74.1,High
+TASK-0757,"Sector 12, Ludhiana",Water & Sanitation,Completed,5,Medium,13-08-2026 04:17,Water & Sanitation,410,,56.5,High
+TASK-0758,Loni Colony,Water & Sanitation,Pending,6,Medium,09-09-2026 15:51,Water & Sanitation,472,Coordinator flagged this as high priority during morning briefing.,65.7,High
+TASK-0759,"Sector 2, Mehsana",Search & Rescue,Pending,5,Medium,22-08-2026 12:31,Search & Rescue,193,,52.1,High
+TASK-0760,"Pimpri-Chinchwad, near primary school",Search & Rescue,Pending,10,High,13-08-2026 12:41,Search & Rescue; Shelter Setup,541,,87.5,Critical
+TASK-0761,"Sector 11, Sangli-Miraj & Kupwad",Food,Completed,2,Low,27-08-2026 00:54,Food Distribution,203,,35.1,Medium
+TASK-0762,Ambattur Relief Center,Water & Sanitation,Completed,5,Medium,13-09-2026 04:50,Water & Sanitation,322,,49.9,Medium
+TASK-0763,"Old Town, Batra Ganj",Food,Pending,7,High,06-09-2026 01:44,Food Distribution,339,,67.8,High
+TASK-0764,"Bharatpur, near community hall",Water & Sanitation,Assigned,4,Medium,30-08-2026 17:18,Water & Sanitation,224,,45.7,Medium
+TASK-0765,"Vadodara, near railway station",Food,Completed,3,Low,31-08-2026 15:03,,172,,42.4,Medium
+TASK-0766,Pondicherry School Camp,Shelter,Completed,8,High,28-08-2026 06:05,Shelter Setup; Logistics,440,"Local volunteers already on scene, coordination needed only.",76.7,Critical
+TASK-0767,Gopalpur Ward 12,Food,Pending,4,Medium,17-08-2026 11:49,Food Distribution,239,,54.7,High
+TASK-0768,"Old Town, Gola Nagar",Food,Assigned,6,Medium,22-09-2026 09:27,Food Distribution,422,,47.8,Medium
+TASK-0769,Hazaribagh Colony,Water & Sanitation,Assigned,4,Medium,22-08-2026 11:13,,220,Reported via helpline; awaiting on-ground confirmation.,47.1,Medium
+TASK-0770,"Kirari Suleman Nagar, near market",Food,Assigned,3,Low,03-09-2026 06:21,Food Distribution,231,,46.7,Medium
+TASK-0771,Chandigarh School Camp,Logistics,Completed,5,Medium,06-09-2026 05:43,Logistics,283,Reported via helpline; awaiting on-ground confirmation.,58.7,High
+TASK-0772,Arrah Ward 11,Food,Assigned,6,Medium,10-08-2026 05:48,Food Distribution; Logistics,275,,59.2,High
+TASK-0773,Latur Colony,Water & Sanitation,Assigned,6,Medium,22-08-2026 21:23,Water & Sanitation,313,,59.9,High
+TASK-0774,"Thiruvananthapuram, near community hall",Food,Pending,2,Low,01-09-2026 02:39,Food Distribution,108,Coordinator flagged this as high priority during morning briefing.,34.5,Medium
+TASK-0775,"Chennai, near market",Food,Pending,1,Low,25-08-2026 00:56,Food Distribution; Logistics,75,,22.6,Low
+TASK-0776,Hosur Colony,Shelter,Pending,7,High,18-08-2026 17:15,Shelter Setup; Logistics,350,,66.1,High
+TASK-0777,Mumbai Ward 1,Food,Completed,6,Medium,22-08-2026 17:39,Food Distribution; Shelter Setup,327,Elderly and children reported among the affected group.,56.6,High
+TASK-0778,Tiruppur Relief Center,Shelter,Completed,6,Medium,31-08-2026 08:10,Shelter Setup; Logistics; Food Distribution,318,Coordinator flagged this as high priority during morning briefing.,60.3,High
+TASK-0779,"Pallavaram, near water tank",Food,Completed,7,High,10-09-2026 00:32,,246,,61.7,High
+TASK-0780,Tiruchirappalli Ward 5,Food,Assigned,3,Low,14-09-2026 19:35,Food Distribution; Medical,226,Coordinator flagged this as high priority during morning briefing.,41.9,Medium
+TASK-0781,Serampore School Camp,Logistics,Pending,6,Medium,11-09-2026 12:17,Logistics,279,,57.3,High
+TASK-0782,"Dibrugarh, near railway station",Water & Sanitation,Pending,6,Medium,25-08-2026 13:28,Water & Sanitation,452,,64.7,High
+TASK-0783,"Sector 10, Guntakal",Medical,Pending,5,Medium,06-09-2026 03:06,Medical,349,,53.8,High
+TASK-0784,Bikaner Colony,Food,Assigned,5,Medium,08-09-2026 04:43,,314,,55.4,High
+TASK-0785,"Old Town, Narain Marg",Logistics,Pending,4,Medium,09-09-2026 10:10,Logistics; Medical,172,,45.6,Medium
+TASK-0786,Bidhannagar Ward 6,Shelter,Pending,5,Medium,05-09-2026 15:30,Shelter Setup; Logistics,279,,47.7,Medium
+TASK-0787,Panihati Ward 11,Medical,Pending,9,High,21-08-2026 21:59,Medical,662,Elderly and children reported among the affected group.,84.1,Critical
+TASK-0788,Aligarh Relief Center,Food,Pending,4,Medium,03-09-2026 09:33,Food Distribution; Logistics,274,,47.2,Medium
+TASK-0789,Satara Colony,Water & Sanitation,Completed,7,High,04-09-2026 20:59,Water & Sanitation; Shelter Setup,605,,72.1,High
+TASK-0790,"Sector 7, Dhule",Food,Assigned,7,High,14-08-2026 13:59,Food Distribution,142,,61.6,High
+TASK-0791,Bilaspur Ward 12,Shelter,Assigned,6,Medium,26-08-2026 07:52,Shelter Setup; Logistics,417,,59.1,High
+TASK-0792,"Old Town, Baria",Medical,Completed,6,Medium,23-08-2026 05:49,Medical,329,,55.1,High
+TASK-0793,Khammam School Camp,Shelter,Pending,8,High,04-09-2026 03:17,Shelter Setup; Logistics; Search & Rescue,575,,83.3,Critical
+TASK-0794,Raurkela Industrial Township Ward 1,Water & Sanitation,Pending,8,High,11-09-2026 07:50,Water & Sanitation,412,"Adjacent to an existing relief camp, may need extra hands.",76.7,Critical
+TASK-0795,Dewas Relief Center,Medical,Completed,4,Medium,20-09-2026 18:12,Medical; Water & Sanitation,315,,51.1,High
+TASK-0796,"Sector 9, Machilipatnam",Shelter,Pending,6,Medium,14-09-2026 09:14,Shelter Setup; Logistics,409,,63.6,High
+TASK-0797,Surendranagar Dudhrej Ward 9,Logistics,Pending,1,Low,13-08-2026 18:30,Logistics; Water & Sanitation,14,"Access road partially blocked, factor in extra travel time.",28.9,Medium
+TASK-0798,"Sector 4, Ahmedabad",Water & Sanitation,Assigned,8,High,14-09-2026 08:14,,345,"Local volunteers already on scene, coordination needed only.",70.1,High
+TASK-0799,Davanagere School Camp,Food,Completed,3,Low,17-09-2026 23:15,Food Distribution,52,,39.6,Medium
+TASK-0800,"Sector 3, Ballia",Shelter,Assigned,6,Medium,18-08-2026 07:09,Shelter Setup; Logistics,328,Coordinator flagged this as high priority during morning briefing.,58.4,High
+TASK-0801,Lucknow Relief Center,Water & Sanitation,Assigned,8,High,10-09-2026 04:50,Water & Sanitation,277,"Access road partially blocked, factor in extra travel time.",68.7,High
+TASK-0802,"Warangal, near railway station",Medical,Completed,7,High,12-09-2026 02:50,Medical,336,,66.8,High
+TASK-0803,"Sector 3, Kalyan-Dombivli",Shelter,Assigned,6,Medium,12-09-2026 22:28,Shelter Setup; Logistics,398,,60.6,High
+TASK-0804,"Chapra, near railway station",Food,Pending,9,High,22-08-2026 12:15,Food Distribution; Medical,342,,74.8,High
+TASK-0805,Ludhiana Relief Center,Water & Sanitation,Completed,3,Low,12-09-2026 03:15,Water & Sanitation; Food Distribution,141,,39.7,Medium
+TASK-0806,Raichur Relief Center,Food,Pending,7,High,06-09-2026 19:53,Food Distribution,229,"Access road partially blocked, factor in extra travel time.",63.5,High
+TASK-0807,Parbhani Relief Center,Food,Assigned,7,High,26-08-2026 20:30,Food Distribution,205,,61.5,High
+TASK-0808,"Srikakulam, near railway station",Water & Sanitation,Pending,5,Medium,14-08-2026 03:24,Water & Sanitation,98,,47.3,Medium
+TASK-0809,"Sector 3, Panchkula",Medical,Completed,8,High,16-09-2026 09:09,Medical,510,"Local volunteers already on scene, coordination needed only.",74.8,High
+TASK-0810,Chandigarh School Camp,Water & Sanitation,Assigned,4,Medium,20-09-2026 07:03,Water & Sanitation,248,,41.3,Medium
+TASK-0811,"Gurgaon, near water tank",Search & Rescue,Completed,7,High,14-09-2026 17:16,Search & Rescue; Medical,401,"Local volunteers already on scene, coordination needed only.",67.0,High
+TASK-0812,Tinsukia Ward 3,Medical,Assigned,10,High,11-09-2026 00:28,Medical,322,,73.8,High
+TASK-0813,"Nangloi Jat, near community hall",Food,Pending,5,Medium,09-09-2026 21:18,Food Distribution,311,,58.9,High
+TASK-0814,Buxar Ward 4,Food,Pending,5,Medium,25-08-2026 03:19,Food Distribution,135,Coordinator flagged this as high priority during morning briefing.,52.7,High
+TASK-0815,Gopalpur Ward 7,Food,Assigned,3,Low,21-08-2026 12:18,,157,,36.3,Medium
+TASK-0816,"Kavali, near bus depot",Water & Sanitation,Pending,8,High,29-08-2026 22:02,Water & Sanitation,290,Coordinator flagged this as high priority during morning briefing.,68.3,High
+TASK-0817,Howrah Relief Center,Medical,Pending,6,Medium,08-09-2026 14:50,Medical,368,,54.3,High
+TASK-0818,Bhimavaram Ward 8,Medical,Pending,8,High,31-08-2026 19:17,Medical,363,,68.5,High
+TASK-0819,"Old Town, Lata Ganj",Logistics,Completed,5,Medium,23-08-2026 02:13,Logistics,255,,56.1,High
+TASK-0820,"Sector 10, Muzaffarnagar",Food,Pending,3,Low,17-08-2026 14:28,,231,,43.4,Medium
+TASK-0821,"Malegaon, near bus depot",Water & Sanitation,Pending,8,High,11-08-2026 15:49,,647,Reported via helpline; awaiting on-ground confirmation.,80.1,Critical
+TASK-0822,Secunderabad School Camp,Logistics,Pending,7,High,13-08-2026 18:17,Logistics,491,Elderly and children reported among the affected group.,70.0,High
+TASK-0823,Tezpur Colony,Water & Sanitation,Pending,6,Medium,14-08-2026 00:46,Water & Sanitation; Medical,382,Elderly and children reported among the affected group.,62.3,High
+TASK-0824,"Sector 8, Kumbakonam",Food,Pending,5,Medium,16-08-2026 22:18,Food Distribution; Shelter Setup,192,,52.9,High
+TASK-0825,"Sector 1, Pallavaram",Search & Rescue,Pending,8,High,12-08-2026 06:59,,315,,76.9,Critical
+TASK-0826,Muzaffarpur Relief Center,Food,Assigned,3,Low,10-09-2026 07:31,Food Distribution,211,,42.5,Medium
+TASK-0827,Hajipur Colony,Search & Rescue,Pending,6,Medium,16-09-2026 14:39,,524,,59.8,High
+TASK-0828,Srikakulam Ward 2,Water & Sanitation,Assigned,3,Low,10-09-2026 16:50,,303,,47.1,Medium
+TASK-0829,Belgaum Ward 11,Search & Rescue,Pending,8,High,08-09-2026 04:47,Search & Rescue,366,,73.7,High
+TASK-0830,Siliguri Colony,Water & Sanitation,Assigned,3,Low,28-08-2026 01:49,Water & Sanitation; Medical,234,,40.9,Medium
+TASK-0831,Hajipur Relief Center,Medical,Pending,7,High,20-09-2026 15:56,Medical; Logistics,117,Coordinator flagged this as high priority during morning briefing.,54.5,High
+TASK-0832,Tenali Colony,Logistics,Completed,4,Medium,13-09-2026 18:50,Logistics,172,,43.5,Medium
+TASK-0833,"Old Town, Deshpande Path",Medical,Pending,9,High,24-08-2026 05:07,Medical,272,Coordinator flagged this as high priority during morning briefing.,76.3,Critical
+TASK-0834,Junagadh School Camp,Logistics,Pending,4,Medium,17-08-2026 08:13,,148,,43.9,Medium
+TASK-0835,Kishanganj Relief Center,Food,Pending,5,Medium,22-09-2026 18:35,Food Distribution,331,,34.0,Medium
+TASK-0836,"Old Town, Radhakrishnan Street",Food,Pending,3,Low,02-09-2026 16:48,Food Distribution,166,,36.8,Medium
+TASK-0837,"Durg, near water tank",Water & Sanitation,Pending,4,Medium,17-09-2026 16:20,Water & Sanitation; Medical,184,,44.4,Medium
+TASK-0838,Chapra School Camp,Shelter,Pending,6,Medium,25-08-2026 03:54,Shelter Setup; Logistics,414,,64.3,High
+TASK-0839,"Sector 4, Madanapalle",Food,Pending,4,Medium,08-09-2026 02:35,,115,,45.7,Medium
+TASK-0840,"Old Town, Narula Street",Food,Assigned,6,Medium,19-09-2026 12:07,Food Distribution; Search & Rescue,243,"Adjacent to an existing relief camp, may need extra hands.",58.6,High
+TASK-0841,Patiala Ward 6,Shelter,Assigned,6,Medium,31-08-2026 14:38,Shelter Setup; Logistics; Food Distribution,193,,54.9,High
+TASK-0842,Hubli–Dharwad Ward 1,Water & Sanitation,Pending,5,Medium,19-08-2026 02:26,Water & Sanitation,274,,54.5,High
+TASK-0843,"Bilaspur, near railway station",Logistics,Pending,1,Low,11-08-2026 00:17,Logistics,51,,27.4,Medium
+TASK-0844,Etawah School Camp,Logistics,Assigned,2,Low,07-09-2026 20:06,Logistics,138,,29.9,Medium
+TASK-0845,"Sector 3, Nashik",Water & Sanitation,Pending,2,Low,26-08-2026 18:08,Water & Sanitation,222,,31.7,Medium
+TASK-0846,Rourkela School Camp,Medical,Completed,4,Medium,19-09-2026 09:48,Medical,252,,47.6,Medium
+TASK-0847,Etawah School Camp,Water & Sanitation,Assigned,6,Medium,09-08-2026 11:53,Water & Sanitation; Search & Rescue,299,,58.3,High
+TASK-0848,"Nangloi Jat, near water tank",Logistics,Pending,3,Low,26-08-2026 04:09,Logistics,171,,38.8,Medium
+TASK-0849,"Sector 10, Bidhannagar",Water & Sanitation,Pending,8,High,23-08-2026 07:29,Water & Sanitation,285,,62.4,High
+TASK-0850,Jaipur Ward 7,Food,Pending,5,Medium,20-09-2026 01:18,Food Distribution; Water & Sanitation,212,,46.9,Medium
+TASK-0851,Srinagar School Camp,Shelter,Pending,8,High,12-08-2026 14:54,Shelter Setup; Logistics,544,,78.2,Critical
+TASK-0852,Nanded Ward 8,Water & Sanitation,Pending,7,High,29-08-2026 13:38,Water & Sanitation,455,,69.7,High
+TASK-0853,Hindupur Ward 1,Medical,Pending,7,High,01-09-2026 19:55,Medical,529,,71.6,High
+TASK-0854,Chinsurah Colony,Logistics,Pending,6,Medium,02-09-2026 19:56,Logistics; Medical,216,"Local volunteers already on scene, coordination needed only.",55.1,High
+TASK-0855,Meerut School Camp,Food,Completed,6,Medium,07-09-2026 11:30,Food Distribution,91,Reported via helpline; awaiting on-ground confirmation.,51.5,High
+TASK-0856,"Old Town, Zachariah Marg",Shelter,Assigned,7,High,13-08-2026 16:46,Shelter Setup; Logistics,344,,57.7,High
+TASK-0857,Ichalkaranji School Camp,Medical,Assigned,6,Medium,16-09-2026 12:37,Medical,512,,64.6,High
+TASK-0858,Dhanbad School Camp,Logistics,Completed,7,High,25-08-2026 12:11,Logistics; Water & Sanitation,314,,69.6,High
+TASK-0859,"Meerut, near bus depot",Food,Pending,6,Medium,10-08-2026 03:36,Food Distribution; Water & Sanitation,384,Reported via helpline; awaiting on-ground confirmation.,69.7,High
+TASK-0860,Chandigarh Relief Center,Water & Sanitation,Assigned,4,Medium,04-09-2026 16:45,Water & Sanitation,224,,48.6,Medium
+TASK-0861,Jalandhar School Camp,Shelter,Pending,3,Low,29-08-2026 16:10,Shelter Setup; Logistics,263,,42.1,Medium
+TASK-0862,Jalna Colony,Logistics,Completed,3,Low,17-08-2026 16:42,Logistics,238,,39.2,Medium
+TASK-0863,Aizawl Colony,Medical,Pending,6,Medium,27-08-2026 22:09,Medical,427,,60.7,High
+TASK-0864,Bilaspur School Camp,Water & Sanitation,Completed,4,Medium,18-08-2026 06:01,Water & Sanitation,277,,49.3,Medium
+TASK-0865,Uluberia School Camp,Medical,Pending,8,High,18-08-2026 04:30,Medical; Shelter Setup,464,,71.0,High
+TASK-0866,Amroha Relief Center,Food,Pending,5,Medium,08-09-2026 22:15,Food Distribution,79,,47.0,Medium
+TASK-0867,"Kirari Suleman Nagar, near primary school",Search & Rescue,Assigned,8,High,17-09-2026 12:15,Search & Rescue,333,,78.1,Critical
+TASK-0868,"Old Town, Dora Nagar",Food,Assigned,6,Medium,25-08-2026 15:18,,271,,56.1,High
+TASK-0869,"Sector 10, Guwahati",Medical,Pending,10,High,16-09-2026 09:50,Medical; Water & Sanitation,292,,75.9,Critical
+TASK-0870,Begusarai Ward 11,Shelter,Assigned,8,High,14-09-2026 21:14,Shelter Setup; Logistics,278,,67.7,High
+TASK-0871,"Old Town, Keer Chowk",Water & Sanitation,Completed,4,Medium,25-08-2026 07:43,Water & Sanitation; Medical,313,,48.9,Medium
+TASK-0872,Dewas School Camp,Shelter,Completed,5,Medium,13-09-2026 21:51,Shelter Setup; Logistics; Water & Sanitation,192,,50.0,High
+TASK-0873,Ambala Colony,Logistics,Completed,2,Low,02-09-2026 20:32,Logistics,89,,34.5,Medium
+TASK-0874,"Old Town, Ghose Chowk",Water & Sanitation,Completed,7,High,26-08-2026 10:21,Water & Sanitation; Food Distribution,500,,67.5,High
+TASK-0875,Rajpur Sonarpur Ward 6,Food,Pending,5,Medium,16-09-2026 10:36,,250,,45.7,Medium
+TASK-0876,"Bhusawal, near primary school",Logistics,Pending,5,Medium,07-09-2026 12:18,Logistics; Food Distribution,246,,52.7,High
+TASK-0877,Siliguri School Camp,Water & Sanitation,Assigned,5,Medium,10-09-2026 13:59,Water & Sanitation; Search & Rescue,297,,50.4,High
+TASK-0878,Jabalpur Relief Center,Logistics,Pending,3,Low,17-08-2026 05:50,Logistics,228,,40.9,Medium
+TASK-0879,"Old Town, Majumdar Path",Shelter,Completed,4,Medium,11-09-2026 20:36,Shelter Setup; Logistics; Search & Rescue,341,,51.9,High
+TASK-0880,Ahmedabad Ward 11,Shelter,Pending,9,High,20-09-2026 01:40,Shelter Setup; Logistics; Food Distribution,482,Reported via helpline; awaiting on-ground confirmation.,74.3,High
+TASK-0881,Gorakhpur Relief Center,Water & Sanitation,Pending,5,Medium,18-08-2026 04:24,,311,,52.8,High
+TASK-0882,"Sector 10, Tezpur",Food,Completed,5,Medium,23-08-2026 19:43,Food Distribution,126,,50.8,High
+TASK-0883,"Sector 2, Phusro",Water & Sanitation,Pending,5,Medium,04-09-2026 04:54,Water & Sanitation,185,,47.9,Medium
+TASK-0884,Bulandshahr School Camp,Food,Completed,4,Medium,12-08-2026 21:15,Food Distribution,169,,47.7,Medium
+TASK-0885,Aurangabad Relief Center,Logistics,Pending,1,Low,21-08-2026 11:01,Logistics; Water & Sanitation,18,,29.2,Medium
+TASK-0886,"Malegaon, near bridge",Medical,Assigned,6,Medium,15-08-2026 18:02,Medical,296,,61.1,High
+TASK-0887,"Tadipatri, near railway station",Water & Sanitation,Pending,5,Medium,23-08-2026 01:58,,261,,52.3,High
+TASK-0888,Tenali Colony,Food,Completed,6,Medium,11-09-2026 13:22,Food Distribution,396,,67.9,High
+TASK-0889,Fatehpur School Camp,Food,Assigned,4,Medium,27-08-2026 19:43,Food Distribution,352,,52.8,High
+TASK-0890,Naihati Relief Center,Water & Sanitation,Pending,7,High,01-09-2026 01:41,Water & Sanitation; Logistics,410,,70.5,High
+TASK-0891,"Pallavaram, near bridge",Medical,Assigned,7,High,24-08-2026 08:41,,373,,68.5,High
+TASK-0892,Dewas School Camp,Food,Pending,9,High,14-09-2026 19:45,,176,,74.1,High
+TASK-0893,Erode Ward 4,Food,Assigned,3,Low,18-09-2026 13:36,Food Distribution,259,,40.8,Medium
+TASK-0894,"Old Town, Ray Ganj",Water & Sanitation,Pending,3,Low,14-08-2026 18:55,Water & Sanitation,240,,43.4,Medium
+TASK-0895,Hazaribagh Relief Center,Food,Pending,7,High,07-09-2026 08:35,Food Distribution; Medical,174,,56.7,High
+TASK-0896,Amritsar School Camp,Food,Pending,4,Medium,21-08-2026 01:28,Food Distribution,258,"Access road partially blocked, factor in extra travel time.",48.5,Medium
+TASK-0897,"Sector 1, Bhavnagar",Food,Assigned,5,Medium,13-09-2026 09:10,Food Distribution; Medical,351,,57.7,High
+TASK-0898,"Nellore, near market",Shelter,Pending,6,Medium,13-09-2026 08:50,Shelter Setup; Logistics,209,,60.0,High
+TASK-0899,"Old Town, Bedi Chowk",Shelter,Pending,7,High,22-08-2026 11:54,Shelter Setup; Logistics; Medical,418,,69.3,High
+TASK-0900,"Sector 11, Davanagere",Water & Sanitation,Pending,6,Medium,16-09-2026 22:05,,344,,59.1,High
+TASK-0901,"Sector 8, Dibrugarh",Water & Sanitation,Assigned,10,High,27-08-2026 20:03,Water & Sanitation,193,,76.8,Critical
+TASK-0902,"Sector 2, New Delhi",Water & Sanitation,Pending,8,High,19-08-2026 02:13,Water & Sanitation,542,Reported via helpline; awaiting on-ground confirmation.,79.8,Critical
+TASK-0903,"Belgaum, near community hall",Logistics,Pending,3,Low,09-09-2026 16:05,Logistics,210,"Adjacent to an existing relief camp, may need extra hands.",44.3,Medium
+TASK-0904,Ujjain Ward 7,Medical,Assigned,9,High,22-09-2026 10:22,,560,,63.0,High
+TASK-0905,Bhopal School Camp,Food,Pending,6,Medium,14-09-2026 13:17,Food Distribution,118,Coordinator flagged this as high priority during morning briefing.,53.4,High
+TASK-0906,Aurangabad School Camp,Search & Rescue,Pending,9,High,27-08-2026 13:30,Search & Rescue; Shelter Setup,571,,79.0,Critical
+TASK-0907,"Sector 1, Tiruppur",Food,Completed,2,Low,10-09-2026 05:59,Food Distribution,99,,30.7,Medium
+TASK-0908,Bangalore School Camp,Search & Rescue,Pending,9,High,22-09-2026 15:59,Search & Rescue,466,"Adjacent to an existing relief camp, may need extra hands.",67.3,High
+TASK-0909,Ghaziabad Relief Center,Water & Sanitation,Pending,5,Medium,14-08-2026 09:13,Water & Sanitation,131,"Adjacent to an existing relief camp, may need extra hands.",48.4,Medium
+TASK-0910,"Sector 5, Narasaraopet",Search & Rescue,Assigned,4,Medium,12-08-2026 14:01,,269,,45.3,Medium
+TASK-0911,Gandhinagar Relief Center,Food,Completed,6,Medium,12-08-2026 11:55,Food Distribution,471,,63.2,High
+TASK-0912,Bellary Relief Center,Food,Pending,2,Low,19-09-2026 11:31,Food Distribution; Search & Rescue,99,"Adjacent to an existing relief camp, may need extra hands.",35.4,Medium
+TASK-0913,"Bhimavaram, near market",Shelter,Pending,7,High,11-08-2026 19:52,,278,,68.1,High
+TASK-0914,"Sector 3, Kishanganj",Shelter,Assigned,4,Medium,04-09-2026 05:15,,242,,48.6,Medium
+TASK-0915,Moradabad School Camp,Search & Rescue,Completed,8,High,17-09-2026 15:27,Search & Rescue,296,"Access road partially blocked, factor in extra travel time.",65.0,High
+TASK-0916,"Old Town, Malhotra Path",Shelter,Assigned,6,Medium,08-09-2026 04:45,,89,,49.1,Medium
+TASK-0917,Bihar Sharif Ward 9,Water & Sanitation,Assigned,4,Medium,30-08-2026 21:07,Water & Sanitation,63,Reported via helpline; awaiting on-ground confirmation.,42.2,Medium
+TASK-0918,Howrah School Camp,Search & Rescue,Assigned,10,High,17-08-2026 17:04,Search & Rescue,728,,96.7,Critical
+TASK-0919,"Old Town, Tank Nagar",Food,Pending,6,Medium,16-08-2026 11:27,,225,,57.5,High
+TASK-0920,Rampur Colony,Food,Pending,6,Medium,03-09-2026 09:22,Food Distribution,325,,61.9,High
+TASK-0921,Vadodara School Camp,Food,Assigned,5,Medium,01-09-2026 16:55,Food Distribution; Logistics,289,,54.2,High
+TASK-0922,Korba Ward 1,Medical,Pending,9,High,04-09-2026 00:59,Medical,543,,80.4,Critical
+TASK-0923,Guna Ward 8,Shelter,Assigned,6,Medium,10-08-2026 13:23,Shelter Setup; Logistics,172,"Adjacent to an existing relief camp, may need extra hands.",55.0,High
+TASK-0924,"Durg, near market",Shelter,Pending,7,High,15-09-2026 10:25,Shelter Setup; Logistics,508,,70.3,High
+TASK-0925,Rampur School Camp,Medical,Completed,6,Medium,01-09-2026 08:38,Medical,169,"Local volunteers already on scene, coordination needed only.",53.8,High
+TASK-0926,"Old Town, Pant Ganj",Medical,Assigned,4,Medium,27-08-2026 18:35,Medical,322,,46.5,Medium
+TASK-0927,Aizawl Ward 12,Food,Completed,5,Medium,19-08-2026 18:59,,235,,50.6,High
+TASK-0928,"Bhilwara, near water tank",Food,Pending,6,Medium,15-08-2026 20:04,Food Distribution,387,Coordinator flagged this as high priority during morning briefing.,60.5,High
+TASK-0929,"Old Town, Bera Chowk",Medical,Pending,5,Medium,28-08-2026 06:17,,172,"Local volunteers already on scene, coordination needed only.",46.6,Medium
+TASK-0930,"Chittoor, near bus depot",Water & Sanitation,Assigned,4,Medium,22-09-2026 06:32,Water & Sanitation,257,Elderly and children reported among the affected group.,36.0,Medium
+TASK-0931,"Eluru, near community hall",Food,Pending,6,Medium,10-08-2026 18:54,Food Distribution,386,"Local volunteers already on scene, coordination needed only.",55.7,High
+TASK-0932,Meerut School Camp,Shelter,Assigned,7,High,03-09-2026 09:38,Shelter Setup; Logistics,403,Coordinator flagged this as high priority during morning briefing.,63.7,High
+TASK-0933,"Sector 4, Tiruvottiyur",Logistics,Pending,3,Low,08-09-2026 07:33,,180,Elderly and children reported among the affected group.,39.7,Medium
+TASK-0934,"Old Town, Buch Street",Search & Rescue,Completed,9,High,19-09-2026 23:20,,591,,81.7,Critical
+TASK-0935,Thoothukudi Relief Center,Logistics,Assigned,6,Medium,11-08-2026 17:38,,358,"Access road partially blocked, factor in extra travel time.",59.3,High
+TASK-0936,"Sector 4, Kolkata",Food,Pending,4,Medium,12-08-2026 20:31,Food Distribution,67,,43.0,Medium
+TASK-0937,"Sector 9, Gulbarga",Food,Completed,8,High,26-08-2026 12:04,Food Distribution; Medical,645,,77.3,Critical
+TASK-0938,Hubli–Dharwad Ward 1,Search & Rescue,Pending,8,High,15-08-2026 16:46,Search & Rescue,223,,67.6,High
+TASK-0939,Sambhal Colony,Food,Pending,5,Medium,05-09-2026 18:10,Food Distribution,445,,56.4,High
+TASK-0940,Kolkata Ward 6,Food,Assigned,4,Medium,07-09-2026 08:46,,160,,41.2,Medium
+TASK-0941,Dindigul Colony,Search & Rescue,Assigned,8,High,21-09-2026 07:00,Search & Rescue,138,,59.3,High
+TASK-0942,Surat Ward 10,Medical,Assigned,7,High,10-09-2026 01:37,Medical; Food Distribution,233,,60.9,High
+TASK-0943,Hapur Colony,Shelter,Assigned,7,High,12-08-2026 17:28,Shelter Setup; Logistics,417,,68.3,High
+TASK-0944,"Sector 1, Yamunanagar",Medical,Pending,10,High,31-08-2026 11:07,Medical,512,,83.5,Critical
+TASK-0945,"Sector 6, Amritsar",Search & Rescue,Pending,7,High,13-09-2026 18:48,Search & Rescue; Logistics,204,,57.1,High
+TASK-0946,Sirsa Relief Center,Logistics,Pending,7,High,21-09-2026 20:08,Logistics,485,,66.2,High
+TASK-0947,Raebareli Ward 4,Water & Sanitation,Completed,6,Medium,21-09-2026 08:30,Water & Sanitation,370,,53.5,High
+TASK-0948,Secunderabad Relief Center,Food,Pending,4,Medium,13-08-2026 17:26,Food Distribution,104,,43.5,Medium
+TASK-0949,"Sector 9, Surat",Medical,Completed,7,High,17-08-2026 15:07,Medical,449,,69.2,High
+TASK-0950,"Rajpur Sonarpur, near railway station",Search & Rescue,Assigned,9,High,02-09-2026 02:33,Search & Rescue,519,"Access road partially blocked, factor in extra travel time.",79.6,Critical
+TASK-0951,"Old Town, Barad Path",Search & Rescue,Pending,7,High,21-09-2026 14:50,Search & Rescue,205,,57.3,High
+TASK-0952,Rohtak Colony,Water & Sanitation,Assigned,5,Medium,11-09-2026 08:05,,228,,56.2,High
+TASK-0953,Moradabad Relief Center,Shelter,Pending,4,Medium,19-09-2026 18:07,Shelter Setup; Logistics,230,,48.1,Medium
+TASK-0954,"Sector 4, Erode",Water & Sanitation,Pending,6,Medium,24-08-2026 12:30,Water & Sanitation; Shelter Setup,218,,57.3,High
+TASK-0955,Motihari Relief Center,Medical,Pending,8,High,11-09-2026 14:03,Medical,452,,76.8,Critical
+TASK-0956,Tiruppur Ward 6,Logistics,Pending,5,Medium,12-09-2026 14:10,Logistics,198,,47.9,Medium
+TASK-0957,Salem School Camp,Water & Sanitation,Assigned,6,Medium,09-08-2026 23:56,Water & Sanitation; Food Distribution,405,,59.4,High
+TASK-0958,"Sector 10, Gurgaon",Shelter,Completed,8,High,22-09-2026 05:07,,254,,54.7,High
+TASK-0959,"Ichalkaranji, near railway station",Logistics,Pending,1,Low,21-09-2026 21:24,Logistics,207,,20.7,Low
+TASK-0960,Davanagere School Camp,Water & Sanitation,Completed,6,Medium,20-08-2026 23:20,Water & Sanitation,313,,59.4,High
+TASK-0961,Nagaon Ward 6,Food,Pending,7,High,10-09-2026 00:54,Food Distribution,451,Elderly and children reported among the affected group.,64.8,High
+TASK-0962,Sagar Relief Center,Logistics,Pending,5,Medium,04-09-2026 17:16,Logistics,326,,54.5,High
+TASK-0963,Dhule Ward 9,Shelter,Pending,8,High,09-08-2026 11:13,Shelter Setup; Logistics,474,,75.5,Critical
+TASK-0964,Delhi Ward 10,Medical,Pending,5,Medium,31-08-2026 09:23,Medical; Food Distribution,230,,54.1,High
+TASK-0965,"Chapra, near railway station",Medical,Assigned,8,High,01-09-2026 23:48,Medical,315,,63.1,High
+TASK-0966,Sasaram School Camp,Logistics,Completed,4,Medium,13-08-2026 05:19,,78,,41.8,Medium
+TASK-0967,"Sector 2, Ahmednagar",Water & Sanitation,Assigned,3,Low,21-08-2026 12:12,Water & Sanitation,112,,36.7,Medium
+TASK-0968,Madhyamgram Ward 12,Search & Rescue,Assigned,10,High,20-08-2026 23:54,Search & Rescue,625,,86.7,Critical
+TASK-0969,Thane School Camp,Shelter,Assigned,7,High,02-09-2026 17:38,,357,,62.5,High
+TASK-0970,"Old Town, Chandran Zila",Food,Assigned,5,Medium,27-08-2026 23:41,Food Distribution,124,,46.3,Medium
+TASK-0971,"Old Town, Garde Street",Water & Sanitation,Completed,5,Medium,10-09-2026 17:05,Water & Sanitation,90,Elderly and children reported among the affected group.,49.4,Medium
+TASK-0972,Secunderabad Colony,Food,Pending,5,Medium,26-08-2026 18:55,Food Distribution,244,,53.8,High
+TASK-0973,Serampore Colony,Medical,Pending,8,High,29-08-2026 21:28,Medical,529,,77.5,Critical
+TASK-0974,"Sector 12, Rewa",Shelter,Pending,7,High,12-08-2026 14:19,Shelter Setup; Logistics,337,,62.5,High
+TASK-0975,Kharagpur Relief Center,Search & Rescue,Pending,10,High,18-09-2026 01:48,,487,"Local volunteers already on scene, coordination needed only.",88.9,Critical
+TASK-0976,"Gorakhpur, near bus depot",Logistics,Pending,4,Medium,22-08-2026 04:59,Logistics,233,,44.3,Medium
+TASK-0977,"Sector 4, Vasai-Virar",Water & Sanitation,Completed,8,High,25-08-2026 19:51,Water & Sanitation,288,"Local volunteers already on scene, coordination needed only.",66.4,High
+TASK-0978,Bokaro Ward 11,Shelter,Pending,7,High,17-09-2026 09:03,Shelter Setup; Logistics,216,,60.0,High
+TASK-0979,Pudukkottai School Camp,Search & Rescue,Assigned,9,High,21-09-2026 14:37,,206,Reported via helpline; awaiting on-ground confirmation.,59.1,High
+TASK-0980,Morbi Relief Center,Shelter,Completed,5,Medium,14-08-2026 13:14,Shelter Setup; Logistics,268,,51.4,High
+TASK-0981,"Ranchi, near bus depot",Shelter,Pending,4,Medium,12-09-2026 02:47,Shelter Setup; Logistics; Food Distribution,279,,45.4,Medium
+TASK-0982,Ahmedabad School Camp,Food,Completed,7,High,27-08-2026 00:30,Food Distribution; Water & Sanitation,397,,65.7,High
+TASK-0983,Kadapa School Camp,Food,Assigned,5,Medium,17-08-2026 13:20,Food Distribution,180,,52.5,High
+TASK-0984,"Old Town, Pal Chowk",Water & Sanitation,Pending,7,High,15-09-2026 19:06,Water & Sanitation,249,,63.6,High
+TASK-0985,"Jalgaon, near market",Medical,Pending,9,High,18-08-2026 20:34,Medical; Shelter Setup,317,,73.2,High
+TASK-0986,Sangli-Miraj & Kupwad Ward 5,Medical,Completed,5,Medium,21-08-2026 16:57,Medical; Search & Rescue,253,,51.2,High
+TASK-0987,Dehradun School Camp,Food,Assigned,4,Medium,31-08-2026 13:14,Food Distribution; Medical,347,,52.6,High
+TASK-0988,"New Delhi, near railway station",Food,Assigned,4,Medium,06-09-2026 04:17,,259,,49.8,Medium
+TASK-0989,"Old Town, Radhakrishnan Ganj",Logistics,Assigned,6,Medium,16-08-2026 14:09,Logistics,92,"Local volunteers already on scene, coordination needed only.",48.6,Medium
+TASK-0990,Noida Ward 2,Food,Pending,3,Low,02-09-2026 11:46,Food Distribution,338,"Adjacent to an existing relief camp, may need extra hands.",43.6,Medium
+TASK-0991,"Old Town, Chakrabarti Chowk",Search & Rescue,Pending,7,High,30-08-2026 02:36,Search & Rescue,277,"Local volunteers already on scene, coordination needed only.",62.0,High
+TASK-0992,Amroha Relief Center,Food,Assigned,3,Low,03-09-2026 00:40,Food Distribution; Search & Rescue,269,Reported via helpline; awaiting on-ground confirmation.,43.1,Medium
+TASK-0993,"Old Town, Raval Zila",Food,Pending,4,Medium,01-09-2026 02:00,,201,,47.6,Medium
+TASK-0994,Vadodara Colony,Food,Pending,3,Low,07-09-2026 23:58,Food Distribution,307,,41.9,Medium
+TASK-0995,"Mahbubnagar, near market",Water & Sanitation,Assigned,4,Medium,09-09-2026 03:07,Water & Sanitation,88,,41.4,Medium
+TASK-0996,"Sector 3, Sirsa",Shelter,Assigned,4,Medium,19-08-2026 22:17,,275,,48.7,Medium
+TASK-0997,"Rajahmundry, near water tank",Medical,Assigned,8,High,17-09-2026 00:14,Medical,145,,67.1,High
+TASK-0998,"Old Town, Comar Chowk",Water & Sanitation,Pending,5,Medium,06-09-2026 11:05,Water & Sanitation,309,,57.3,High
+TASK-0999,"Korba, near bridge",Food,Pending,4,Medium,12-08-2026 04:23,Food Distribution,358,"Adjacent to an existing relief camp, may need extra hands.",50.4,High
+TASK-1000,"Jalna, near railway station",Search & Rescue,Pending,9,High,09-09-2026 04:24,Search & Rescue; Water & Sanitation,367,,80.1,Critical

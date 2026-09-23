@@ -1,0 +1,1001 @@
+id,name,location,skills,availability
+VOL-0001,Hitesh Bath,Kumbakonam School Camp,Shelter Setup; Food Distribution,Available
+VOL-0002,Aachal Hayre,Jamshedpur Relief Center,Water & Sanitation,Assigned
+VOL-0003,Rayaan Nigam,"Old Town, Dasgupta Nagar",Food Distribution; Search & Rescue; Shelter Setup,Available
+VOL-0004,Tanvi Thaman,"Sector 12, Panchkula",Water & Sanitation; Logistics,Unavailable
+VOL-0005,Rachita Subramanian,Adoni Colony,Food Distribution,Available
+VOL-0006,Lila Nagy,"Old Town, Kothari",Food Distribution; Shelter Setup,Assigned
+VOL-0007,Mitali Oza,"Sector 4, Bidhannagar",Shelter Setup; Search & Rescue,Available
+VOL-0008,Yauvani Mistry,Begusarai Ward 8,Search & Rescue,Available
+VOL-0009,Bina Pai,Mangalore Ward 9,Logistics,Assigned
+VOL-0010,Indira Srinivasan,"Old Town, Sami Road",Water & Sanitation,Available
+VOL-0011,Hredhaan Bakshi,"Old Town, Bhalla Nagar",Food Distribution; Shelter Setup,Available
+VOL-0012,Amara Dyal,Chandrapur Ward 11,Shelter Setup,Available
+VOL-0013,Samar Bali,Bidhannagar School Camp,Logistics,Available
+VOL-0014,Wazir Vaidya,Nashik Relief Center,Water & Sanitation; Shelter Setup,Available
+VOL-0015,Dhriti Bhagat,Chandrapur School Camp,Search & Rescue; Water & Sanitation,Available
+VOL-0016,Jhalak Hegde,"Durg, near railway station",Medical; Food Distribution,Available
+VOL-0017,Rachit Ghose,Burhanpur Relief Center,Shelter Setup,Available
+VOL-0018,Aishani De,"Bhimavaram, near primary school",Search & Rescue; Shelter Setup; Logistics,Available
+VOL-0019,Unnati Dubey,Jamnagar Relief Center,Logistics,Unavailable
+VOL-0020,Vritti Parmar,"Ratlam, near community hall",Shelter Setup,Available
+VOL-0021,Ekansh Tiwari,Vijayanagaram Colony,Shelter Setup; Search & Rescue,Unavailable
+VOL-0022,George Palla,"Kakinada, near railway station",Shelter Setup,Unavailable
+VOL-0023,Chaaya Kamdar,"Sector 8, Kishanganj",Logistics; Food Distribution,Assigned
+VOL-0024,Sanaya Khosla,Thane Colony,Food Distribution; Search & Rescue,Available
+VOL-0025,Libni Kunda,Nagpur Relief Center,Logistics; Search & Rescue,Assigned
+VOL-0026,Vidhi Bassi,"Nellore, near bus depot",Shelter Setup; Medical; Food Distribution,Assigned
+VOL-0027,Gopal Ganesh,Amritsar Relief Center,Water & Sanitation,Available
+VOL-0028,Hemang Jha,"Old Town, Bajwa Street",Food Distribution,Available
+VOL-0029,Garima Barad,"Old Town, Gokhale Nagar",Search & Rescue; Medical,Available
+VOL-0030,Ekavir Kari,"Old Town, Seshadri Marg",Shelter Setup,Unavailable
+VOL-0031,Rachita Mutti,Pali Ward 6,Logistics,Unavailable
+VOL-0032,Dev Bath,"Secunderabad, near market",Logistics; Water & Sanitation,Available
+VOL-0033,Charvi Chadha,Bahraich Colony,Water & Sanitation; Search & Rescue,Available
+VOL-0034,Urvi Dugar,Bhavnagar Relief Center,Food Distribution,Available
+VOL-0035,Chanchal Prakash,Begusarai Ward 3,Logistics,Available
+VOL-0036,Benjamin Ahluwalia,Siwan Relief Center,Food Distribution,Available
+VOL-0037,Shivansh Padmanabhan,"Haridwar, near bridge",Water & Sanitation,Available
+VOL-0038,Qarin Kant,Jammu Ward 9,Medical,Unavailable
+VOL-0039,Triya Bora,Jabalpur Colony,Water & Sanitation,Available
+VOL-0040,Vidhi Narayanan,"Old Town, Chaudhry Ganj",Food Distribution,Assigned
+VOL-0041,Ekaraj Hari,Shivpuri Ward 8,Shelter Setup,Available
+VOL-0042,Michael Patla,Haldia Ward 8,Logistics,Unavailable
+VOL-0043,Yatin Kant,"Bally, near bus depot",Food Distribution,Available
+VOL-0044,Varsha Shere,"Sector 3, Secunderabad",Logistics,Available
+VOL-0045,Parth Bumb,Kolhapur Ward 6,Food Distribution,Assigned
+VOL-0046,Faraj Borra,Guna School Camp,Shelter Setup,Unavailable
+VOL-0047,Balhaar Lad,"Jalgaon, near community hall",Water & Sanitation; Shelter Setup,Available
+VOL-0048,Bina Desai,Orai Ward 9,Water & Sanitation,Available
+VOL-0049,Januja Thakkar,Mathura School Camp,Water & Sanitation,Assigned
+VOL-0050,Sanaya Dutta,"Old Town, Dhingra",Logistics,Available
+VOL-0051,Jagrati Baria,Morbi Ward 11,Medical,Unavailable
+VOL-0052,Kala Kaur,Tiruppur Relief Center,Logistics; Search & Rescue,Available
+VOL-0053,Upasna Sha,Thane Ward 5,Logistics,Available
+VOL-0054,Adya Ghosh,"Sector 12, Burhanpur",Logistics,Available
+VOL-0055,Krisha Kapoor,"Sector 8, Nagercoil",Shelter Setup,Unavailable
+VOL-0056,Abeer Thaker,"Gandhidham, near water tank",Shelter Setup,Unavailable
+VOL-0057,Yoshita Mand,"Sector 7, Jalgaon",Search & Rescue; Water & Sanitation,Unavailable
+VOL-0058,Jagat Karpe,Bathinda Relief Center,Medical,Available
+VOL-0059,Varenya Kade,Bulandshahr Relief Center,Search & Rescue; Shelter Setup,Available
+VOL-0060,Joshua Dyal,Anand Colony,Shelter Setup; Logistics,Unavailable
+VOL-0061,Ojas Kuruvilla,"Old Town, Bahl Marg",Shelter Setup,Available
+VOL-0062,Frederick Kalita,"Medininagar, near water tank",Logistics; Food Distribution,Available
+VOL-0063,Theodore Roy,Ballia School Camp,Food Distribution,Unavailable
+VOL-0064,Oliver Oommen,Kavali School Camp,Food Distribution; Logistics; Water & Sanitation,Assigned
+VOL-0065,Kritika Rajan,"Sector 3, Moradabad",Logistics; Search & Rescue,Unavailable
+VOL-0066,Mason Char,"Sector 8, Fatehpur",Shelter Setup,Unavailable
+VOL-0067,Girik Subramaniam,Madanapalle School Camp,Food Distribution; Water & Sanitation; Shelter Setup,Unavailable
+VOL-0068,Osha Prabhakar,"Sector 3, Bettiah",Water & Sanitation; Search & Rescue,Assigned
+VOL-0069,Lakshmi Palla,Khandwa Ward 1,Food Distribution,Unavailable
+VOL-0070,Viraj Chacko,Khora  Colony,Water & Sanitation; Food Distribution; Shelter Setup,Unavailable
+VOL-0071,Ranbir Ahluwalia,Gangtok School Camp,Food Distribution,Available
+VOL-0072,Keya Jha,Alappuzha School Camp,Shelter Setup,Available
+VOL-0073,Pooja Kulkarni,Jorhat Ward 5,Search & Rescue,Available
+VOL-0074,Mekhala Jani,"Sector 10, Suryapet",Shelter Setup,Available
+VOL-0075,Kamala Sule,Aizawl Ward 3,Logistics,Unavailable
+VOL-0076,Lakshit Dani,Amroha School Camp,Logistics,Available
+VOL-0077,Yashoda Rattan,Jamalpur Colony,Shelter Setup,Unavailable
+VOL-0078,Lopa Ahluwalia,Ulhasnagar Relief Center,Shelter Setup,Available
+VOL-0079,Devansh Lall,"Old Town, Barad Zila",Water & Sanitation; Search & Rescue,Available
+VOL-0080,Nandini Verma,Kavali School Camp,Water & Sanitation,Available
+VOL-0081,Reva Anne,Kadapa School Camp,Food Distribution; Water & Sanitation; Search & Rescue,Assigned
+VOL-0082,Yashvi Varty,"Old Town, Banik Street",Food Distribution,Available
+VOL-0083,William Acharya,Chandigarh Ward 7,Water & Sanitation; Logistics,Available
+VOL-0084,Megha Ravi,"Old Town, Biswas Nagar",Water & Sanitation; Food Distribution,Unavailable
+VOL-0085,Bhavani Pall,Bally Ward 5,Food Distribution; Logistics,Available
+VOL-0086,Netra Agrawal,"Sector 4, Akola",Search & Rescue,Unavailable
+VOL-0087,Elijah Thakur,Mau Relief Center,Food Distribution,Available
+VOL-0088,Zashil Savant,"Old Town, Kohli Chowk",Shelter Setup; Food Distribution,Unavailable
+VOL-0089,Tara Sharma,"Ongole, near railway station",Logistics; Food Distribution; Shelter Setup,Available
+VOL-0090,Lavanya Kannan,Satna School Camp,Logistics,Available
+VOL-0091,Adya Kothari,Tiruchirappalli Relief Center,Medical; Water & Sanitation,Available
+VOL-0092,Pranav Soni,Raichur School Camp,Shelter Setup; Food Distribution,Unavailable
+VOL-0093,Ranveer Tara,Noida Relief Center,Water & Sanitation,Available
+VOL-0094,Veer Jain,Tadipatri Relief Center,Water & Sanitation,Unavailable
+VOL-0095,Jagdish Brar,Srikakulam Ward 7,Logistics,Assigned
+VOL-0096,Kamya Murty,"Ramgarh, near community hall",Logistics; Food Distribution; Search & Rescue,Unavailable
+VOL-0097,Yasti Mammen,"Old Town, Dave",Water & Sanitation,Available
+VOL-0098,Pallavi Sridhar,Ambala Ward 7,Water & Sanitation; Shelter Setup,Available
+VOL-0099,Tanvi Dara,Satna Colony,Food Distribution; Medical,Available
+VOL-0100,Ladli Chaudhuri,Mirzapur School Camp,Shelter Setup,Available
+VOL-0101,Adya Khalsa,Chittoor School Camp,Logistics; Shelter Setup,Available
+VOL-0102,Qarin Tara,"Sector 10, Bhagalpur",Shelter Setup; Logistics,Unavailable
+VOL-0103,Nandini Mammen,"Old Town, Deep",Medical; Food Distribution,Available
+VOL-0104,Harish Madan,Miryalaguda Colony,Medical; Logistics,Unavailable
+VOL-0105,Madhav Doctor,Bangalore Colony,Search & Rescue; Logistics,Available
+VOL-0106,Krish Varughese,Morbi Ward 5,Water & Sanitation,Available
+VOL-0107,Mitali Chaudhary,"Old Town, Kumar Ganj",Logistics; Shelter Setup,Available
+VOL-0108,Gopal Sengupta,"Old Town, Parsa Path",Medical; Shelter Setup,Available
+VOL-0109,Hemangini Bahri,"Sector 11, Bhilai",Logistics; Shelter Setup; Medical,Available
+VOL-0110,Bhavani Pant,Sasaram School Camp,Shelter Setup,Available
+VOL-0111,Lakshmi Mangat,"Sector 12, Ulhasnagar",Food Distribution,Unavailable
+VOL-0112,Nidhi Bora,Nanded Colony,Medical; Water & Sanitation,Available
+VOL-0113,Edhitha Manne,Mahbubnagar Colony,Food Distribution,Assigned
+VOL-0114,Janani Verma,Haridwar School Camp,Medical,Unavailable
+VOL-0115,Jeremiah Keer,Vijayawada Colony,Logistics,Available
+VOL-0116,Harshil Chandran,Bhalswa Jahangir Pur Ward 4,Water & Sanitation; Food Distribution,Unavailable
+VOL-0117,Mekhala Viswanathan,"Vasai-Virar, near water tank",Food Distribution,Available
+VOL-0118,Madhavi More,Shahjahanpur Relief Center,Shelter Setup; Food Distribution,Available
+VOL-0119,Karan Vyas,Bhopal Relief Center,Shelter Setup,Available
+VOL-0120,Vamakshi Sibal,Motihari Relief Center,Logistics; Food Distribution,Available
+VOL-0121,Tanmayi Saran,Sri Ganganagar Relief Center,Food Distribution; Water & Sanitation,Available
+VOL-0122,Gaurav Sathe,"Ambarnath, near railway station",Food Distribution,Unavailable
+VOL-0123,Chavvi Anne,Nagaon Colony,Search & Rescue; Food Distribution,Available
+VOL-0124,Upasna Warrior,"Pallavaram, near primary school",Shelter Setup,Available
+VOL-0125,Qushi Master,"Chennai, near community hall",Shelter Setup; Search & Rescue,Assigned
+VOL-0126,Nisha Sarkar,Kulti Ward 9,Food Distribution; Search & Rescue,Available
+VOL-0127,Thomas Lall,"Sector 6, Bhusawal",Search & Rescue,Available
+VOL-0128,Bhavani Wali,Haridwar Colony,Logistics,Available
+VOL-0129,Laban Mann,"Old Town, Sethi",Logistics,Available
+VOL-0130,Vyanjana Guha,Surat Ward 6,Search & Rescue; Shelter Setup,Available
+VOL-0131,Quincy Chaudry,"Old Town, Sarma Street",Water & Sanitation,Assigned
+VOL-0132,Viraj Chana,Kanpur Colony,Shelter Setup; Water & Sanitation,Assigned
+VOL-0133,Osha Muni,"Serampore, near railway station",Food Distribution; Water & Sanitation,Unavailable
+VOL-0134,Faris Dhingra,"Old Town, Bora Marg",Shelter Setup; Logistics,Unavailable
+VOL-0135,Pratyush Handa,Eluru Ward 9,Water & Sanitation; Search & Rescue,Assigned
+VOL-0136,Lekha Savant,"Old Town, Sharma Ganj",Logistics,Unavailable
+VOL-0137,Sathvik Solanki,Bijapur Colony,Search & Rescue,Available
+VOL-0138,Jason Kulkarni,Bihar Sharif Ward 2,Logistics,Available
+VOL-0139,Tejas Chowdhury,Raebareli School Camp,Shelter Setup; Food Distribution,Available
+VOL-0140,Anya Dar,"Old Town, Basak Nagar",Water & Sanitation; Logistics,Unavailable
+VOL-0141,Mohammed Prabhu,"Kulti, near market",Food Distribution,Available
+VOL-0142,Hamsini Bhasin,Raurkela Industrial Township Relief Center,Shelter Setup,Assigned
+VOL-0143,Jeremiah Sura,"Old Town, Palan Circle",Food Distribution,Unavailable
+VOL-0144,Reyansh Bail,Secunderabad School Camp,Medical,Assigned
+VOL-0145,Vedhika Sarma,"Hosur, near bus depot",Shelter Setup; Logistics,Unavailable
+VOL-0146,Ijaya Naik,Panipat Colony,Shelter Setup; Water & Sanitation; Logistics,Unavailable
+VOL-0147,Mohammed Sengupta,Firozabad School Camp,Food Distribution,Unavailable
+VOL-0148,Aadi Toor,Udaipur Ward 6,Shelter Setup,Available
+VOL-0149,Ekani Bhatnagar,Jhansi Ward 10,Food Distribution,Available
+VOL-0150,Barkha Naidu,"Pondicherry, near bridge",Medical,Assigned
+VOL-0151,Caleb Dayal,Patna Relief Center,Water & Sanitation,Available
+VOL-0152,Rehaan Chaudhary,Aurangabad Relief Center,Food Distribution; Water & Sanitation,Assigned
+VOL-0153,Chandran Peri,Medininagar Colony,Food Distribution,Available
+VOL-0154,Vyanjana Buch,"Sector 12, Ghaziabad",Food Distribution; Search & Rescue; Medical,Unavailable
+VOL-0155,Dalbir Lata,Madurai Relief Center,Water & Sanitation,Available
+VOL-0156,Zilmil Chatterjee,"Ahmednagar, near bridge",Food Distribution,Available
+VOL-0157,Reyansh Vora,"Sector 2, Jehanabad",Shelter Setup,Assigned
+VOL-0158,Ishita Shanker,"Old Town, Gole Street",Water & Sanitation,Assigned
+VOL-0159,Yamini Nazareth,Deoghar Ward 5,Food Distribution; Medical,Unavailable
+VOL-0160,Divya Nair,Haridwar School Camp,Logistics; Food Distribution,Available
+VOL-0161,Tanish Prashad,Karimnagar Colony,Search & Rescue,Available
+VOL-0162,Aadi Banerjee,"Old Town, Vasa Nagar",Search & Rescue; Shelter Setup,Available
+VOL-0163,Chasmum Ahuja,Korba Relief Center,Shelter Setup,Unavailable
+VOL-0164,Anya Vaidya,Bareilly Colony,Water & Sanitation; Logistics,Unavailable
+VOL-0165,Nachiket Devi,"Ambarnath, near railway station",Medical; Food Distribution,Unavailable
+VOL-0166,Aahana Mital,Aurangabad Ward 11,Logistics,Available
+VOL-0167,Ekta Subramanian,Morbi Ward 2,Shelter Setup,Assigned
+VOL-0168,Baljiwan Raj,"Sector 9, Pimpri-Chinchwad",Food Distribution,Available
+VOL-0169,Omaja Dara,"Old Town, Raja Nagar",Shelter Setup; Logistics; Food Distribution,Available
+VOL-0170,Dalaja Viswanathan,"Sector 12, Imphal",Food Distribution,Available
+VOL-0171,Yadavi Kant,Dhanbad Colony,Medical; Search & Rescue,Available
+VOL-0172,Tristan Sankaran,"Sector 11, Singrauli",Shelter Setup; Water & Sanitation,Available
+VOL-0173,Fitan Soni,Motihari Ward 11,Shelter Setup; Search & Rescue,Assigned
+VOL-0174,Mohini Thaker,"Old Town, Srivastava Street",Water & Sanitation,Available
+VOL-0175,Vinaya Rana,"Sector 10, Kishanganj",Food Distribution; Logistics,Available
+VOL-0176,Xavier Bora,Chinsurah Ward 5,Logistics,Available
+VOL-0177,Odika Sampath,Karnal School Camp,Water & Sanitation,Available
+VOL-0178,Arjun Mody,"Etawah, near railway station",Search & Rescue,Assigned
+VOL-0179,Ridhi Basu,"Sector 1, Kollam",Logistics,Available
+VOL-0180,Isaiah Bhagat,"Sector 6, Udupi",Search & Rescue; Water & Sanitation,Available
+VOL-0181,Hemal Choudhry,Hospet Relief Center,Logistics,Available
+VOL-0182,Shaurya Yogi,Kurnool School Camp,Logistics; Search & Rescue; Water & Sanitation,Available
+VOL-0183,Vasudha Dhaliwal,Gandhinagar Colony,Logistics; Search & Rescue; Food Distribution,Available
+VOL-0184,Aadhya Garde,"Sector 3, Anantapuram",Logistics; Search & Rescue,Unavailable
+VOL-0185,Udyati Anand,Munger Relief Center,Medical,Unavailable
+VOL-0186,Anirudh Master,"Old Town, Trivedi Marg",Logistics,Available
+VOL-0187,Diya Sundaram,"Sector 7, Gaya",Logistics,Available
+VOL-0188,Anthony Baral,Bettiah Relief Center,Medical,Available
+VOL-0189,Maya Dugar,Sri Ganganagar Ward 12,Medical,Unavailable
+VOL-0190,Warinder Thaker,"Ghaziabad, near market",Search & Rescue; Logistics,Assigned
+VOL-0191,Ati Kar,"Sector 3, Mau",Search & Rescue,Available
+VOL-0192,Lavanya Verma,"Sector 10, Erode",Water & Sanitation,Unavailable
+VOL-0193,Devika Narayan,"Old Town, Jhaveri Street",Water & Sanitation,Available
+VOL-0194,Samaksh Devi,Loni Ward 12,Logistics,Assigned
+VOL-0195,Nakul Nadkarni,Proddatur Ward 1,Logistics; Search & Rescue,Available
+VOL-0196,Eesha Dhingra,Imphal Colony,Food Distribution,Available
+VOL-0197,Saanvi Mahal,Maheshtala School Camp,Search & Rescue,Available
+VOL-0198,Atharv Loke,"Old Town, Kashyap Ganj",Search & Rescue; Logistics,Available
+VOL-0199,Jagrati Buch,Guntur Ward 2,Logistics,Available
+VOL-0200,Qarin Ram,"Old Town, Gade Street",Logistics; Shelter Setup; Medical,Assigned
+VOL-0201,Upkaar Bali,Kanpur Relief Center,Search & Rescue; Logistics,Available
+VOL-0202,Samaksh Jayaraman,Belgaum School Camp,Food Distribution; Shelter Setup,Unavailable
+VOL-0203,Tanvi Koshy,Machilipatnam Colony,Shelter Setup; Logistics,Available
+VOL-0204,Meera Yadav,Saharsa Ward 4,Water & Sanitation; Food Distribution,Unavailable
+VOL-0205,Brijesh Korpal,Thane School Camp,Water & Sanitation,Available
+VOL-0206,Ranveer Manne,Sikar Colony,Shelter Setup,Assigned
+VOL-0207,Ojas Sami,Pudukkottai Colony,Water & Sanitation,Available
+VOL-0208,Ubika Seth,Orai Relief Center,Food Distribution; Logistics; Search & Rescue,Available
+VOL-0209,Maya Sachdev,Hospet Colony,Search & Rescue,Available
+VOL-0210,Saksham Sha,"Old Town, Gade Path",Logistics,Unavailable
+VOL-0211,Gavin Comar,Mirzapur Ward 5,Water & Sanitation; Shelter Setup,Available
+VOL-0212,Yasti Dutta,Jamalpur Relief Center,Shelter Setup; Water & Sanitation,Unavailable
+VOL-0213,Gautami Doctor,"Old Town, Behl Street",Food Distribution,Unavailable
+VOL-0214,Darika More,"Old Town, Dalal Street",Shelter Setup,Available
+VOL-0215,Samaksh Aggarwal,"Old Town, Tank Chowk",Food Distribution,Available
+VOL-0216,Abdul Tak,"Bellary, near bridge",Logistics; Search & Rescue; Shelter Setup,Available
+VOL-0217,Nimrat Sathe,"Old Town, Ahuja",Water & Sanitation,Available
+VOL-0218,Arunima Johal,Udaipur Ward 12,Shelter Setup; Search & Rescue,Available
+VOL-0219,Balhaar Dhillon,"Gangtok, near bridge",Logistics,Unavailable
+VOL-0220,Gagan Bawa,"Old Town, Edwin Street",Search & Rescue; Water & Sanitation,Available
+VOL-0221,Peter Shah,Vadodara School Camp,Logistics,Assigned
+VOL-0222,Jyoti Raghavan,Purnia Relief Center,Medical; Search & Rescue; Shelter Setup,Available
+VOL-0223,Urishilla Desai,"Panipat, near community hall",Shelter Setup,Available
+VOL-0224,Shaurya Kadakia,Moradabad Colony,Logistics; Food Distribution; Search & Rescue,Unavailable
+VOL-0225,Veda Mani,Narasaraopet Colony,Water & Sanitation; Food Distribution,Available
+VOL-0226,Kai Taneja,Kumbakonam School Camp,Medical,Available
+VOL-0227,Rishi Agarwal,"Nagpur, near bridge",Medical; Logistics,Available
+VOL-0228,Oeshi Sachdev,"Old Town, Kala Path",Water & Sanitation,Available
+VOL-0229,Saksham Manda,"Sector 9, Jabalpur",Shelter Setup; Water & Sanitation,Available
+VOL-0230,Abeer Comar,"Mau, near market",Logistics; Search & Rescue,Unavailable
+VOL-0231,Rishi Narayanan,Nangloi Jat School Camp,Logistics; Search & Rescue; Food Distribution,Unavailable
+VOL-0232,Vasatika Dugal,Jorhat Ward 9,Water & Sanitation; Search & Rescue,Unavailable
+VOL-0233,Daksh Verma,Buxar Colony,Water & Sanitation,Assigned
+VOL-0234,Sathvik Narula,Amritsar School Camp,Water & Sanitation; Search & Rescue,Assigned
+VOL-0235,Harinakshi Prashad,"Aurangabad, near market",Water & Sanitation,Assigned
+VOL-0236,Jackson Morar,Patna Relief Center,Food Distribution; Water & Sanitation,Available
+VOL-0237,Watika Khanna,Bidhannagar School Camp,Search & Rescue,Available
+VOL-0238,Parth Choudhury,Agra Colony,Food Distribution,Assigned
+VOL-0239,Yashawini Bakshi,"Orai, near bus depot",Search & Rescue; Food Distribution,Available
+VOL-0240,Veda Viswanathan,"Old Town, Chaudhari Street",Shelter Setup; Search & Rescue,Assigned
+VOL-0241,Samesh Bansal,Munger Colony,Logistics; Shelter Setup; Water & Sanitation,Unavailable
+VOL-0242,Deepa Basu,"Old Town, Batra Chowk",Food Distribution; Search & Rescue,Assigned
+VOL-0243,Devika Bajaj,"Sector 11, Bhagalpur",Search & Rescue; Water & Sanitation; Logistics,Available
+VOL-0244,Bhavini Malhotra,"Gandhidham, near bridge",Medical,Unavailable
+VOL-0245,Nakul Mahal,Kanpur Ward 5,Food Distribution; Water & Sanitation,Available
+VOL-0246,Samuel Palla,Gopalpur Colony,Food Distribution; Water & Sanitation,Unavailable
+VOL-0247,Onveer Bobal,Pudukkottai Colony,Search & Rescue; Water & Sanitation,Unavailable
+VOL-0248,Chandresh De,"Chittoor, near market",Search & Rescue; Food Distribution,Unavailable
+VOL-0249,Chatura Chadha,Katni Relief Center,Logistics; Water & Sanitation,Unavailable
+VOL-0250,Devika Natarajan,Deoghar School Camp,Water & Sanitation; Logistics,Assigned
+VOL-0251,Girik Sidhu,Sirsa Relief Center,Search & Rescue; Water & Sanitation,Assigned
+VOL-0252,Vincent Kapur,"Tadepalligudem, near market",Food Distribution,Available
+VOL-0253,Qadim Narayanan,Malda Ward 2,Shelter Setup; Food Distribution,Unavailable
+VOL-0254,Vaishnavi Chowdhury,Nangloi Jat Ward 12,Search & Rescue; Water & Sanitation,Assigned
+VOL-0255,Ijaya Datta,"Sector 12, Machilipatnam",Food Distribution,Assigned
+VOL-0256,Chasmum Walia,Rewa Relief Center,Search & Rescue; Shelter Setup,Assigned
+VOL-0257,Yagnesh Dutt,"Sector 8, Yamunanagar",Food Distribution; Logistics,Assigned
+VOL-0258,Raagini Saran,"Tinsukia, near railway station",Medical; Food Distribution,Available
+VOL-0259,Vidhi Contractor,"Old Town, Chatterjee Circle",Food Distribution,Available
+VOL-0260,Patrick Morar,Coimbatore Ward 7,Shelter Setup,Assigned
+VOL-0261,Falak Talwar,Mysore School Camp,Shelter Setup; Water & Sanitation,Assigned
+VOL-0262,Manan Dixit,Katihar Relief Center,Medical; Search & Rescue,Available
+VOL-0263,Rohan Jha,Dewas Ward 6,Food Distribution,Assigned
+VOL-0264,Hemangini Chakraborty,"Sector 9, Pudukkottai",Water & Sanitation; Search & Rescue,Available
+VOL-0265,Chaitaly Bhatia,"Old Town, Acharya Nagar",Food Distribution,Unavailable
+VOL-0266,Imaran Manda,Noida Colony,Water & Sanitation,Assigned
+VOL-0267,Lavanya Ravi,Raebareli School Camp,Search & Rescue,Available
+VOL-0268,Vaishnavi Dewan,"Old Town, Parsa Marg",Medical,Available
+VOL-0269,Mitesh Mani,"Sector 11, Guntur",Search & Rescue; Shelter Setup,Unavailable
+VOL-0270,Maanas Sur,"Bhavnagar, near primary school",Water & Sanitation,Available
+VOL-0271,Tamanna Sandal,Malda School Camp,Food Distribution; Water & Sanitation,Available
+VOL-0272,Leena Pant,Gaya Relief Center,Shelter Setup,Unavailable
+VOL-0273,Warjas Thaker,"Bulandshahr, near market",Shelter Setup; Food Distribution,Unavailable
+VOL-0274,Baljiwan Subramanian,"Old Town, Subramaniam",Medical; Logistics,Unavailable
+VOL-0275,Lucky Vyas,Kirari Suleman Nagar Colony,Shelter Setup; Water & Sanitation; Food Distribution,Unavailable
+VOL-0276,Yatan Sodhi,"Sector 6, Panvel",Water & Sanitation,Available
+VOL-0277,Hemal Warrior,"Nandyal, near bridge",Food Distribution,Unavailable
+VOL-0278,Garima Sama,Durg Relief Center,Water & Sanitation,Available
+VOL-0279,Daksha Lad,Bhalswa Jahangir Pur Relief Center,Logistics,Available
+VOL-0280,Bishakha Bala,"Shivpuri, near bus depot",Food Distribution,Available
+VOL-0281,Arunima Krishnan,"Sector 10, Tadepalligudem",Water & Sanitation,Available
+VOL-0282,Akshay Choudhury,"Sector 6, Gudivada",Logistics; Food Distribution; Medical,Available
+VOL-0283,Parth Lal,Shivpuri Relief Center,Search & Rescue,Available
+VOL-0284,Hemal Chad,Hindupur Ward 6,Water & Sanitation,Available
+VOL-0285,Leela Khanna,Rourkela School Camp,Search & Rescue; Shelter Setup,Available
+VOL-0286,Aishani D’Alia,"Sector 9, Rourkela",Logistics; Search & Rescue,Available
+VOL-0287,Charvi Soni,"Sector 8, Nadiad",Search & Rescue; Food Distribution; Logistics,Available
+VOL-0288,Maanav Wali,"Ahmedabad, near bridge",Medical; Search & Rescue,Assigned
+VOL-0289,Diya Wagle,"Old Town, Pandya Circle",Shelter Setup,Available
+VOL-0290,Anjali Nayak,Shimoga School Camp,Logistics,Assigned
+VOL-0291,Triya Khurana,Saharsa School Camp,Food Distribution,Assigned
+VOL-0292,Advaith Anand,"Ahmedabad, near community hall",Shelter Setup; Search & Rescue,Available
+VOL-0293,Sanaya Panchal,"Anantapuram, near market",Water & Sanitation; Shelter Setup,Unavailable
+VOL-0294,Arjun Chanda,"Hindupur, near water tank",Shelter Setup,Available
+VOL-0295,Gabriel De,"Sector 6, Buxar",Logistics,Available
+VOL-0296,Zehaan Menon,Aurangabad Colony,Food Distribution,Available
+VOL-0297,Ekiya Kurian,"Sector 5, Srinagar",Logistics; Search & Rescue,Available
+VOL-0298,Lipika Natarajan,"Sector 9, Rampur",Shelter Setup; Logistics,Available
+VOL-0299,Ekaraj Swamy,"Old Town, Gokhale Marg",Food Distribution,Available
+VOL-0300,Ikbal Dhawan,Bellary Ward 9,Search & Rescue; Water & Sanitation,Available
+VOL-0301,Aashi Chauhan,Srinagar Ward 12,Logistics; Shelter Setup,Available
+VOL-0302,Anirudh Tank,"Mumbai, near bus depot",Logistics,Available
+VOL-0303,Max Narayan,"Sector 5, Ramgarh",Food Distribution,Assigned
+VOL-0304,Vanya Sarin,Coimbatore School Camp,Water & Sanitation; Search & Rescue; Food Distribution,Available
+VOL-0305,Leena Subramaniam,Tezpur Relief Center,Food Distribution; Logistics; Shelter Setup,Unavailable
+VOL-0306,Chavvi Rattan,"Mysore, near market",Search & Rescue; Water & Sanitation,Available
+VOL-0307,Faris Sharaf,Panihati School Camp,Logistics,Assigned
+VOL-0308,Rayaan Mistry,"Aligarh, near railway station",Search & Rescue; Shelter Setup; Water & Sanitation,Available
+VOL-0309,Raksha Gupta,Vadodara Colony,Logistics; Water & Sanitation,Available
+VOL-0310,Vrinda Ramachandran,Panvel Relief Center,Food Distribution,Assigned
+VOL-0311,Amol Bansal,Pimpri-Chinchwad Colony,Food Distribution; Shelter Setup; Logistics,Available
+VOL-0312,Jagat Kakar,Jorhat School Camp,Shelter Setup; Logistics,Assigned
+VOL-0313,Balhaar Dhaliwal,"Sector 12, Surat",Logistics,Available
+VOL-0314,Kalpit Atwal,"Dhanbad, near water tank",Food Distribution,Available
+VOL-0315,Onkar Bhatt,Raipur Ward 4,Logistics; Medical,Unavailable
+VOL-0316,Samaksh Sandhu,Rewa Relief Center,Shelter Setup,Assigned
+VOL-0317,Ekanta Kala,Guntakal School Camp,Logistics,Unavailable
+VOL-0318,Jai Mahal,"Vijayanagaram, near bus depot",Shelter Setup; Logistics; Water & Sanitation,Available
+VOL-0319,Reva Kohli,"Old Town, Puri Zila",Logistics; Food Distribution,Available
+VOL-0320,Amol Sur,"Sector 7, Chennai",Food Distribution,Available
+VOL-0321,Bhanumati Saha,Cuttack Relief Center,Shelter Setup,Available
+VOL-0322,Shravya Sabharwal,Akola School Camp,Logistics,Available
+VOL-0323,Xalak Chakrabarti,Karnal Colony,Food Distribution,Available
+VOL-0324,Rehaan Dalal,Tadipatri School Camp,Shelter Setup; Logistics,Unavailable
+VOL-0325,Ucchal Joshi,"Meerut, near primary school",Water & Sanitation,Available
+VOL-0326,Urvi Tank,"Kozhikode, near water tank",Food Distribution,Assigned
+VOL-0327,Bhavani Kadakia,"Chandrapur, near railway station",Logistics; Shelter Setup; Food Distribution,Available
+VOL-0328,Hemang Ben,Sangli-Miraj & Kupwad Relief Center,Food Distribution; Logistics; Water & Sanitation,Available
+VOL-0329,Ekavir Keer,Guntakal Ward 7,Water & Sanitation,Available
+VOL-0330,Rushil Nanda,Bhubaneswar School Camp,Food Distribution; Medical,Available
+VOL-0331,Warjas Sachar,Gandhinagar Relief Center,Medical,Available
+VOL-0332,Vedhika Bhagat,Ulhasnagar Ward 12,Water & Sanitation,Available
+VOL-0333,Lila Prakash,Berhampore Relief Center,Medical; Water & Sanitation,Unavailable
+VOL-0334,Samaksh Nayak,Patna School Camp,Search & Rescue; Food Distribution,Available
+VOL-0335,Laban Choudhry,Berhampore Colony,Water & Sanitation,Available
+VOL-0336,Thomas Merchant,Pudukkottai Ward 11,Logistics,Available
+VOL-0337,Nisha Vig,"Old Town, Solanki",Food Distribution; Medical; Logistics,Available
+VOL-0338,Arya Atwal,Shahjahanpur Ward 11,Water & Sanitation,Available
+VOL-0339,Tristan Dixit,Erode Ward 12,Search & Rescue; Logistics,Available
+VOL-0340,Yamini Bandi,"Bettiah, near primary school",Shelter Setup; Water & Sanitation,Available
+VOL-0341,Sneha Tandon,Gwalior Colony,Logistics,Available
+VOL-0342,Tejas Deo,Sagar Ward 4,Food Distribution; Search & Rescue,Available
+VOL-0343,Varsha Mody,Jaunpur Colony,Food Distribution; Search & Rescue,Unavailable
+VOL-0344,Ubika Devi,Udaipur Colony,Logistics,Available
+VOL-0345,Ekavir Rajan,Bettiah Ward 9,Logistics; Food Distribution; Shelter Setup,Unavailable
+VOL-0346,Anamika Johal,Udupi Ward 2,Water & Sanitation; Food Distribution,Assigned
+VOL-0347,Charan Choudhry,Ambarnath Colony,Search & Rescue; Logistics; Shelter Setup,Available
+VOL-0348,Jeevika Gill,Kishanganj Ward 8,Search & Rescue; Medical,Unavailable
+VOL-0349,William Zacharia,Morena Relief Center,Medical; Shelter Setup; Search & Rescue,Assigned
+VOL-0350,Ekani Pandit,Ambala Ward 2,Food Distribution,Available
+VOL-0351,Dev Pradhan,Bidhannagar Colony,Logistics; Water & Sanitation; Food Distribution,Unavailable
+VOL-0352,Upma Wali,Bidhannagar School Camp,Search & Rescue; Logistics,Assigned
+VOL-0353,Raghav Shankar,"Sector 8, Jodhpur",Logistics; Food Distribution,Available
+VOL-0354,Faraj Chopra,"Sector 5, Bally",Logistics; Food Distribution; Shelter Setup,Available
+VOL-0355,Matthew Jayaraman,"Old Town, Deo Marg",Water & Sanitation; Food Distribution; Logistics,Assigned
+VOL-0356,Idika Salvi,Jaipur School Camp,Food Distribution; Logistics,Available
+VOL-0357,Anthony Kata,Bulandshahr Colony,Water & Sanitation; Food Distribution,Unavailable
+VOL-0358,Vedika Wagle,Berhampore Ward 8,Logistics; Food Distribution,Available
+VOL-0359,Onveer Lad,"Sector 11, Karawal Nagar",Search & Rescue,Assigned
+VOL-0360,Manbir Pandit,Sirsa Colony,Search & Rescue; Logistics,Available
+VOL-0361,Qabil Gill,Nanded Colony,Food Distribution,Available
+VOL-0362,Edhitha Date,"Bhilwara, near bridge",Logistics,Unavailable
+VOL-0363,Bakhshi Nadig,"Siliguri, near bridge",Logistics; Shelter Setup; Medical,Assigned
+VOL-0364,Charvi Dara,"Machilipatnam, near railway station",Shelter Setup; Logistics,Available
+VOL-0365,Ekaja Dugal,Bongaigaon Colony,Medical,Available
+VOL-0366,Urvi Mann,"Buxar, near railway station",Water & Sanitation,Available
+VOL-0367,Varenya Baria,"Old Town, Morar Zila",Logistics,Assigned
+VOL-0368,Neelima Kannan,Raurkela Industrial Township Colony,Water & Sanitation,Unavailable
+VOL-0369,Robert Vyas,Alwar Ward 5,Logistics,Available
+VOL-0370,Sanaya Chahal,Jammu Colony,Shelter Setup; Logistics,Available
+VOL-0371,Jalsa Rao,Purnia Ward 7,Food Distribution,Assigned
+VOL-0372,Advik Mane,Etawah Relief Center,Food Distribution; Water & Sanitation,Available
+VOL-0373,Tanveer Sawhney,"Mango, near market",Logistics,Assigned
+VOL-0374,Oeshi Dewan,"Old Town, Mitter Ganj",Logistics; Food Distribution,Unavailable
+VOL-0375,Gautami Bhatti,"Hubli–Dharwad, near market",Search & Rescue; Shelter Setup,Assigned
+VOL-0376,Oeshi Gill,"Tezpur, near community hall",Search & Rescue; Food Distribution,Unavailable
+VOL-0377,Lakshmi Mann,"Kalyan-Dombivli, near market",Search & Rescue,Available
+VOL-0378,Ubika Kapur,"Delhi, near railway station",Water & Sanitation,Available
+VOL-0379,Urmi Dash,Erode School Camp,Logistics; Food Distribution,Available
+VOL-0380,Ayush Dar,Kumbakonam School Camp,Medical; Shelter Setup,Assigned
+VOL-0381,Rajata Kuruvilla,Jamshedpur Colony,Food Distribution; Medical,Assigned
+VOL-0382,Aashi Gaba,"Ulhasnagar, near railway station",Water & Sanitation; Food Distribution; Logistics,Unavailable
+VOL-0383,Ishanvi Gade,Darbhanga Relief Center,Logistics; Food Distribution,Available
+VOL-0384,Chanakya Mann,Bettiah Colony,Logistics,Assigned
+VOL-0385,Qadim Chandra,Tinsukia School Camp,Shelter Setup,Unavailable
+VOL-0386,Anika Patil,"Sector 2, Deoghar",Medical,Available
+VOL-0387,Agastya Devan,Serampore School Camp,Shelter Setup; Logistics,Available
+VOL-0388,Nicholas Chaudry,Bhatpara Relief Center,Medical,Unavailable
+VOL-0389,Ishaan Sahni,Solapur Relief Center,Food Distribution; Logistics,Available
+VOL-0390,Varsha Pall,"Old Town, Sathe Street",Water & Sanitation,Available
+VOL-0391,Orinder Modi,Kochi Relief Center,Food Distribution,Available
+VOL-0392,Utkarsh Mohanty,Bhagalpur Relief Center,Search & Rescue; Water & Sanitation; Shelter Setup,Available
+VOL-0393,Isaac Brahmbhatt,Karawal Nagar Relief Center,Logistics,Available
+VOL-0394,Hritik Bali,Nandyal School Camp,Logistics; Shelter Setup; Search & Rescue,Available
+VOL-0395,Dominic Mitra,"Old Town, Jha Zila",Logistics,Unavailable
+VOL-0396,Qasim Panchal,"Mysore, near bus depot",Shelter Setup,Assigned
+VOL-0397,Indira Dyal,Dibrugarh Relief Center,Water & Sanitation,Unavailable
+VOL-0398,Akshay Wadhwa,Nellore Ward 11,Water & Sanitation,Available
+VOL-0399,Hardik Kala,Ambarnath Ward 5,Search & Rescue,Available
+VOL-0400,Hredhaan Golla,Nadiad Ward 11,Food Distribution,Assigned
+VOL-0401,Nikita Chowdhury,Amravati Ward 9,Shelter Setup; Logistics; Water & Sanitation,Unavailable
+VOL-0402,Warhi Patel,"Proddatur, near market",Food Distribution,Available
+VOL-0403,Wakeeta D’Alia,"Anantapuram, near bridge",Logistics,Available
+VOL-0404,Upkaar Reddy,Haldia Ward 8,Food Distribution,Unavailable
+VOL-0405,Jhalak Gola,Pallavaram Relief Center,Logistics,Available
+VOL-0406,Frederick Dar,Tenali Relief Center,Logistics,Unavailable
+VOL-0407,Dhruv Patla,Sonipat Colony,Medical,Available
+VOL-0408,Viraj Samra,Alwar School Camp,Logistics,Assigned
+VOL-0409,Ishani Soni,Shivpuri Colony,Water & Sanitation; Food Distribution,Available
+VOL-0410,Suhani Chokshi,"Old Town, Tank Chowk",Shelter Setup,Available
+VOL-0411,Krish Balan,Meerut Ward 2,Logistics; Shelter Setup,Assigned
+VOL-0412,Praneel Raja,Jamnagar Relief Center,Food Distribution,Available
+VOL-0413,Zinal Tailor,Panihati Colony,Logistics,Available
+VOL-0414,Yamini Lal,Panvel School Camp,Search & Rescue,Unavailable
+VOL-0415,Qushi Dani,"Hospet, near bus depot",Search & Rescue; Logistics,Available
+VOL-0416,Tripti Banik,"Sector 1, Belgaum",Search & Rescue,Available
+VOL-0417,Vyanjana Sankar,Bijapur School Camp,Medical; Logistics,Available
+VOL-0418,Vritti Zacharia,"Sector 11, Fatehpur",Shelter Setup,Available
+VOL-0419,Mahika Lall,Gudivada Ward 4,Shelter Setup; Logistics,Unavailable
+VOL-0420,Ekani Bhat,Gudivada Relief Center,Food Distribution,Available
+VOL-0421,Ikshita Bala,"Nadiad, near community hall",Logistics,Available
+VOL-0422,Ishanvi Sabharwal,Pimpri-Chinchwad Ward 4,Shelter Setup,Available
+VOL-0423,Devika Chad,"Sector 8, Farrukhabad",Food Distribution; Logistics,Available
+VOL-0424,Anmol Yohannan,Agra Colony,Water & Sanitation; Logistics; Food Distribution,Available
+VOL-0425,Amara Bahri,Giridih Ward 10,Water & Sanitation; Food Distribution,Unavailable
+VOL-0426,Madhavi Naidu,Unnao Ward 10,Shelter Setup,Unavailable
+VOL-0427,Watika Thakkar,Rourkela Ward 3,Shelter Setup,Available
+VOL-0428,Rajata Jaggi,"Aurangabad, near water tank",Shelter Setup,Unavailable
+VOL-0429,Alka Batta,Chapra Colony,Shelter Setup; Logistics; Food Distribution,Assigned
+VOL-0430,Girish Nayar,Jabalpur Relief Center,Search & Rescue; Shelter Setup,Assigned
+VOL-0431,Prisha Kadakia,"Sector 1, Solapur",Water & Sanitation,Assigned
+VOL-0432,Rachita Zacharia,Kollam Relief Center,Logistics,Available
+VOL-0433,Yutika Setty,"Sector 5, Surat",Logistics,Unavailable
+VOL-0434,Tanay Sibal,Katihar Colony,Medical,Assigned
+VOL-0435,Sai Patla,"Sector 2, Siliguri",Water & Sanitation; Logistics; Medical,Available
+VOL-0436,Radhika Roy,Rajkot Relief Center,Shelter Setup; Search & Rescue,Unavailable
+VOL-0437,Bhavini Dyal,"Sector 7, Ghaziabad",Shelter Setup; Water & Sanitation,Available
+VOL-0438,Ishaan Doctor,Bhopal School Camp,Logistics,Available
+VOL-0439,Vedika Sarin,Vadodara Relief Center,Shelter Setup; Logistics; Water & Sanitation,Available
+VOL-0440,Laban Balakrishnan,Alwar Colony,Food Distribution,Unavailable
+VOL-0441,Vedika Bahri,"Old Town, Misra Path",Search & Rescue; Medical,Available
+VOL-0442,Niharika Patla,Sikar Relief Center,Shelter Setup; Logistics; Search & Rescue,Available
+VOL-0443,Xiti Dara,Mehsana Relief Center,Search & Rescue,Available
+VOL-0444,Dhriti Narayan,Noida School Camp,Shelter Setup; Food Distribution,Unavailable
+VOL-0445,Hredhaan Gill,Panipat Relief Center,Shelter Setup,Available
+VOL-0446,Daksh Swaminathan,Gorakhpur School Camp,Search & Rescue; Water & Sanitation,Available
+VOL-0447,Yatin Mall,"Mirzapur, near water tank",Logistics,Assigned
+VOL-0448,Ansh Banerjee,"Old Town, Rajagopalan Road",Search & Rescue; Logistics,Available
+VOL-0449,Janani Dara,Mango Colony,Shelter Setup; Search & Rescue,Available
+VOL-0450,Aadhya Mitra,"Old Town, Kade Road",Search & Rescue; Food Distribution; Medical,Available
+VOL-0451,Reva Nadig,Visakhapatnam Ward 12,Medical,Unavailable
+VOL-0452,Urishilla Sachar,Bhusawal Colony,Search & Rescue; Shelter Setup,Available
+VOL-0453,Yashawini Bhatti,Bidar School Camp,Shelter Setup; Search & Rescue; Logistics,Available
+VOL-0454,Ayaan Ben,Raiganj Colony,Logistics; Water & Sanitation; Search & Rescue,Assigned
+VOL-0455,Ryan Mody,Ramgarh Ward 7,Logistics,Assigned
+VOL-0456,Zaid Varty,"Sector 1, Hindupur",Shelter Setup; Logistics,Unavailable
+VOL-0457,Vanya Deol,"Malegaon, near bus depot",Logistics,Assigned
+VOL-0458,Rushil Chad,Arrah Relief Center,Medical,Available
+VOL-0459,Udarsh Bail,Proddatur Relief Center,Shelter Setup,Available
+VOL-0460,Turvi Issac,"Old Town, Rattan Nagar",Shelter Setup,Available
+VOL-0461,Abha Dixit,Arrah Relief Center,Medical; Shelter Setup,Available
+VOL-0462,Radhika Setty,"Kochi, near community hall",Food Distribution; Shelter Setup,Available
+VOL-0463,Amaira Mani,Eluru School Camp,Medical; Water & Sanitation,Assigned
+VOL-0464,Tanveer Mandal,Gurgaon Ward 12,Logistics; Food Distribution,Available
+VOL-0465,Ayush Mannan,Noida Ward 10,Medical; Shelter Setup,Unavailable
+VOL-0466,Kala Shanker,Hyderabad Colony,Food Distribution,Unavailable
+VOL-0467,Mitali Kala,"Bhusawal, near community hall",Logistics; Water & Sanitation,Unavailable
+VOL-0468,Girish Bhargava,"Thoothukudi, near water tank",Shelter Setup,Available
+VOL-0469,Chakradev Ahluwalia,"Sector 12, Dibrugarh",Shelter Setup; Water & Sanitation,Available
+VOL-0470,Megha Prabhakar,Karaikudi Ward 1,Search & Rescue,Available
+VOL-0471,Omkaar Thakur,"Sector 4, Sonipat",Food Distribution; Water & Sanitation,Assigned
+VOL-0472,Edhitha Wali,Ajmer Colony,Logistics,Unavailable
+VOL-0473,Chaitanya Datta,Parbhani Colony,Logistics; Food Distribution,Unavailable
+VOL-0474,Adya Lalla,Junagadh Ward 3,Search & Rescue; Medical,Available
+VOL-0475,Matthew Sarraf,Maheshtala Relief Center,Medical; Shelter Setup,Available
+VOL-0476,Qadim Banik,"Bhilwara, near bus depot",Shelter Setup,Unavailable
+VOL-0477,Jack Talwar,"Mango, near bus depot",Logistics,Available
+VOL-0478,Waida Chowdhury,Amravati Relief Center,Food Distribution,Assigned
+VOL-0479,Bhanumati Gole,Danapur Ward 2,Food Distribution,Assigned
+VOL-0480,Pranit Saha,Shahjahanpur School Camp,Shelter Setup,Unavailable
+VOL-0481,Atharv Mane,Singrauli Colony,Food Distribution,Available
+VOL-0482,Mitesh Balakrishnan,Jaunpur School Camp,Logistics; Food Distribution,Unavailable
+VOL-0483,Abdul Narayan,"Bidhannagar, near community hall",Search & Rescue,Available
+VOL-0484,Chanakya Mandal,Pimpri-Chinchwad Relief Center,Food Distribution,Unavailable
+VOL-0485,Mohini Kumer,Mathura School Camp,Logistics,Unavailable
+VOL-0486,Sathvik Gaba,"Old Town, Dube Road",Food Distribution,Unavailable
+VOL-0487,Chanchal Swaminathan,Tirupati School Camp,Search & Rescue; Logistics,Unavailable
+VOL-0488,Gopal Pillai,Unnao Relief Center,Food Distribution; Water & Sanitation,Assigned
+VOL-0489,Amrita Sampath,Bhusawal Colony,Logistics,Available
+VOL-0490,Pooja Chander,Anand Relief Center,Logistics,Unavailable
+VOL-0491,Mohammed Tandon,"Old Town, Sarkar Chowk",Search & Rescue; Water & Sanitation,Available
+VOL-0492,Vanya Mital,Warangal Relief Center,Water & Sanitation; Logistics,Unavailable
+VOL-0493,Chakrika Batta,"Old Town, Chokshi Circle",Shelter Setup,Available
+VOL-0494,Nitara Chandra,Jehanabad School Camp,Logistics; Water & Sanitation,Available
+VOL-0495,Finn Thakur,"Old Town, Gola Chowk",Medical; Food Distribution,Assigned
+VOL-0496,Maya Bath,"Old Town, Murthy Road",Shelter Setup; Water & Sanitation,Assigned
+VOL-0497,Shivani Lanka,Gaya Relief Center,Shelter Setup; Water & Sanitation; Logistics,Available
+VOL-0498,Aashi Cherian,Deoghar Colony,Logistics; Water & Sanitation,Assigned
+VOL-0499,Jackson Arya,Morena Ward 10,Food Distribution,Assigned
+VOL-0500,Chavvi Patel,"Old Town, Dass Zila",Food Distribution,Assigned
+VOL-0501,Akshay Halder,Pune Ward 10,Shelter Setup,Unavailable
+VOL-0502,Vasana Dhillon,"Junagadh, near market",Water & Sanitation,Available
+VOL-0503,Charvi Sheth,"Old Town, Bains Marg",Shelter Setup; Logistics,Available
+VOL-0504,Ojas Dua,Shivpuri Colony,Search & Rescue; Water & Sanitation,Available
+VOL-0505,Xavier Jaggi,Jehanabad Relief Center,Search & Rescue,Unavailable
+VOL-0506,Abhiram Chauhan,"Old Town, Mannan Chowk",Food Distribution,Available
+VOL-0507,Vinaya Ratta,Anand School Camp,Logistics,Available
+VOL-0508,Darsh Wable,Bhusawal School Camp,Logistics,Assigned
+VOL-0509,Amrita Sahni,"Sector 7, Bhiwandi",Food Distribution; Shelter Setup,Available
+VOL-0510,Rajata Bail,Tumkur Relief Center,Shelter Setup; Food Distribution; Logistics,Available
+VOL-0511,Raksha Kata,Dharmavaram Colony,Food Distribution; Shelter Setup,Available
+VOL-0512,Chaaya Ramakrishnan,"Sector 2, Karimnagar",Logistics; Search & Rescue,Available
+VOL-0513,Barkha Chadha,Bikaner Colony,Water & Sanitation; Food Distribution; Logistics,Unavailable
+VOL-0514,Vyanjana Chaudhuri,"Old Town, Keer Road",Logistics,Available
+VOL-0515,Champak Badami,Bhilwara Ward 9,Search & Rescue,Assigned
+VOL-0516,Yahvi Balay,"Old Town, Comar Marg",Logistics,Available
+VOL-0517,Jai Kapur,Rampur Ward 4,Logistics,Assigned
+VOL-0518,Amara Dora,"Dhanbad, near water tank",Search & Rescue; Food Distribution,Available
+VOL-0519,Hitesh Chaudry,"Sector 2, Guna",Shelter Setup; Food Distribution,Available
+VOL-0520,Samesh Pathak,"Old Town, Toor Chowk",Shelter Setup; Water & Sanitation,Available
+VOL-0521,Hardik Dube,Thanjavur School Camp,Food Distribution,Assigned
+VOL-0522,Reva Sagar,Sambalpur School Camp,Food Distribution; Logistics,Available
+VOL-0523,Yashasvi Garg,Shimoga Colony,Logistics,Available
+VOL-0524,Yatan Doshi,Ambattur Relief Center,Search & Rescue,Available
+VOL-0525,Nimrat Shanker,Ludhiana School Camp,Water & Sanitation,Assigned
+VOL-0526,Zansi Boase,"Sector 7, Sonipat",Water & Sanitation; Shelter Setup; Logistics,Unavailable
+VOL-0527,Radha Bhat,"Vadodara, near water tank",Food Distribution,Available
+VOL-0528,Oni Ratti,Satara Relief Center,Food Distribution,Available
+VOL-0529,Manan Raval,"Old Town, Sathe Circle",Logistics,Unavailable
+VOL-0530,Nidhi Hora,Guwahati Colony,Search & Rescue; Medical,Available
+VOL-0531,Madhavi Date,Kakinada Relief Center,Logistics; Shelter Setup,Available
+VOL-0532,Harini Dutta,Bhopal Ward 4,Shelter Setup; Food Distribution; Search & Rescue,Available
+VOL-0533,Daksha Sami,"Sector 10, Allahabad",Shelter Setup,Available
+VOL-0534,Jatin Batta,Sultan Pur Majra School Camp,Search & Rescue; Water & Sanitation,Available
+VOL-0535,Harinakshi Keer,"Etawah, near bus depot",Search & Rescue,Available
+VOL-0536,Krishna Venkatesh,Vasai-Virar Colony,Food Distribution; Search & Rescue,Available
+VOL-0537,Jalsa Sha,Siliguri Ward 1,Water & Sanitation; Logistics,Assigned
+VOL-0538,George Bhatia,"Old Town, Kala Chowk",Water & Sanitation; Shelter Setup,Available
+VOL-0539,Faras Pingle,Giridih Ward 4,Logistics,Available
+VOL-0540,Aishani Tara,Gandhidham School Camp,Food Distribution; Search & Rescue,Available
+VOL-0541,Maanas Tiwari,Shivpuri Colony,Food Distribution,Unavailable
+VOL-0542,Simon Shah,Patna Colony,Logistics; Food Distribution; Shelter Setup,Available
+VOL-0543,Nilima Choudhary,"Uluberia, near market",Food Distribution,Available
+VOL-0544,Michael Dalal,Farrukhabad Relief Center,Shelter Setup; Search & Rescue,Available
+VOL-0545,Vedika Bala,"Sector 4, Ajmer",Search & Rescue,Available
+VOL-0546,Dalaja Mander,South Dumdum School Camp,Food Distribution; Shelter Setup,Available
+VOL-0547,Ikshita Bir,Erode Ward 7,Shelter Setup,Unavailable
+VOL-0548,Geetika Purohit,"Medininagar, near primary school",Logistics; Search & Rescue,Unavailable
+VOL-0549,Shivani Sen,Anantapur School Camp,Food Distribution; Logistics,Assigned
+VOL-0550,Viraj Rana,Panvel Ward 8,Water & Sanitation,Available
+VOL-0551,Gaurang Gandhi,"Aurangabad, near market",Logistics,Assigned
+VOL-0552,Reyansh Bera,"Fatehpur, near bus depot",Food Distribution,Assigned
+VOL-0553,Pranit Bahl,Tiruppur Colony,Food Distribution; Shelter Setup,Available
+VOL-0554,Ekani Ratti,Pallavaram Ward 1,Logistics,Assigned
+VOL-0555,Pranit Sachdeva,"Sector 9, Dehri",Water & Sanitation,Available
+VOL-0556,Gavin Contractor,"Old Town, Mangal Street",Food Distribution; Shelter Setup,Available
+VOL-0557,Qadim Kumer,"Sector 8, Jamnagar",Food Distribution; Logistics,Available
+VOL-0558,Daniel Nanda,Indore Colony,Water & Sanitation,Available
+VOL-0559,Hardik Nagarajan,Haridwar Colony,Shelter Setup; Medical,Available
+VOL-0560,Jai Ben,Mathura Ward 4,Food Distribution; Water & Sanitation,Available
+VOL-0561,Yashoda Thaman,"Sector 3, Raipur",Food Distribution; Logistics,Available
+VOL-0562,Ucchal Ray,Karawal Nagar Ward 7,Logistics,Unavailable
+VOL-0563,Anirudh Luthra,Shahjahanpur Ward 1,Medical; Logistics,Assigned
+VOL-0564,Niharika Sehgal,Orai Ward 11,Search & Rescue; Logistics,Assigned
+VOL-0565,Om Korpal,Miryalaguda Relief Center,Water & Sanitation,Unavailable
+VOL-0566,Ucchal Mann,Mumbai Colony,Search & Rescue; Medical; Food Distribution,Available
+VOL-0567,Zashil Rai,"Rajpur Sonarpur, near community hall",Food Distribution; Logistics,Unavailable
+VOL-0568,Chakradev Edwin,Dewas Colony,Search & Rescue; Water & Sanitation,Available
+VOL-0569,Logan Mammen,Bhagalpur School Camp,Food Distribution,Available
+VOL-0570,Hema Lal,Darbhanga Relief Center,Shelter Setup,Unavailable
+VOL-0571,Shivansh Sharaf,Pune Ward 8,Logistics,Unavailable
+VOL-0572,Aayush Andra,"Old Town, Suresh Circle",Water & Sanitation; Shelter Setup; Food Distribution,Available
+VOL-0573,Finn Brahmbhatt,"Raiganj, near bridge",Logistics,Available
+VOL-0574,Ishita Ram,Bangalore Colony,Search & Rescue,Available
+VOL-0575,Reyansh Saxena,Korba Relief Center,Medical,Available
+VOL-0576,Rehaan Chana,Korba School Camp,Search & Rescue,Available
+VOL-0577,Balhaar Mand,"Old Town, Amble Ganj",Search & Rescue,Available
+VOL-0578,Meghana Choudhry,"Sector 2, Jehanabad",Food Distribution,Available
+VOL-0579,Rishi Gill,Giridih School Camp,Water & Sanitation,Available
+VOL-0580,Aashi Kari,Nellore School Camp,Search & Rescue; Water & Sanitation; Logistics,Available
+VOL-0581,Sudiksha Agate,"Faridabad, near market",Medical,Available
+VOL-0582,Anusha Dara,"Old Town, Varughese Path",Logistics; Food Distribution,Available
+VOL-0583,Udarsh Batta,Bidar School Camp,Search & Rescue; Logistics,Available
+VOL-0584,Abdul Ramanathan,"Sector 10, Thanjavur",Food Distribution,Assigned
+VOL-0585,Pallavi Borde,Thiruvananthapuram Ward 11,Shelter Setup,Assigned
+VOL-0586,Dev Chatterjee,"Sector 7, Nangloi Jat",Logistics; Shelter Setup,Unavailable
+VOL-0587,Zashil Kota,Bhalswa Jahangir Pur School Camp,Logistics,Available
+VOL-0588,Gauri Venkatesh,Srinagar School Camp,Water & Sanitation,Unavailable
+VOL-0589,Sanya Dash,"Sector 8, Ghaziabad",Food Distribution; Logistics; Shelter Setup,Available
+VOL-0590,Dhruv Datta,"Mango, near community hall",Logistics,Unavailable
+VOL-0591,Dominic Chaudry,"Karaikudi, near primary school",Shelter Setup,Available
+VOL-0592,Neelima Char,Muzaffarpur School Camp,Shelter Setup; Medical,Available
+VOL-0593,Leena Shetty,"Sector 1, Udupi",Food Distribution,Available
+VOL-0594,Atharv Setty,"Dharmavaram, near bridge",Food Distribution; Logistics,Available
+VOL-0595,Advik Bir,"Chapra, near primary school",Food Distribution; Logistics,Available
+VOL-0596,Isha Sama,"Udupi, near bus depot",Search & Rescue,Available
+VOL-0597,Laksh Basu,Warangal Relief Center,Logistics; Food Distribution,Available
+VOL-0598,Deepa Dhingra,Nandyal Ward 12,Food Distribution; Shelter Setup,Assigned
+VOL-0599,Jyoti Anand,"Howrah, near bridge",Water & Sanitation,Unavailable
+VOL-0600,Pahal Padmanabhan,"Old Town, Biswas Ganj",Food Distribution; Logistics,Unavailable
+VOL-0601,Ranbir Soni,"Ghaziabad, near market",Water & Sanitation,Assigned
+VOL-0602,Omya Narasimhan,"Old Town, Basak Chowk",Search & Rescue,Assigned
+VOL-0603,Theodore Aggarwal,Berhampur School Camp,Medical,Unavailable
+VOL-0604,Vasana Narula,"Sector 5, Tiruppur",Shelter Setup,Unavailable
+VOL-0605,Janani Anne,"Sector 8, Secunderabad",Shelter Setup,Assigned
+VOL-0606,Bina Sarraf,Bhimavaram Ward 6,Medical; Search & Rescue,Unavailable
+VOL-0607,Rushil Hora,"Sector 4, Akola",Shelter Setup; Food Distribution,Unavailable
+VOL-0608,Harinakshi Korpal,Thiruvananthapuram School Camp,Food Distribution; Shelter Setup; Logistics,Assigned
+VOL-0609,Harrison Bail,Nadiad Colony,Logistics,Available
+VOL-0610,Dalaja Shan,"Uluberia, near bridge",Shelter Setup; Food Distribution,Available
+VOL-0611,Dhruv Dani,"Old Town, Handa Ganj",Shelter Setup,Available
+VOL-0612,Kavya Nadkarni,Sambalpur School Camp,Food Distribution; Logistics,Available
+VOL-0613,Manthan Narang,"Meerut, near bus depot",Shelter Setup,Available
+VOL-0614,Shaurya Bumb,"Sector 3, Srikakulam",Food Distribution,Available
+VOL-0615,Yashodhara Prasad,Kadapa Ward 7,Logistics; Food Distribution,Available
+VOL-0616,Kashvi Vora,"Old Town, Loyal Chowk",Food Distribution; Water & Sanitation,Available
+VOL-0617,Balhaar Johal,"Sector 5, Panihati",Logistics; Medical,Assigned
+VOL-0618,Tejas Mohan,Burhanpur Colony,Shelter Setup,Available
+VOL-0619,Aachal Chad,Guwahati Colony,Shelter Setup,Unavailable
+VOL-0620,Victor Barman,"Anand, near community hall",Food Distribution; Logistics,Assigned
+VOL-0621,Shravya Sibal,Alappuzha Ward 6,Search & Rescue; Logistics,Available
+VOL-0622,Anjali Raja,Mangalore Colony,Water & Sanitation,Available
+VOL-0623,Faqid Parmer,Durg School Camp,Search & Rescue,Unavailable
+VOL-0624,Aradhana Kari,Kochi Ward 10,Search & Rescue,Available
+VOL-0625,Sai Nath,"Ozhukarai, near bridge",Shelter Setup,Unavailable
+VOL-0626,Rayaan Devi,Bangalore School Camp,Search & Rescue; Shelter Setup,Unavailable
+VOL-0627,Netra Ravi,Chittoor Ward 1,Search & Rescue,Available
+VOL-0628,Vedant Karan,"Bhalswa Jahangir Pur, near water tank",Medical,Assigned
+VOL-0629,Triya Oak,Satara Ward 2,Logistics; Food Distribution,Available
+VOL-0630,Shaurya Sarna,Proddatur School Camp,Water & Sanitation,Unavailable
+VOL-0631,Kabir Mody,Panchkula Relief Center,Water & Sanitation; Food Distribution; Logistics,Assigned
+VOL-0632,Oni Sandal,"Sector 1, Siwan",Food Distribution,Available
+VOL-0633,Azad Dewan,Bathinda Ward 5,Medical; Water & Sanitation,Unavailable
+VOL-0634,Samarth Raman,"Deoghar, near water tank",Medical; Food Distribution,Available
+VOL-0635,Ikbal Narasimhan,"Avadi, near bridge",Medical,Available
+VOL-0636,Peter Balay,"Sector 6, Indore",Shelter Setup,Unavailable
+VOL-0637,Libni Mander,"Sector 3, Muzaffarpur",Food Distribution,Available
+VOL-0638,Suhani Bhandari,Kadapa Relief Center,Search & Rescue,Available
+VOL-0639,Nirja Raman,"Bhubaneswar, near community hall",Water & Sanitation; Search & Rescue,Available
+VOL-0640,Vanya Biswas,"Sector 7, Tiruppur",Shelter Setup; Search & Rescue,Unavailable
+VOL-0641,Rachana Soman,"Mahbubnagar, near railway station",Food Distribution; Search & Rescue; Logistics,Available
+VOL-0642,Yadavi Shanker,"Sector 8, Panihati",Medical,Unavailable
+VOL-0643,Devansh Rastogi,Hajipur Relief Center,Food Distribution,Available
+VOL-0644,Turvi Baral,"Tumkur, near primary school",Search & Rescue; Food Distribution; Logistics,Assigned
+VOL-0645,Mahika Gill,"Kulti, near community hall",Shelter Setup; Water & Sanitation,Available
+VOL-0646,Leena Goswami,Singrauli Relief Center,Food Distribution,Unavailable
+VOL-0647,Anusha Yogi,Jabalpur School Camp,Search & Rescue; Shelter Setup,Available
+VOL-0648,Jairaj Pillay,Vasai-Virar School Camp,Logistics; Shelter Setup,Available
+VOL-0649,Shravya Gala,"Dhule, near water tank",Food Distribution; Search & Rescue; Logistics,Available
+VOL-0650,Avi Bora,"Eluru, near primary school",Logistics,Unavailable
+VOL-0651,Mekhala Barad,"Sector 11, Chandrapur",Logistics,Unavailable
+VOL-0652,Ucchal Sundaram,"Jabalpur, near primary school",Logistics,Assigned
+VOL-0653,Logan Sinha,Nanded Relief Center,Food Distribution,Assigned
+VOL-0654,Peter Menon,"Deoghar, near water tank",Logistics,Available
+VOL-0655,Advay Mahajan,"Gandhidham, near bridge",Logistics,Available
+VOL-0656,Bakhshi Walia,Mango School Camp,Food Distribution,Assigned
+VOL-0657,Madhavi Morar,Faridabad Ward 7,Shelter Setup; Logistics,Unavailable
+VOL-0658,Krishna Jaggi,Dindigul Ward 8,Water & Sanitation,Assigned
+VOL-0659,Amol Sama,"Kanpur, near community hall",Food Distribution; Logistics; Search & Rescue,Assigned
+VOL-0660,Thomas Char,Rourkela Ward 5,Food Distribution,Assigned
+VOL-0661,Eta Naidu,Dhule Colony,Water & Sanitation,Available
+VOL-0662,Jai Kata,"Aligarh, near bridge",Food Distribution; Water & Sanitation,Available
+VOL-0663,Alexander Ratti,Ahmedabad Ward 8,Food Distribution,Available
+VOL-0664,Thomas Bhatti,Arrah Ward 9,Logistics,Available
+VOL-0665,Nirja Mitra,Kota Relief Center,Logistics; Food Distribution,Available
+VOL-0666,Girish Nair,"Guntur, near bus depot",Water & Sanitation,Unavailable
+VOL-0667,Vasatika Bir,Surat Relief Center,Medical,Available
+VOL-0668,Yasti Kaul,Muzaffarpur Colony,Medical,Assigned
+VOL-0669,Warjas Sangha,"Old Town, Bhasin Zila",Shelter Setup; Logistics,Available
+VOL-0670,Kavya Tara,"Sector 8, Panihati",Food Distribution; Water & Sanitation; Shelter Setup,Available
+VOL-0671,Baljiwan Khanna,Ozhukarai School Camp,Water & Sanitation,Unavailable
+VOL-0672,Balveer Verma,"Old Town, Karnik Nagar",Shelter Setup; Water & Sanitation,Unavailable
+VOL-0673,Hema Kibe,Panvel Ward 6,Food Distribution,Unavailable
+VOL-0674,Lakshmi Verma,South Dumdum School Camp,Food Distribution; Water & Sanitation,Available
+VOL-0675,Vyanjana Boase,Faridabad School Camp,Logistics; Shelter Setup; Food Distribution,Available
+VOL-0676,Gavin Ghose,Noida Ward 4,Logistics; Water & Sanitation; Medical,Available
+VOL-0677,Unni Mukhopadhyay,"Sector 10, Davanagere",Food Distribution,Available
+VOL-0678,Yuvraj Mitter,Gangtok School Camp,Food Distribution,Unavailable
+VOL-0679,Vasana Buch,Sikar Colony,Logistics,Available
+VOL-0680,Ridhi Sami,Bhatpara School Camp,Water & Sanitation; Medical,Available
+VOL-0681,Prisha Chacko,"Sector 8, Hindupur",Water & Sanitation,Unavailable
+VOL-0682,Aarini Rai,"Old Town, Mander Chowk",Search & Rescue; Logistics; Shelter Setup,Available
+VOL-0683,Vasana Bora,Bhavnagar School Camp,Food Distribution,Available
+VOL-0684,Ranveer Agrawal,"Old Town, Swamy Path",Water & Sanitation,Assigned
+VOL-0685,Ojasvi Rana,"Yamunanagar, near primary school",Logistics,Available
+VOL-0686,Nilima Barad,Kharagpur Relief Center,Search & Rescue,Available
+VOL-0687,Rajata Kumer,"Danapur, near bridge",Logistics; Search & Rescue,Available
+VOL-0688,Lekha Samra,"Sector 3, Latur",Logistics; Search & Rescue,Available
+VOL-0689,Ayaan Divan,Mahbubnagar School Camp,Logistics,Assigned
+VOL-0690,Yug Edwin,"Old Town, Rajagopalan Zila",Logistics; Search & Rescue,Available
+VOL-0691,Faris Vasa,"Old Town, Sane Street",Shelter Setup; Search & Rescue,Unavailable
+VOL-0692,Chasmum Tella,"Old Town, Sabharwal Road",Medical,Available
+VOL-0693,Ikbal Padmanabhan,Agartala Relief Center,Shelter Setup,Unavailable
+VOL-0694,Abeer Ganguly,Mumbai Ward 7,Medical; Search & Rescue,Assigned
+VOL-0695,Omaja Mani,Tirunelveli Colony,Shelter Setup,Assigned
+VOL-0696,Krish Hora,South Dumdum Colony,Logistics; Water & Sanitation,Available
+VOL-0697,Simon Grewal,"Allahabad, near bus depot",Search & Rescue,Unavailable
+VOL-0698,Nilima Sastry,Rourkela Ward 4,Shelter Setup,Available
+VOL-0699,Krishna Dash,Rajkot Ward 9,Shelter Setup,Assigned
+VOL-0700,Vanya Sundaram,Bangalore Relief Center,Shelter Setup,Available
+VOL-0701,Benjamin Chatterjee,Nagaon Colony,Logistics,Available
+VOL-0702,Vedika Solanki,"Old Town, Nayar Marg",Logistics; Water & Sanitation,Available
+VOL-0703,Hemal Murty,Karimnagar Colony,Water & Sanitation,Available
+VOL-0704,Ishani Narayanan,"Sector 1, Delhi",Food Distribution,Assigned
+VOL-0705,Atharv Das,"Sector 12, Kulti",Logistics,Unavailable
+VOL-0706,Yutika Sachdev,"Delhi, near bus depot",Logistics,Unavailable
+VOL-0707,Chakradev Nanda,"Sector 8, Muzaffarpur",Logistics,Assigned
+VOL-0708,Finn Pall,"Old Town, Rajan Zila",Water & Sanitation; Logistics,Unavailable
+VOL-0709,Robert Dhar,"Sector 9, Warangal",Food Distribution,Available
+VOL-0710,Unni Ganguly,"Old Town, Zachariah Chowk",Food Distribution,Available
+VOL-0711,Yagnesh Kakar,Hubli–Dharwad Colony,Shelter Setup; Food Distribution,Available
+VOL-0712,Naveen Narain,Parbhani Colony,Water & Sanitation,Available
+VOL-0713,Jatin Deshpande,"Sector 1, Mysore",Logistics,Available
+VOL-0714,Hemal Purohit,Kishanganj School Camp,Water & Sanitation,Assigned
+VOL-0715,Aashi D’Alia,"Old Town, Chakraborty Zila",Food Distribution,Available
+VOL-0716,Raghav D’Alia,Warangal Colony,Logistics,Available
+VOL-0717,Deepa Bhatia,Munger Relief Center,Food Distribution,Unavailable
+VOL-0718,Jonathan Venkatesh,"Old Town, Andra Marg",Shelter Setup,Unavailable
+VOL-0719,Diya Dhillon,"Old Town, Shah Chowk",Logistics; Food Distribution,Assigned
+VOL-0720,Bhanumati Dhingra,Khora  Colony,Medical,Unavailable
+VOL-0721,Anusha Sridhar,"Old Town, Puri Road",Logistics; Food Distribution; Search & Rescue,Available
+VOL-0722,Gauri Dua,Kamarhati Colony,Water & Sanitation,Available
+VOL-0723,Manya Mistry,Lucknow Ward 9,Shelter Setup,Assigned
+VOL-0724,Pahal Solanki,"Sector 7, Katni",Water & Sanitation,Available
+VOL-0725,Barkha Hayer,Jalandhar School Camp,Water & Sanitation,Available
+VOL-0726,Daksha Shankar,"Gangtok, near primary school",Logistics,Available
+VOL-0727,Bishakha Dhillon,Bellary School Camp,Food Distribution,Available
+VOL-0728,Harsh Divan,Purnia Ward 2,Water & Sanitation,Available
+VOL-0729,Ishani Som,"Faridabad, near railway station",Food Distribution; Shelter Setup; Logistics,Available
+VOL-0730,Radha Dixit,Sambalpur Colony,Water & Sanitation,Unavailable
+VOL-0731,Mekhala Suresh,Kavali Relief Center,Logistics,Unavailable
+VOL-0732,Ubika Raja,"Raiganj, near primary school",Logistics,Assigned
+VOL-0733,Jackson Butala,Unnao Relief Center,Food Distribution,Available
+VOL-0734,Varsha Mahal,Guntakal Colony,Search & Rescue; Shelter Setup,Assigned
+VOL-0735,Radha Misra,"Old Town, Bhatt Path",Food Distribution,Unavailable
+VOL-0736,Nidra Bahri,"Sector 11, Miryalaguda",Food Distribution; Medical; Shelter Setup,Assigned
+VOL-0737,Devansh Venkataraman,Dhule Colony,Food Distribution,Unavailable
+VOL-0738,Abdul Sekhon,Bhilai Colony,Logistics,Assigned
+VOL-0739,Neel Chahal,Visakhapatnam Ward 3,Food Distribution; Water & Sanitation,Available
+VOL-0740,Januja Garg,"Old Town, Mital Ganj",Logistics,Unavailable
+VOL-0741,Zilmil Memon,"Sector 11, Kolhapur",Logistics; Medical,Available
+VOL-0742,Indira Yohannan,Navi Mumbai Relief Center,Logistics,Available
+VOL-0743,Raghav Dhar,Thrissur Colony,Search & Rescue; Water & Sanitation,Assigned
+VOL-0744,Arunima Dave,Aurangabad School Camp,Water & Sanitation,Available
+VOL-0745,Lakshmi Gade,Sirsa Ward 4,Search & Rescue; Water & Sanitation; Shelter Setup,Available
+VOL-0746,Luke Wason,Madurai Relief Center,Search & Rescue,Unavailable
+VOL-0747,Yasti Gade,"Sector 4, Jamnagar",Search & Rescue,Available
+VOL-0748,Atharv Kota,Gopalpur Relief Center,Shelter Setup,Unavailable
+VOL-0749,Niharika Bhatti,"Sector 10, Hubli–Dharwad",Shelter Setup; Medical,Assigned
+VOL-0750,Madhav Kara,Hyderabad Ward 1,Food Distribution,Unavailable
+VOL-0751,Kritika Cheema,"Old Town, Mohan Circle",Logistics,Available
+VOL-0752,Girish Wadhwa,"Old Town, Madan Road",Logistics; Food Distribution,Available
+VOL-0753,Chanakya Garde,Pali Ward 12,Shelter Setup; Water & Sanitation,Available
+VOL-0754,Vansha Datta,"Sector 5, Bangalore",Shelter Setup; Logistics; Food Distribution,Available
+VOL-0755,Luke Radhakrishnan,Meerut School Camp,Search & Rescue; Food Distribution,Available
+VOL-0756,Tanvi Goswami,Raichur School Camp,Water & Sanitation; Food Distribution,Available
+VOL-0757,Anya Sangha,Farrukhabad School Camp,Water & Sanitation; Shelter Setup; Logistics,Unavailable
+VOL-0758,Dhriti Chana,"Old Town, Chander Ganj",Search & Rescue; Logistics; Food Distribution,Available
+VOL-0759,Dakshesh Chad,"Begusarai, near bus depot",Logistics; Shelter Setup,Available
+VOL-0760,Yashoda Deshpande,"Old Town, Walia Circle",Water & Sanitation; Food Distribution; Logistics,Available
+VOL-0761,Nidra Atwal,"Old Town, Warrior Marg",Shelter Setup; Search & Rescue,Available
+VOL-0762,Yash Wable,"Sector 2, Medininagar",Medical; Search & Rescue,Available
+VOL-0763,Parth Borde,Guntur School Camp,Shelter Setup,Unavailable
+VOL-0764,Pahal Tandon,"Old Town, Chowdhury Path",Shelter Setup,Unavailable
+VOL-0765,Zaid Zacharia,Ramagundam Relief Center,Logistics,Available
+VOL-0766,Alka Kala,"Jehanabad, near bus depot",Logistics,Available
+VOL-0767,Yutika Banik,"Tadipatri, near bridge",Logistics; Food Distribution,Available
+VOL-0768,Abeer Sharma,"Bihar Sharif, near market",Shelter Setup,Assigned
+VOL-0769,Inaya Grewal,"Old Town, Chaudhuri Nagar",Logistics; Water & Sanitation,Unavailable
+VOL-0770,Vyanjana Hora,Dehri Relief Center,Shelter Setup; Food Distribution,Unavailable
+VOL-0771,Jatin Sura,Bhatpara Colony,Shelter Setup; Water & Sanitation,Unavailable
+VOL-0772,Megha Prasad,Bharatpur School Camp,Food Distribution; Shelter Setup,Available
+VOL-0773,Ikbal Sarna,"Sector 9, Nanded",Food Distribution,Available
+VOL-0774,Abdul Parmer,"Sector 3, Bhubaneswar",Search & Rescue; Medical,Assigned
+VOL-0775,Kiaan Rana,Bathinda School Camp,Search & Rescue; Food Distribution,Available
+VOL-0776,Varenya Lata,"Old Town, Tandon Chowk",Medical; Food Distribution,Unavailable
+VOL-0777,Ekta Ratta,"Sector 11, Mira-Bhayandar",Logistics,Unavailable
+VOL-0778,Jonathan Dugal,"Orai, near community hall",Logistics,Available
+VOL-0779,Hema Sanghvi,"Raebareli, near community hall",Food Distribution; Water & Sanitation,Assigned
+VOL-0780,Vedika Butala,Shahjahanpur Colony,Search & Rescue,Unavailable
+VOL-0781,Zaid Mand,"Firozabad, near railway station",Food Distribution,Available
+VOL-0782,Urvi Chauhan,Maheshtala Colony,Shelter Setup; Food Distribution; Logistics,Unavailable
+VOL-0783,Jai Deo,Agra Relief Center,Food Distribution; Water & Sanitation,Available
+VOL-0784,Pooja Badami,Mysore Colony,Shelter Setup; Food Distribution,Unavailable
+VOL-0785,Damini Kashyap,Naihati Ward 4,Search & Rescue; Logistics,Assigned
+VOL-0786,Yashvi Sane,Avadi Colony,Shelter Setup,Assigned
+VOL-0787,Avni Panchal,"Old Town, Batta Path",Water & Sanitation; Food Distribution,Available
+VOL-0788,Banjeet Acharya,"Sector 3, Pondicherry",Water & Sanitation,Available
+VOL-0789,Ati Chaudhuri,"Old Town, Swamy Road",Logistics; Water & Sanitation,Available
+VOL-0790,Gaurika Modi,Jalandhar Colony,Logistics,Assigned
+VOL-0791,Jalsa Pathak,"Old Town, Kade Road",Logistics,Available
+VOL-0792,Gagan Cherian,Madanapalle Relief Center,Search & Rescue; Logistics; Shelter Setup,Unavailable
+VOL-0793,Reyansh Sehgal,Aurangabad School Camp,Logistics; Water & Sanitation,Available
+VOL-0794,Urvi Jaggi,Varanasi School Camp,Logistics; Shelter Setup,Available
+VOL-0795,Zayyan Palan,Sultan Pur Majra Relief Center,Food Distribution,Unavailable
+VOL-0796,Vasudha Saini,"Sector 12, Rourkela",Shelter Setup,Available
+VOL-0797,Bimala Bath,Jhansi Ward 6,Water & Sanitation; Food Distribution,Available
+VOL-0798,Noah Sarma,Kishanganj Colony,Logistics; Search & Rescue,Unavailable
+VOL-0799,Samuel Gour,"Sector 7, Kozhikode",Medical; Shelter Setup; Logistics,Unavailable
+VOL-0800,Yochana Shah,Avadi School Camp,Food Distribution; Medical,Available
+VOL-0801,Jagat Garg,Ranchi Relief Center,Medical; Food Distribution; Water & Sanitation,Available
+VOL-0802,Balveer Divan,Guntur Ward 3,Medical,Available
+VOL-0803,Shivansh Warrior,"Sector 4, Mumbai",Shelter Setup,Available
+VOL-0804,Fiyaz Lalla,Alappuzha Relief Center,Search & Rescue,Assigned
+VOL-0805,Dakshesh Anne,"Sector 4, Muzaffarnagar",Shelter Setup,Available
+VOL-0806,Amol Yogi,Eluru Relief Center,Search & Rescue,Available
+VOL-0807,Thomas Nair,Kurnool Relief Center,Medical,Assigned
+VOL-0808,Sanaya Kata,Arrah School Camp,Food Distribution; Logistics,Unavailable
+VOL-0809,Warhi Golla,Udaipur Ward 8,Logistics; Food Distribution; Shelter Setup,Available
+VOL-0810,Pranit Manda,"Sector 3, Tirupati",Water & Sanitation; Logistics,Available
+VOL-0811,Raghav Boase,"Old Town, Korpal Marg",Shelter Setup,Assigned
+VOL-0812,Neha Chaudhry,"Old Town, Chaudhry",Food Distribution; Medical,Available
+VOL-0813,Leena Bail,Ahmedabad Ward 7,Shelter Setup; Water & Sanitation,Unavailable
+VOL-0814,Fiyaz Loyal,Ghaziabad Colony,Search & Rescue; Shelter Setup,Assigned
+VOL-0815,Hamsini Chada,Kolhapur Relief Center,Medical,Available
+VOL-0816,Damyanti Narula,"Old Town, Bhalla Ganj",Medical; Logistics,Unavailable
+VOL-0817,Jatin Bail,Kota School Camp,Food Distribution; Medical,Available
+VOL-0818,Yasti Sagar,Mumbai School Camp,Medical,Available
+VOL-0819,Prisha Rajan,Nagercoil School Camp,Search & Rescue; Logistics,Unavailable
+VOL-0820,Isaiah Swamy,"Bhubaneswar, near market",Search & Rescue,Available
+VOL-0821,Ishanvi Bose,Kochi Relief Center,Logistics; Food Distribution,Assigned
+VOL-0822,Matthew Gokhale,"Bettiah, near water tank",Medical,Assigned
+VOL-0823,Mason Mitra,Karnal Ward 2,Water & Sanitation; Shelter Setup,Unavailable
+VOL-0824,Jyoti Lanka,Delhi Colony,Shelter Setup,Assigned
+VOL-0825,Manbir Ramakrishnan,"Old Town, Chowdhury Zila",Shelter Setup; Water & Sanitation,Available
+VOL-0826,Arya Dhillon,North Dumdum Ward 3,Shelter Setup,Available
+VOL-0827,Ira Nagar,Khandwa Ward 11,Search & Rescue; Medical,Unavailable
+VOL-0828,Lakshit Korpal,"Gurgaon, near community hall",Medical,Unavailable
+VOL-0829,Victor Rajagopalan,"Old Town, Vyas Marg",Water & Sanitation; Food Distribution; Shelter Setup,Assigned
+VOL-0830,Gagan Keer,"Old Town, Badal Ganj",Water & Sanitation; Food Distribution,Available
+VOL-0831,Urvi Deol,"Old Town, Patel Path",Water & Sanitation; Logistics; Medical,Available
+VOL-0832,Chaitaly Sharma,"Suryapet, near bus depot",Logistics,Unavailable
+VOL-0833,Udarsh Bhalla,"Kochi, near primary school",Shelter Setup; Food Distribution; Logistics,Unavailable
+VOL-0834,Panini Prabhu,Aligarh School Camp,Shelter Setup; Food Distribution; Logistics,Unavailable
+VOL-0835,Nakul Balan,"Old Town, Brar Street",Logistics; Search & Rescue,Available
+VOL-0836,Faraj Arora,Jalgaon School Camp,Logistics; Water & Sanitation; Food Distribution,Available
+VOL-0837,Chandani Singhal,"Sector 11, Naihati",Search & Rescue; Food Distribution,Unavailable
+VOL-0838,Indrajit Dugal,"Old Town, Ghose",Medical,Available
+VOL-0839,Advay Randhawa,Malda Ward 5,Logistics,Unavailable
+VOL-0840,Utkarsh Sampath,Darbhanga Relief Center,Water & Sanitation,Assigned
+VOL-0841,Jeremiah Kakar,Tadipatri Colony,Food Distribution; Shelter Setup; Logistics,Available
+VOL-0842,Qarin Brahmbhatt,"Morena, near primary school",Food Distribution,Assigned
+VOL-0843,Nitesh Bhagat,Khandwa Ward 9,Food Distribution; Search & Rescue,Assigned
+VOL-0844,Hemang Brahmbhatt,"Old Town, Bala Path",Food Distribution; Logistics; Water & Sanitation,Available
+VOL-0845,Baghyawati Gaba,"Old Town, Apte Ganj",Shelter Setup; Search & Rescue; Food Distribution,Available
+VOL-0846,Raghav Jaggi,"New Delhi, near bus depot",Logistics; Water & Sanitation; Food Distribution,Unavailable
+VOL-0847,Veda Bath,"Old Town, More Zila",Medical,Available
+VOL-0848,Ishanvi Mandal,"Old Town, Murty Ganj",Logistics,Unavailable
+VOL-0849,Ishani Dayal,"Bathinda, near bridge",Shelter Setup; Logistics; Food Distribution,Available
+VOL-0850,Yadavi Doctor,"Old Town, Sood Marg",Logistics,Available
+VOL-0851,Bina Edwin,Madhyamgram School Camp,Search & Rescue; Logistics,Assigned
+VOL-0852,Tanveer Dhaliwal,Orai Relief Center,Logistics,Assigned
+VOL-0853,Sara Deep,Ramagundam Ward 7,Logistics,Assigned
+VOL-0854,Lila Khare,Phagwara Colony,Food Distribution,Available
+VOL-0855,Widisha Chatterjee,Asansol Ward 7,Water & Sanitation,Available
+VOL-0856,Girindra Sha,Gulbarga School Camp,Medical; Logistics,Unavailable
+VOL-0857,Ati Patla,Hubli–Dharwad Ward 12,Water & Sanitation,Assigned
+VOL-0858,Aarna Solanki,"Sector 6, Mango",Logistics; Medical,Unavailable
+VOL-0859,Balveer Patla,"Sector 12, Rewa",Shelter Setup,Assigned
+VOL-0860,Jeevika Vala,Dindigul Colony,Shelter Setup,Unavailable
+VOL-0861,Adya Basak,Sambalpur Colony,Food Distribution,Available
+VOL-0862,Henry Mannan,Kozhikode Relief Center,Water & Sanitation; Food Distribution,Assigned
+VOL-0863,Udant Rama,"Old Town, Shukla Path",Water & Sanitation; Food Distribution; Medical,Assigned
+VOL-0864,Udyati Chopra,Bokaro School Camp,Shelter Setup; Food Distribution,Available
+VOL-0865,Ryan Ratti,Amritsar Relief Center,Medical,Assigned
+VOL-0866,Simon Soni,Alwar Colony,Shelter Setup,Assigned
+VOL-0867,Upma Dhingra,"Old Town, Balay",Shelter Setup; Logistics,Available
+VOL-0868,David Pathak,"Sector 1, Bhalswa Jahangir Pur",Food Distribution; Logistics,Assigned
+VOL-0869,Arin Sampath,Nizamabad Ward 2,Food Distribution; Logistics,Unavailable
+VOL-0870,Ekapad Mahal,Jodhpur Colony,Search & Rescue,Assigned
+VOL-0871,Tanish Lad,Meerut Relief Center,Food Distribution,Available
+VOL-0872,Chameli Gala,"Old Town, Subramaniam Marg",Logistics,Unavailable
+VOL-0873,Naveen Sarkar,Aurangabad School Camp,Food Distribution; Shelter Setup,Unavailable
+VOL-0874,Faras Dhillon,Ratlam School Camp,Shelter Setup; Search & Rescue; Medical,Available
+VOL-0875,Manbir Tata,Raipur Ward 12,Medical,Unavailable
+VOL-0876,Shravya Dass,"Adoni, near market",Search & Rescue,Assigned
+VOL-0877,Raghav Salvi,Ghaziabad Ward 3,Medical,Available
+VOL-0878,Shaurya Halder,Uluberia Ward 2,Search & Rescue,Unavailable
+VOL-0879,Damyanti Thakkar,"Sector 11, Panchkula",Logistics,Assigned
+VOL-0880,Indira Pandey,"Old Town, Comar Path",Logistics; Water & Sanitation,Assigned
+VOL-0881,Tara Sangha,Belgaum School Camp,Logistics,Unavailable
+VOL-0882,Lakshmi Mane,"Anantapuram, near primary school",Water & Sanitation,Available
+VOL-0883,Hemang Chakraborty,Tadepalligudem School Camp,Search & Rescue,Assigned
+VOL-0884,Harish Sawhney,Ramagundam Relief Center,Medical,Available
+VOL-0885,Suhani Raj,Thiruvananthapuram Relief Center,Search & Rescue,Assigned
+VOL-0886,Ucchal Sachar,"Chennai, near water tank",Search & Rescue,Assigned
+VOL-0887,Amrita Lalla,"Old Town, Agrawal Ganj",Shelter Setup; Water & Sanitation,Available
+VOL-0888,Bachittar Aurora,"Sector 8, Jamnagar",Logistics,Available
+VOL-0889,Gautami Garde,New Delhi Ward 10,Shelter Setup,Unavailable
+VOL-0890,Maya Behl,Warangal Ward 3,Logistics; Search & Rescue,Available
+VOL-0891,Eesha Varughese,"Sector 12, Junagadh",Shelter Setup; Water & Sanitation,Assigned
+VOL-0892,Yamini Dani,Bhilwara Ward 9,Water & Sanitation; Shelter Setup,Unavailable
+VOL-0893,Samar Chander,Indore Relief Center,Search & Rescue,Available
+VOL-0894,Ayaan Brar,Nagpur Relief Center,Search & Rescue; Shelter Setup,Available
+VOL-0895,Rachit Khatri,"Bihar Sharif, near railway station",Water & Sanitation,Available
+VOL-0896,Kritika Lad,"Sector 10, Panipat",Food Distribution,Available
+VOL-0897,Harshil Choudhry,Kavali Colony,Food Distribution,Unavailable
+VOL-0898,Barkha Lala,Tiruchirappalli Colony,Logistics; Search & Rescue,Unavailable
+VOL-0899,Sarthak Raman,Pallavaram Ward 1,Shelter Setup,Available
+VOL-0900,Vidhi Bose,"Old Town, Murthy Marg",Search & Rescue,Available
+VOL-0901,Naveen Gole,Hyderabad Relief Center,Shelter Setup,Assigned
+VOL-0902,Hemal Palan,"Srikakulam, near railway station",Medical; Shelter Setup; Logistics,Available
+VOL-0903,Aachal Dara,"Old Town, Wason Nagar",Food Distribution; Search & Rescue,Assigned
+VOL-0904,Zarna Vala,Thrissur School Camp,Logistics,Unavailable
+VOL-0905,Ayushman Narang,"Muzaffarnagar, near primary school",Search & Rescue; Shelter Setup; Food Distribution,Available
+VOL-0906,Anusha Subramaniam,"Old Town, Menon Path",Water & Sanitation; Food Distribution,Available
+VOL-0907,Warhi Sarin,"Sector 4, Nellore",Medical; Search & Rescue,Unavailable
+VOL-0908,Avni Ramaswamy,"Ballia, near bridge",Food Distribution,Assigned
+VOL-0909,Samesh Sura,Amroha Relief Center,Search & Rescue; Food Distribution,Available
+VOL-0910,Hritik Rajagopal,Kollam Colony,Shelter Setup; Medical,Available
+VOL-0911,Devansh Sengupta,"Sector 2, Visakhapatnam",Water & Sanitation; Shelter Setup,Available
+VOL-0912,Chaaya Wali,"Old Town, Contractor Nagar",Food Distribution,Assigned
+VOL-0913,Ekantika Sanghvi,Secunderabad Ward 11,Logistics; Food Distribution,Available
+VOL-0914,Kamya Prabhu,Satara School Camp,Shelter Setup,Available
+VOL-0915,Advay Narasimhan,"Sector 11, Kirari Suleman Nagar",Logistics,Available
+VOL-0916,Dominic Rajan,Madanapalle Colony,Food Distribution; Water & Sanitation; Logistics,Available
+VOL-0917,Harshil Mall,Chapra Ward 3,Logistics,Available
+VOL-0918,Ekaja Hora,"Dhanbad, near primary school",Water & Sanitation,Available
+VOL-0919,Anvi Sama,"Old Town, Garg Chowk",Shelter Setup; Food Distribution,Available
+VOL-0920,Leela Khalsa,Anantapuram School Camp,Food Distribution,Available
+VOL-0921,Bhavani Deep,"Vadodara, near bridge",Water & Sanitation,Available
+VOL-0922,Geetika Babu,Nandyal Ward 2,Logistics,Unavailable
+VOL-0923,Anvi Nadig,"Silchar, near railway station",Search & Rescue,Unavailable
+VOL-0924,Champak Ramaswamy,"Old Town, Dara Chowk",Search & Rescue; Shelter Setup; Food Distribution,Available
+VOL-0925,Harshil Balakrishnan,"Nashik, near market",Search & Rescue,Unavailable
+VOL-0926,Ekantika Sarin,"Tirunelveli, near bridge",Search & Rescue; Logistics,Unavailable
+VOL-0927,Abdul Ben,"Old Town, Bava Zila",Water & Sanitation; Shelter Setup; Food Distribution,Unavailable
+VOL-0928,Falan Lalla,"Sector 3, Pudukkottai",Logistics,Assigned
+VOL-0929,Lakshit Sharma,"Old Town, Divan Path",Medical,Available
+VOL-0930,Sanya Das,"Sector 5, Gangtok",Medical,Available
+VOL-0931,Ekanta Subramanian,"Sector 7, Tiruchirappalli",Water & Sanitation; Logistics,Assigned
+VOL-0932,Ira Kibe,Solapur School Camp,Logistics,Available
+VOL-0933,Simon Arya,"Bhind, near water tank",Shelter Setup,Available
+VOL-0934,Henry Oak,Gudivada Ward 3,Shelter Setup,Available
+VOL-0935,Devika Setty,Dibrugarh Relief Center,Water & Sanitation,Assigned
+VOL-0936,Januja Rajan,"Udupi, near bridge",Logistics; Search & Rescue; Water & Sanitation,Available
+VOL-0937,Raghav Biswas,"Old Town, Mohanty Street",Food Distribution,Available
+VOL-0938,Manan Shenoy,"Old Town, Babu Ganj",Shelter Setup; Water & Sanitation; Food Distribution,Unavailable
+VOL-0939,Rachit Loke,Fatehpur Relief Center,Water & Sanitation,Assigned
+VOL-0940,Alka Dani,Raichur Ward 5,Medical; Food Distribution,Assigned
+VOL-0941,Mekhala Thakkar,Danapur Colony,Logistics,Available
+VOL-0942,Anjali Pingle,Dhanbad School Camp,Logistics; Search & Rescue,Unavailable
+VOL-0943,Chaitaly Gulati,"Sector 8, Belgaum",Food Distribution,Unavailable
+VOL-0944,Zilmil Sant,"Sector 12, Dhanbad",Logistics,Available
+VOL-0945,Ishwar Bera,Ramgarh Colony,Logistics,Unavailable
+VOL-0946,Harrison Majumdar,Udupi School Camp,Water & Sanitation; Shelter Setup; Logistics,Available
+VOL-0947,Harrison Kannan,"Sector 5, Shimla",Water & Sanitation,Available
+VOL-0948,Idika Mani,"Sector 12, Delhi",Medical; Shelter Setup; Logistics,Available
+VOL-0949,Dalaja Khare,"Old Town, Ganesan Zila",Shelter Setup,Available
+VOL-0950,Gaurangi Shah,Ahmedabad Relief Center,Food Distribution,Available
+VOL-0951,Ansh Goel,"Solapur, near community hall",Shelter Setup,Available
+VOL-0952,Urvi Agarwal,Shahjahanpur School Camp,Search & Rescue,Assigned
+VOL-0953,Anay Mannan,"Sector 6, Loni",Food Distribution,Assigned
+VOL-0954,Girindra Chaudhry,Thanjavur Colony,Food Distribution,Available
+VOL-0955,Aarini Sur,Bharatpur School Camp,Medical,Available
+VOL-0956,Charvi Nath,Gorakhpur School Camp,Water & Sanitation; Logistics; Shelter Setup,Available
+VOL-0957,Manbir Roy,Ajmer Ward 9,Water & Sanitation,Available
+VOL-0958,Yash Sankar,Tiruppur Relief Center,Logistics; Water & Sanitation; Search & Rescue,Unavailable
+VOL-0959,Hritik Mahal,Hajipur Relief Center,Water & Sanitation,Unavailable
+VOL-0960,Garima Raman,"Old Town, Halder Road",Shelter Setup,Available
+VOL-0961,Zinal Oza,"Old Town, Palan Chowk",Search & Rescue; Medical,Available
+VOL-0962,Imaran Anand,"Siliguri, near bridge",Water & Sanitation; Logistics,Unavailable
+VOL-0963,Nicholas Mitter,"Sector 7, Tumkur",Shelter Setup,Unavailable
+VOL-0964,Sudiksha Baria,"Old Town, Dasgupta",Logistics; Shelter Setup; Medical,Available
+VOL-0965,Vrinda Mohan,Chinsurah Ward 4,Logistics,Available
+VOL-0966,Zayan Devi,"Sector 10, Anantapuram",Shelter Setup; Food Distribution,Available
+VOL-0967,Anika Dhar,Bhiwani School Camp,Logistics; Search & Rescue,Available
+VOL-0968,Theodore Balay,Raichur Colony,Shelter Setup,Available
+VOL-0969,Mohini Chaudhari,Barasat Ward 11,Logistics,Available
+VOL-0970,Rajata Naidu,"Old Town, Deshmukh Road",Water & Sanitation; Food Distribution,Assigned
+VOL-0971,Ryan Mitra,"Old Town, Shenoy Road",Water & Sanitation,Unavailable
+VOL-0972,Keya Sarkar,"Sector 2, Durgapur",Search & Rescue; Shelter Setup,Available
+VOL-0973,Yahvi Parmar,"Old Town, Shukla Marg",Water & Sanitation; Shelter Setup; Medical,Assigned
+VOL-0974,Nirja Shenoy,Karaikudi Relief Center,Logistics; Shelter Setup,Available
+VOL-0975,Logan Mittal,Amaravati Relief Center,Water & Sanitation,Available
+VOL-0976,Chaaya Bera,Cuttack Relief Center,Logistics; Medical,Assigned
+VOL-0977,Zarna Sharma,"Old Town, Madan Nagar",Logistics,Available
+VOL-0978,Gauri Chatterjee,Buxar Colony,Shelter Setup,Available
+VOL-0979,Jairaj Vaidya,Kurnool School Camp,Shelter Setup,Available
+VOL-0980,Laban Kapoor,"Old Town, Ahuja Road",Logistics; Search & Rescue,Unavailable
+VOL-0981,Sai Contractor,"Old Town, Dara Street",Water & Sanitation,Available
+VOL-0982,Yug Jayaraman,Bhalswa Jahangir Pur Colony,Food Distribution; Medical,Unavailable
+VOL-0983,Mahika Bhakta,"Sector 5, Dewas",Food Distribution; Shelter Setup,Available
+VOL-0984,Wahab Lad,Tadepalligudem School Camp,Shelter Setup,Available
+VOL-0985,Anthony Goyal,New Delhi Colony,Water & Sanitation; Logistics,Available
+VOL-0986,Vamakshi Srinivasan,"Old Town, Tailor Zila",Food Distribution; Logistics,Assigned
+VOL-0987,Anvi Raman,Aligarh School Camp,Logistics; Water & Sanitation,Assigned
+VOL-0988,Manbir Bala,Berhampore Ward 12,Shelter Setup,Available
+VOL-0989,Chavvi Bandi,Kalyan-Dombivli Ward 9,Food Distribution; Shelter Setup; Logistics,Available
+VOL-0990,Tara Malhotra,Kozhikode Relief Center,Logistics,Assigned
+VOL-0991,Ikshita Vohra,"Old Town, Ghosh Zila",Water & Sanitation,Available
+VOL-0992,Indira Nori,Kolhapur Ward 5,Shelter Setup,Unavailable
+VOL-0993,Ekansh Sule,"Sector 7, Chittoor",Water & Sanitation,Available
+VOL-0994,Kai Naik,"Old Town, Raval",Food Distribution; Logistics; Medical,Available
+VOL-0995,Chakradev Balan,Ahmednagar Relief Center,Water & Sanitation,Available
+VOL-0996,Vamakshi Naik,"Patiala, near primary school",Logistics; Search & Rescue; Medical,Available
+VOL-0997,Osha Bhatt,"Sector 4, Pudukkottai",Medical; Search & Rescue,Unavailable
+VOL-0998,Elijah Sathe,Medininagar Ward 4,Food Distribution,Available
+VOL-0999,Hritik Sengupta,Guntur Ward 6,Food Distribution; Shelter Setup; Water & Sanitation,Unavailable
+VOL-1000,Zayyan Swaminathan,Baranagar School Camp,Shelter Setup; Food Distribution,Unavailable
