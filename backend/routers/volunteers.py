@@ -1,9 +1,3 @@
-"""
-routers/volunteers.py
-CRUD endpoints for volunteers. "availability" here matches the frontend's
-field name; it's stored in the DB as "is_available".
-"""
-
 from typing import List
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
@@ -23,7 +17,7 @@ def create_volunteer(payload: VolunteerCreate, db: Session = Depends(get_db)):
         location=payload.location,
         latitude=payload.latitude,
         longitude=payload.longitude,
-        is_available=payload.availability,
+        availability=payload.availability,
     )
     db.add(volunteer)
     db.commit()
@@ -35,9 +29,8 @@ def create_volunteer(payload: VolunteerCreate, db: Session = Depends(get_db)):
 def list_volunteers(available_only: bool = False, db: Session = Depends(get_db)):
     query = db.query(Volunteer)
     if available_only:
-        query = query.filter(Volunteer.is_available == True)  # noqa: E712
-    volunteers = query.order_by(Volunteer.id).all()
-    return [VolunteerOut.from_orm_obj(v) for v in volunteers]
+        query = query.filter(Volunteer.availability == "Available")
+    return [VolunteerOut.from_orm_obj(v) for v in query.order_by(Volunteer.id).all()]
 
 
 @router.get("/{volunteer_id}", response_model=VolunteerOut)
@@ -54,18 +47,12 @@ def update_volunteer(volunteer_id: int, payload: VolunteerUpdate, db: Session = 
     if not volunteer:
         raise HTTPException(status_code=404, detail="Volunteer not found")
 
-    if payload.name is not None:
-        volunteer.name = payload.name
-    if payload.skills is not None:
-        volunteer.skills = ",".join(payload.skills)
-    if payload.location is not None:
-        volunteer.location = payload.location
-    if payload.latitude is not None:
-        volunteer.latitude = payload.latitude
-    if payload.longitude is not None:
-        volunteer.longitude = payload.longitude
-    if payload.availability is not None:
-        volunteer.is_available = payload.availability
+    if payload.name is not None: volunteer.name = payload.name
+    if payload.skills is not None: volunteer.skills = ",".join(payload.skills)
+    if payload.location is not None: volunteer.location = payload.location
+    if payload.latitude is not None: volunteer.latitude = payload.latitude
+    if payload.longitude is not None: volunteer.longitude = payload.longitude
+    if payload.availability is not None: volunteer.availability = payload.availability
 
     db.commit()
     db.refresh(volunteer)

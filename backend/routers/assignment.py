@@ -30,6 +30,9 @@ from schemas.schemas import AssignmentEntry, AssignmentResponse, ComparisonBlock
 from ai_module.fit_score import calculate_fit_score
 from ai_module.urgency_model import predict_urgency
 
+from quantum_module.quantum_solver import quantum_assignment
+from quantum_module.classical_solver import classical_assignment
+
 router = APIRouter(tags=["Assignment"])
 
 
@@ -37,11 +40,17 @@ router = APIRouter(tags=["Assignment"])
 # PLACEHOLDER 1 - AI urgency scoring (Member 3 will replace this)
 # ==============================================================================
 
+from datetime import datetime
+
 def ai_urgency_score(task: Task) -> float:
+    if task.disaster_datetime:
+        hours = max((datetime.utcnow() - task.disaster_datetime).total_seconds() / 3600, 0)
+    else:
+        hours = 0
     task_dict = {
         "severity": task.severity,
-        "population_affected": task.people_affected,
-        "hours_since_reported": task.reported_minutes_ago / 60,
+        "population_affected": task.population_affected,
+        "hours_since_reported": hours,
     }
     return predict_urgency(task_dict)
 
@@ -52,20 +61,29 @@ def ai_urgency_score(task: Task) -> float:
 
 def compute_fit_score(volunteer: Volunteer, task: Task, urgency_score: float) -> float:
     volunteer_skills = [s.strip() for s in volunteer.skills.split(",") if s.strip()]
-    matching_skill = task.task_type if task.task_type in volunteer_skills else (
-        volunteer_skills[0] if volunteer_skills else ""
-    )
+    required_skills = [s.strip() for s in (task.required_skills or "").split(",") if s.strip()]
+
+    if not required_skills:
+        chosen_skill = volunteer_skills[0] if volunteer_skills else "any"
+        required_skill_for_calc = chosen_skill  # no requirement -> force full skill match
+    else:
+        overlap = [s for s in volunteer_skills if s in required_skills]
+        if overlap:
+            chosen_skill = required_skill_for_calc = overlap[0]
+        else:
+            chosen_skill = volunteer_skills[0] if volunteer_skills else ""
+            required_skill_for_calc = required_skills[0]
 
     volunteer_dict = {
         "id": volunteer.id,
-        "skill": matching_skill,
+        "skill": chosen_skill,
         "latitude": volunteer.latitude or 0.0,
         "longitude": volunteer.longitude or 0.0,
-        "available": volunteer.is_available,
+        "available": volunteer.availability == "Available",
     }
     task_dict = {
         "task_id": task.id,
-        "required_skill": task.task_type,
+        "required_skill": required_skill_for_calc,
         "latitude": task.latitude or 0.0,
         "longitude": task.longitude or 0.0,
         "urgency_score": urgency_score,
@@ -76,41 +94,35 @@ def compute_fit_score(volunteer: Volunteer, task: Task, urgency_score: float) ->
 # ==============================================================================
 # PLACEHOLDER 3 - Quantum optimizer (Member 4 will replace this)
 # ==============================================================================
-def quantum_optimize(
-    fit_matrix: Dict[Tuple[int, int], float],
-    task_ids: List[int],
-    volunteer_ids: List[int],
-) -> Tuple[List[Tuple[int, int, float]], dict]:
-    sorted_pairs = sorted(fit_matrix.items(), key=lambda kv: kv[1], reverse=True)
-    used_tasks, used_volunteers = set(), set()
-    assignments: List[Tuple[int, int, float]] = []
-    for (task_id, volunteer_id), score in sorted_pairs:
-        if task_id in used_tasks or volunteer_id in used_volunteers:
-            continue
-        assignments.append((task_id, volunteer_id, score))
-        used_tasks.add(task_id)
-        used_volunteers.add(volunteer_id)
-    return assignments, {"note": "PLACEHOLDER greedy solver standing in for QAOA"}
+
+def _build_index_matrix(fit_matrix, task_ids, volunteer_ids):
+    matrix = [
+        [fit_matrix[(task_id, volunteer_id)] for task_id in task_ids]
+        for volunteer_id in volunteer_ids
+    ]
+    return matrix
 
 
-# ==============================================================================
-# PLACEHOLDER 4 - Classical baseline optimizer (Member 4 will replace this)
-# ==============================================================================
-def classical_optimize(
-    fit_matrix: Dict[Tuple[int, int], float],
-    task_ids: List[int],
-    volunteer_ids: List[int],
-) -> Tuple[List[Tuple[int, int, float]], dict]:
-    sorted_pairs = sorted(fit_matrix.items(), key=lambda kv: kv[1], reverse=True)
-    used_tasks, used_volunteers = set(), set()
-    assignments: List[Tuple[int, int, float]] = []
-    for (task_id, volunteer_id), score in sorted_pairs:
-        if task_id in used_tasks or volunteer_id in used_volunteers:
-            continue
-        assignments.append((task_id, volunteer_id, score))
-        used_tasks.add(task_id)
-        used_volunteers.add(volunteer_id)
-    return assignments, {"note": "PLACEHOLDER greedy solver standing in for Hungarian algorithm"}
+def quantum_optimize(fit_matrix, task_ids, volunteer_ids):
+    matrix = _build_index_matrix(fit_matrix, task_ids, volunteer_ids)
+    result = quantum_assignment(matrix)
+    assignments = [
+        (task_ids[a["task"]], volunteer_ids[a["volunteer"]], a["fit_score"])
+        for a in result["assignments"]
+    ]
+    metadata = {"objective_value": result.get("objective_value"), "solve_time_s": result["solve_time"]}
+    return assignments, metadata
+
+
+def classical_optimize(fit_matrix, task_ids, volunteer_ids):
+    matrix = _build_index_matrix(fit_matrix, task_ids, volunteer_ids)
+    result = classical_assignment(matrix)
+    assignments = [
+        (task_ids[a["task"]], volunteer_ids[a["volunteer"]], a["fit_score"])
+        for a in result["assignments"]
+    ]
+    metadata = {"solve_time_s": result["solve_time"]}
+    return assignments, metadata
 
 
 # ==============================================================================
@@ -118,8 +130,8 @@ def classical_optimize(
 # ==============================================================================
 @router.post("/assignments/generate", response_model=AssignmentResponse)
 def generate_assignment(db: Session = Depends(get_db)):
-    tasks: List[Task] = db.query(Task).filter(Task.is_resolved == False).all()  # noqa: E712
-    volunteers: List[Volunteer] = db.query(Volunteer).filter(Volunteer.is_available == True).all()  # noqa: E712
+    tasks: List[Task] = db.query(Task).filter(Task.status != "Completed").all()
+    volunteers: List[Volunteer] = db.query(Volunteer).filter(Volunteer.availability == "Available").all()
 
     if not tasks:
         raise HTTPException(status_code=400, detail="No unresolved tasks to assign.")
